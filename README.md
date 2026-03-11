@@ -1,166 +1,228 @@
-# Secret Actions
+# Secret Actions for Shortcuts
 
-__Collection of hidden actions in Shortcuts app on iOS and macOS__
+Collection of hidden actions in Shortcuts app on iOS and macOS
 
 <br>
 
 __Usage__
-1. Click the action's title to install a shortcut that contains this action
-2. Open the shortcut in Shortcuts app
+1. Click the action's title to install a shortcut that contains only this action
+2. Open the shortcut
 3. Copy the action
 4. Paste it into your own shortcut
 
 <br>
-<br>
 
-|[Lock App](https://www.icloud.com/shortcuts/7fa46ae5058c4d069928c7e06596b3b3)|
-|:-|
-|<sup>Changes whether the selected application is locked. Locked apps require authentication to access.</sup>|
+### Safari
 
-|[Auto-Brightness](https://www.icloud.com/shortcuts/ddfad28314f94a82b2e1892cff4b850a)|
-|:-|
-|<sup>[iOS]<br>Change the [Auto-Brightness] value of [Auto-Brightness]<br>__Result__<br>Auto-Brightness</sup>|
-
-|[Bold Text](https://www.icloud.com/shortcuts/330ff67345174608a18fbc69ba892946)|
-|:-|
-|<sup>[iOS]<br>Change the [Bold Text] value of [Bold Text]<br>__Result__<br>Bold Text</sup>|
-
-|[On/Off Labels](https://www.icloud.com/shortcuts/15512c8a388e47e4a64455ad00acf0d2)|
-|:-|
-|<sup>[iOS]<br>Change the [On/Off Labels] value of [On/Off Labels]<br>__Result__<br>On/Off Labels</sup>|
-
-|[Differentiate Without Color](https://www.icloud.com/shortcuts/cef71c39671b4933b30c1fcea5d050bb)|
-|:-|
-|<sup>[iOS]<br>Change the [Differentiate Without Color] value of [Differentiate Without Color]<br>__Result__<br>Differentiate Without Color</sup>|
-
-|[Show Borders](https://www.icloud.com/shortcuts/7b8b7680c8fc4ed8a669da16b6573297)|
-|:-|
-|<sup>[iOS]<br>Change the [Show Borders] value of [Show Borders]<br>__Result__<br>Show Borders</sup>|
-
-|[Unknown User Activity](https://www.icloud.com/shortcuts/8864bb8f35f2446ebb29632d646aa440)|
-|:-|
-|<sup>_No description available._</sup>|
-
-|[Details of Appearance](https://www.icloud.com/shortcuts/030b404906764c5b9eba2e356dff57b7)|
-|:-|
-|<sup>Gets a specific piece of information from the appearances passed into the action.<br>__Result__<br>(Booleans, Appearances, Text) The piece of information</sup>|
-
-|[Details of Shortcut](https://www.icloud.com/shortcuts/257b8ad2b05c43dd987661f335f11fef)|
-|:-|
-|<sup>Gets a specific piece of information from the shortcuts passed into the action.<br>__Result__<br>(Text, Images, Numbers, File sizes, Dates) The piece of information</sup>|
-
-|[Details of Shazam](https://www.icloud.com/shortcuts/5b2a0e5a20b84c53bb5f4f388abb31d9)|
-|:-|
-|<sup>Gets a specific piece of information from the Shazam media passed into the action.<br>__Result__<br>(Text, Booleans, Images, URLs) The piece of information</sup>|
-
-|[Details of Ride Status](https://www.icloud.com/shortcuts/6b146ee85c354aa7a52f83f5522dfe62)|
-|:-|
-|<sup>Gets a specific piece of information from the ride statuses passed into the action.<br>__Result__<br>(Text, Dates, Locations, Currency Amounts, Contacts) The piece of information</sup>|
-
-|[Find Bookmarks](https://www.icloud.com/shortcuts/8c09593849c242c5bdb2b7395728ac2f)|
-|:-|
-|<sup>[macOS – copy of the stock iOS action]<br>__Sort by__<br>Optionally, what to sort the bookmark by.<br>__Order__<br>The order to sort the bookmark in.<br>__Limit__<br>Whether or not to limit the number of bookmark retrieved.<br>__Result__<br>(Bookmark) The bookmark that match the criteria.</sup>|
-
-|[Open Bookmark](https://www.icloud.com/shortcuts/8f0c9870f4c54a23b4829b5619df965a)|
-|:-|
-|<sup>[macOS - copy of the stock iOS action]<br>Opens the selected Bookmark.</sup>|
-
-|[Watch Me Do](https://www.icloud.com/shortcuts/900d98a6564a45a894a5d0ad700bcdb7)|
-|:-|
-|<sup>[macOS]<br>Records and plays back mouse and keyboard events.<br>__Playback Speed__<br>Allows you to choose the playback speed of the action.</sup>|
-
-|[Upload to Imgur](https://www.icloud.com/shortcuts/be15bed49b5c4b9393548d7d8fa38168)|
-|:-|
-|<sup>Uploads the input to Imgur.<br>__Direct Link__<br>If enabled, the action will return a link to the image, and not its Imgur page.<br>__Create Album__<br>If enabled, the input images will be grouped into an album. Otherwise, the individual links will be returned.<br>__Result__<br>URLS<br>__Note__<br>Powered by Imgur (imgur.com)<br>__Requires__<br>Access to your Imgur account</sup>|
-
-|[Post to WordPress](https://www.icloud.com/shortcuts/4fcf8fafba874096b36b888d8e3a9097)|
-|:-|
-|<sup>Posts the input to a WordPress blog as a new post or page.<br>__Result__<br>(URL) The URL of the new blog post<br>__Requires__<br>Access to your WordPress account</sup>|
-
-|[Post to Tumblr](https://www.icloud.com/shortcuts/b61947a637a94192b120158a695f20d2)|
-|:-|
-|<sup>Posts the content passed into the action to Tumblr.<br>__Blog__<br>The name of the blog to post to.<br>__Result__<br>(URL) The URL of the new post<br>__Requires__<br>Access to your Tumblr account</sup>|
-
-|[Add to Pinboard](https://www.icloud.com/shortcuts/018a1ed6474448f1a40ad90795952804)|
-|:-|
-|<sup>Adds the URL passed into the action to your Pinboard. This action won't be supported in future versions of Shortcuts.<br>__Result__<br>(URL) The input<br>__Requires__<br>Access to your Pinboard account</sup>|
-
-|[Get Pinboard Bookmarks](https://www.icloud.com/shortcuts/c77470ba888c4f11bb90369b7d94663b)|
-|:-|
-|<sup>Gets bookmarks in your Pinboard account. This action won't be supported in future versions of Shortcuts.<br>__Tags__<br>If specified, only items matching all of these tags will be returned. Supports a maximum of three tags.<br>__Result__<br>URLS<br>__Requires__<br>Access to your Pinboard account</sup>|
-
-|[Add to Instapaper](https://www.icloud.com/shortcuts/2ecf5a8626ac49e49b4b498e808876d7)|
-|:-|
-|<sup>Adds the input to Instapaper.<br>__Folder__<br>This action will save your input to the specified folder. Leaving this empty will save the input to Instapaper's Home folder.<br>__Result__<br>(URLs) The input<br>__Requires__<br>Access to your Instapaper account</sup>|
-
-|[Get Instapaper Bookmarks](https://www.icloud.com/shortcuts/d8a157a231bb424ba5c5cd3ca27b5e7e)|
-|:-|
-|<sup>Gets the contents of a folder in Instapaper. Requires Instapaper Premium.<br>__Folder__<br>The folder to get bookmarks from. Leaving this empty will get items from Instapaper's Home folder.<br>__Result__<br>URLS<br>__Requires__<br>Access to your Instapaper account</sup>|
-
-|[Details of Ulysses Sheets](https://www.icloud.com/shortcuts/9439a7ea647f4722be35e9e7bd0d0127)|
-|:-|
-|<sup>Gets a specific piece of information from the Ulysses sheets passed into the action.<br>__Result__<br>(Text) The piece of information</sup>|
-
-|[Get Trello Items](https://www.icloud.com/shortcuts/148e175f037e4b76acfa950bde66903e)|
-|:-|
-|<sup>Gets cards, lists, or boards in your Trello account.<br>__Result__<br>Trello boards, Trello lists, Trello cards<br>__Requires__<br>Access to your Trello account</sup>|
-
-|[Create Trello List](https://www.icloud.com/shortcuts/65d5fb64908147a2ac002d8e8beca3e0)|
-|:-|
-|<sup>Creates a new list on the specified board in your Trello account.<br>__Result__<br>Trello list<br>__Requires__<br>Access to your Trello account</sup>|
-
-|[Add Trello Card](https://www.icloud.com/shortcuts/d8205ddc482d42759dcb663204e4f9fd)|
-|:-|
-|<sup>Creates a new card on the specified list and board in your Trello account.<br>__Attachments__<br>A list of items to be attached to the new card as files.<br>__Result__<br>Trello card<br>__Requires__<br>Access to your Trello account</sup>|
-
-|[Create Trello Board](https://www.icloud.com/shortcuts/e753f0faa107486986b7ea770c2da88a)|
-|:-|
-|<sup>Creates a new board in your Trello account.<br>__Result__<br>Trello board<br>__Requires__<br>Access to your Trello account</sup>|
-
-|[Details of Trello Item](https://www.icloud.com/shortcuts/8ece4e9eec744ad78be2bc5ed6a061af)|
-|:-|
-|<sup>Gets a specific piece of information from the Trello items passed into the action.<br>__Result__<br>(Text, URLs, Dates, Files) The piece of information<br>__Requires__<br>Access to your Trello account</sup>|
-
-|[Create New Evernote](https://www.icloud.com/shortcuts/4ec96eaf045c40ea82a8921f810fb0f5)|
-|:-|
-|<sup>Saves the input as a note in Evernote.<br>__Result__<br>Evernote note<br>__Requires__<br>Access to your Evernote account</sup>|
-
-|[Get Evernote Link I](https://www.icloud.com/shortcuts/59695f6a79a847af9b7496c0c9de3705)|
-|:-|
-|<sup>Gets a link to the Evernote note passed into the action, which can be shared.<br>__In-App Link__<br>When enabled, an evernote:// URL will be generated, suitable for opening the note in the Evernote app.<br>__Result__<br>URLS<br>__Requires__<br>Access to your Evernote account</sup>|
-
-|[Get Evernote Link II](https://www.icloud.com/shortcuts/a1600aee78f54862b59881846643cc16)|
-|:-|
-|<sup>Gets a link to the Evernote note passed into the action, which can be shared.<br>__In-App Link__<br>When enabled, an evernote:// URL will be generated, suitable for opening the note in the Evernote app.<br>__Result__<br>URLS<br>__Requires__<br>Access to your Evernote account</sup>|
-
-|[Delete Evernote Items](https://www.icloud.com/shortcuts/88344a874c9d4e29bc5643eaca05e781)|
-|:-|
-|<sup>Deletes the notes passed as input from Evernote.<br>__Requires__<br>Access to your Evernote account</sup>|
-
-|[Append to Evernote](https://www.icloud.com/shortcuts/be1bf22e2b4a4a998b96bd881aec477b)|
-|:-|
-|<sup>Finds a note using the specified criteria and appends the input to the note.<br>__Note Title__<br>The title (or part of the title) of the note to append to<br>__Result__<br>Evernote note<br>__Requires__<br>Access to your Evernote account</sup>|
+[Clear History](https://www.icloud.com/shortcuts/3bff1910f3b34daf90fda20d6913e10e) <sub><sup>__iOS__<sup></sub><p>Clears history, related cookies and other website data in Safari<p><sup>__Parameters__<br>Last Hour • Today • Today and Yesterday • All History</sup><br><sub>_No output_</sub>
 
 <br>
 
-### How to find hidden Shortcuts actions
-###
-1. Copy for example the hidden action in the following shortcut to the clipboard: https://www.reddit.com/r/ios/comments/1h8akxn/comment/m0sgf4d/
+[Find Bookmarks](https://www.icloud.com/shortcuts/f1bac8b295be482bbca14f6be591ff84) <sub><sup>__macOS__<sup></sub><br><sub>_Copy of the stock iOS action_</sub><p>Find Safari bookmark<p><sup>__Options__<br>Add Filter • Sort by • Limit</sup><br><sub>__Output__<br>Matching bookmark items</sub>
 
-3. Convert the action in the clipboard to source with this shortcut: https://www.icloud.com/shortcuts/65d36be39c5a49cc8121e4ea652b606e
-
-3. Open a text editor and paste the converted source code
-
-4. Replace `AutoBrightness` with e.g. `BoldText` in the value for `WFWorkflowActionIdentifier`
-
-5. Copy the edited source code to the clipboard
-
-6. Convert the clipboard content to a pasteable action with the following shortcut (requires Actions app): https://www.icloud.com/shortcuts/49dfc2487764413a88c1329703dd76d1
-
-7. Paste the action into a shortcut
-###
-You've now reconstructed the unofficial _Toggle Bold Text_ action
-<br>
-<br>
 <br>
 
+[Open Bookmark](https://www.icloud.com/shortcuts/656c86427f9d435fb416bd287f207c4b) <sub><sup>__macOS__<sup></sub><br><sub>_Copy of the stock iOS action_</sub><p>Opens the selected Safari bookmark<p><sup>_No output_</sup>
+
+<br>
+
+[Delete Bookmarks](https://www.icloud.com/shortcuts/1439113460c945279a9152ceef4f0382)<br><sub>_Use in combination with the Find Bookmarks action_</sub><p>Deletes Safari bookmarks<p><sup>_No output_</sup>
+
+<br>
+
+[Add Bookmark](https://www.icloud.com/shortcuts/03fd3d58b356445dbd2b60362302e922)<br><sub>_Opens the “Add Bookmark” dialog_</sub><p>Adds the current page to Safari bookmarks<p><sup>__Options__<br>Title</sup><br><sub>_No output_</sub>
+
+<br>
+
+[Open Tab Group](https://www.icloud.com/shortcuts/a03c00999a574a8a9c0a78b92aa6282f) <sub><sup>__macOS__<sup></sub><br><sub>_Copy of the stock iOS action_</sub><p>Opens the selected Safari tab group<p><sup>__Parameters__<br>Tab Group</sup><br><sub>_No output_</sub>
+
+<br>
+
+[Open URL/Create Tab in Current Tab Group](https://www.icloud.com/shortcuts/781a72027b634c8c8963b6aad2a38dd6)<br><sub>_Actual title: “Create Tab“ – opens the URL/tab in the current tab group, unlike the stock iOS “Open URL” and “Create New Tab” actions_</sub><p>Create a new tab in Safari and optionally open a URL<p><sup>__Options__<br>URL</sup><br><sub>__Output__<br>The URL if supplied or the Start Page URL if not</sub>
+
+<br>
+
+[Search Tabs](https://www.icloud.com/shortcuts/33017293f6c04ec798cd73f1dca2a16f)<p>Search for tabs in Safari<p><sup>__Parameters__<br>Keyword</sup><br><sub>_No output_</sub>
+
+<br>
+
+[Close View](https://www.icloud.com/shortcuts/22fcb91de7ed4f2db5d72de787665dbc)<br><p>Closes the view in Safari<p><sup>__Parameters__<br>Bookmarks • History • Reading List • Start Page • Tab Overview • Sidebar • Shared with You</sup><br><sub>_No output_</sub>
+
+<br>
+
+### Settings
+
+[Desktop & Dock Settings](https://www.icloud.com/shortcuts/55a45fe74e8742728c0aa959f8cf923e) <sub><sup>__macOS__<sup></sub><p>Change one or more Desktop & Dock settings<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle • Animate opening applications • Automatically hide and show the Dock • Window title bar double-click action • Magnification • Minimize windows into application icon • Minimized window animation • Dock position on screen • Show indicators for open applications • Show suggested and recent apps in Dock • Size</sup><br><sub>__Output__<br>The generic string “Dock Settings”</sub>
+
+<br>
+
+[Show Battery Percentage in Status Bar](https://www.icloud.com/shortcuts/fb45c3d68f274b96a9ec8197ca5e03d0) <sub><sup>__iOS__<sup></sub><p>Toggle the “Show Percentage” Battery setting<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup><br><sub>__Output__<br>The generic string “Battery Percentage”</sub>
+
+<br>
+
+[Automatically Hide and Show the Menu Bar](https://www.icloud.com/shortcuts/16c6bfc7fcb14ef889a0a73c71423816) <sub><sup>__macOS__<sup></sub><p>Change the “Automatically hide and show the menu bar” setting<p><sup>__Parameters__<br>Always • On Desktop Only • In Full Screen Only • Never</sup><br><sub>__Output__<br>The generic string “Automatically hide and show the menu bar”</sub>
+
+<br>
+
+[Show Menu Bar Background](https://www.icloud.com/shortcuts/4b013a82a9ba49fda5f579d91341c7fb) <sub><sup>__macOS__<sup></sub><p>Change the “Show menu bar background” setting<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup><br><sub>__Output__<br>The generic string “Show menu bar background”</sup>
+
+<br>
+
+[Menu Bar Clock Settings](https://www.icloud.com/shortcuts/ec220408957b47ab9ad46a6d26f5d493) <sub><sup>__macOS__<sup></sub><p>Change one or more Menu Bar Clock settings<p><sup>__Parameters__<br>Announce the time • Style • Flash the time separators • Show AM/PM • Show date • Show the day of the week • Display the time with seconds • Interval</sup><br><sub>__Output__<br>The generic string “Clock Options”</sub>
+
+<br>
+
+[Notification Center Settings](https://www.icloud.com/shortcuts/c578638d141a425f89fa9bf144474c4c) <sub><sup>__macOS__<sup></sub><p>Change one or more Notification Center settings<p><sup>__Parameters__<br>Allow notifications when the screen is locked • Allow notifications when mirroring or sharing the display • Allow notifications when the display is sleeping • Show previews • Summarize notifications</sup><br><sub>__Output__<br>The generic string “Notification Center”</sub>
+
+<br>
+
+[Application Notification Settings](https://www.icloud.com/shortcuts/1f9c0e6c26ed4b3ba2833f5c7042e30b) <sub><sup>__macOS__<sup></sub><p>Change one or more notification settings for an indiviudal application<p><sup>__Parameters__<br>Alert style • Critical notifications • Allow notifications • Time sensitive notifications • Badge application icon • Notification grouping • Play sound for notification • Show in Notification Center • Show notifications on lock screen • Show previews</sup><br><sub>__Output__<br>The name of the application</sub>
+
+<br>
+
+[Auto-Brightness](https://www.icloud.com/shortcuts/88b6505076d4414f8acdde41b20ba741) <sub><sup>__iOS__<sup></sub><br><sub>_Only Turn Off or Turn On should be used and not Toggle, since toggling to On currently doesn't work_</sub><p>Toggle the “Auto-Brightness” setting<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup><br><sub>__Output__<br>The generic string “Auto-Brightness”</sub>
+
+<br>
+
+[Automatically Adjust Brightness](https://www.icloud.com/shortcuts/36b4d6fb9bac4e60926ff048e83b8a54) <sub><sup>__macOS__<sup></sub><br><sub>_Note: the toggle doesn't change state because of a bug (until you restart System Settings), but a yellow warning sign appears beneath the toggle when it's turned off_</sub><p>Toggle the Displays setting “Automatically adjust brightness”<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup><br><sub>__Output__<br>The generic string “Automatically adjust brightness on the main display”</sub>
+
+<br>
+
+[Bold Text](https://www.icloud.com/shortcuts/28c297e31aa44a57ade8a538c5ffb0b9) <sub><sup>__iOS__<sup></sub><p>Toggle the Accessibility setting “Bold Text”<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup><br><sub>__Output__<br>The generic string “Bold Text”</sub>
+
+<br>
+
+[Show Borders](https://www.icloud.com/shortcuts/d8068de66bb0456ab47abae46f3168a4) <sub><sup>__iOS__<sup></sub><p>Toggle the Accessibility setting “Show Borders”<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup><br><sub>__Output__<br>The generic string “Show Borders”</sub>
+
+<br>
+
+[Differentiate Without Color](https://www.icloud.com/shortcuts/44d17ef4b0ca4e8ca02b5ceeb0a251e3) <sub><sup>__iOS__<sup></sub><p>Toggle the Accessibility setting “Differentiate Without Colors”<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup><br><sub>__Output__<br>The generic string “Differentiate Without Color”</sub>
+
+<br>
+
+[On/Off Labels](https://www.icloud.com/shortcuts/e45bce4643f84226a6f65c19485f5b89) <sub><sup>__iOS__<sup></sub><p>Toggle the Accessibility setting “On/Off Labels”<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup><br><sub>__Output__<br>The generic string “On/Off Labels”</sub>
+
+<br>
+
+[Set Color Filter](https://www.icloud.com/shortcuts/f203b0c45a8a41a4b16418fd9e94e85a) <sub><sup>__iOS__<sup></sub><br><sub>_No “Color Tint” option_</sub><p>Choose filter for the Accessibility setting “Color Filters”<p><sup>__Parameters__<br>Red/Green filter (Protanopia) • Green/Red filter (Deuteranopia) • Blue/Yellow filter (Tritanopia) • Grayscale</sup><br><sub>__Output__<br>The generic string “Color Filters”</sub>
+
+<br>
+
+[Set Color Filter](https://www.icloud.com/shortcuts/f982e3422d7142279168767fd4d6c6b8) <sub><sup>__macOS__<sup></sub><br><sub>_You need to have Color Filters enabled to see any changes_</sub><p>Choose filter for the Accessibility setting “Color Filters”<p><sup>__Parameters__<br>Grayscale • Red/Green filter (Protanopia) • Green/Red filter (Deuteranopia) • Blue/Yellow filter (Tritanopia) • Color Tint</sup><br><sub>__Output__<br>The generic string “Filter type”</sub>
+
+<br>
+
+[Set Zoom Filter](https://www.icloud.com/shortcuts/ded5de5e0e924cd9a5df2c879c91c4a7) <sub><sup>__iOS__<sup></sub><br><sub>_You need to have Zoom enabled to see any changes_</sub><p>Choose filter for the Accessibility setting “Zoom Filters”<p><sup>__Parameters__<br>None • Grayscale • Grayscale Inverted • Hue Adjust • Low Light</sup><br><sub>__Output__<br>The generic string “Zoom Filter”</sub>
+
+<br>
+
+[Alert Haptics](https://www.icloud.com/shortcuts/da466ed63c784c17a35d29ffa5c45289) <sub><sup>__iOS__<sup></sub><p>Select mode for the “Alert Haptics” setting<p><sup>__Parameters__<br>Always Play • Play in Silent Mode • Don”t Play in Silent Mode • Never</sup><br><sub>__Output__<br>The generic string “Haptic options”</sub>
+
+<br>
+
+[Flash the Screen When an Alert Sound Occurs](https://www.icloud.com/shortcuts/7f9e4a28d262482883e39a6a5e4cc2f6) <sub><sup>__macOS__<sup></sub><p>Toggle the Accessibility setting “Flash the screen when an alert sound occurs”<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup><br><sub>__Output__<br>The generic string “Flash the screen when an alert sound occurs”</sub>
+
+<br>
+
+[Play User Interface Sound Effects](https://www.icloud.com/shortcuts/01f69b58ce0c4bf1a47ffd7bf79af2df) <sub><sup>__macOS__<sup></sub><p>Toggle the Sound setting “Play user interface sound effects”<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup><br><sub>__Output__<br>The generic string “Play user interface sound effects”</sub>
+
+<br>
+
+[Play Feedback When Volume is Changed](https://www.icloud.com/shortcuts/29c18f5b9b194cbf91543b860443609f) <sub><sup>__macOS__<sup></sub><p>Toggle the Sound setting “Play feedback when volume is changed”<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup><br><sub>__Output__<br>The generic string “Play feedback when volume is changed”</sub>
+
+<br>
+
+[Play Sound on Startup](https://www.icloud.com/shortcuts/e34d752371b644e08e4e66b8846957b0) <sub><sup>__macOS__<sup></sub><p>Toggle the Sound setting “Play sound on startup”<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup><br><sub>__Output__<br>The generic string “Play sound on startup”</sub>
+
+<br>
+
+[FaceTime Silence Unknown Callers](https://www.icloud.com/shortcuts/83e6c26612be43f1a8aa7fa7c0a08eea) <sub><sup>__iOS__<sup></sub><p>Toggle “Silence Unknown Callers” for FaceTime<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup><br><sub>__Output__<br>The generic string “FaceTime Silence Unknown Callers Toggle”</sub>
+
+<br>
+
+[Tap to Click](https://www.icloud.com/shortcuts/e31537fdbd4b4047b8a0315affe3bfb8) <sub><sup>__macOS__<sup></sub><p>Toggle the “Tap to click” Trackpad setting<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup><br><sub>__Output__<br>The generic string “Tap to click”</sub>
+
+<br>
+
+[Natural Scrolling](https://www.icloud.com/shortcuts/3090805fb7514726928df7d4eac59c05) <sub><sup>__macOS__<sup></sub><p>Toggle the “Natural Scrolling” Trackpad setting<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup><br><sub>__Output__<br>The generic string “Natural scrolling”</sub>
+
+<br>
+
+[Use Scroll Gesture With Modifier Keys to Zoom](https://www.icloud.com/shortcuts/0833b7dbdd7a4cf98fa67cdc858b78bf) <sub><sup>__macOS__<sup></sub><p>Toggle the Accessibility setting “Use scroll gesture with modifier keys to zoom”<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup><br><sub>__Output__<br>The generic string “Use scroll gesture with modifier keys to zoom”</sub>
+
+<br>
+
+[Show Scroll Bars Behavior](https://www.icloud.com/shortcuts/cbc83684138647239140196e76a500c4) <sub><sup>__macOS__<sup></sub><p>Change the Appearance setting “Show scroll bars”<p><sup>__Parameters__<br>Automatically based on mouse or trackpad • When scrolling • Always</sup><br><sub>__Output__<br>The generic string “Show scroll bars”</sub>
+
+<br>
+
+[Click in Scroll Bar Behavior](https://www.icloud.com/shortcuts/94b30eeab6104e9282f964d18e6764e8) <sub><sup>__macOS__<sup></sub><p>Change the Appearance setting “Click in the scroll bar to”<p><sup>__Parameters__<br>Jump to the next page • Jump to the spot that”s clicked</sup><br><sub>__Output__<br>The generic string “Click in the scroll bar to”</sub>
+
+<br>
+
+[AirDrop Bring Devices Together](https://www.icloud.com/shortcuts/adda1b4a5e6c49d6b8faa5512dc0fc09) <sub><sup>__iOS__<sup></sub><p>Toggle the AirDrop setting “Start Sharing By – Bringing Devices Together”<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup><br><sub>__Output__<br>The generic string “Bring Devices Together for AirDrop”</sub>
+
+<br>
+
+[AirDrop Use Cellular Data](https://www.icloud.com/shortcuts/752d07f7888b4de8878e3a12fee1021e) <sub><sup>__iOS__<sup></sub><p>Toggle the AirDrop setting “Out of Range – Use Cellular Data”<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup><br><sub>__Output__<br>The generic string “Use Cellular Data”</sub>
+
+<br>
+
+### Shortcuts
+
+[Set Shortcut Attributes](https://www.icloud.com/shortcuts/391372497e7c425a90b92bb6bafbacf7)<p>Change an attribute for an individual shortcut<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle • Reiceive Input From Spotlight • Show in Share Sheet • Show on Apple Watch • Pin in Menu Bar • Receive What”s On Screen • Use as Quick Action • Allow Running When Locked</sup><br><sub>__Options__<br>Open When Run</sub><p><sup>_No output_</sup>
+
+<br>
+
+[Get Details of Shortcut](https://www.icloud.com/shortcuts/770cfe1d75b246b5adae1da01ea8b550)<p>Get a specific detail about one or more shortcuts – use in combination with the Get My Shortcuts and Filter Files actions<p><sup>__Parameters__<br>Folder • Icon • Action Count • File Size • File Extension • Date Created • Last Modified Date • Name</sup><br><sub>__Output__<br>The detail of the shortcuts</sub>
+
+<br>
+
+### Other
+
+[Lock App](https://www.icloud.com/shortcuts/7fa46ae5058c4d069928c7e06596b3b3) <sub><sup>__iOS__<sup></sub><p>Changes whether the selected application is locked. Locked apps require authentication to access.<p><sup>__Parameters__<br>Lock • Unlock • Toggle</sup><br><sub>_No output_</sub>
+
+<br>
+
+[Delete Contact](https://www.icloud.com/shortcuts/f66e6cccfb0f4cebb9aca0d4da3f4a2f)<p>Deletes one or more contacts<p><sup>__Parameters__<br>Contact</sup><br><sub>_No output_</sub>
+
+<br>
+
+[Find Focus](https://www.icloud.com/shortcuts/60127f3bc6894ea691888efdd3a8162f) <sub><sup>__iOS__<sup></sub><p>Get a list of all Focus modes<p><sup>__Options__<br>Limit</sup><br><sub>__Output__<br>List of Focus modes</sub>
+
+<br>
+
+[Get Details of Shazam](https://www.icloud.com/shortcuts/a78bed33f41047f9ae4010cb4e73f43b)<p>Gets a specific piece of information from the Shazam media passed into the action<p><sup>__Parameters__<br>Apple Music ID • Artist • Title • Is Explicit • Lyrics Snippet • Lyrics Snippet Synced • Artwork • Video URL • Shazam URL • Apple Music URL • Name</sup><br><sub>__Output__<br>The detail</sub>
+
+<br>
+
+[Get Details of Ride Status](https://www.icloud.com/shortcuts/39d199f8ed834574be0cfa7a93ca0c1e)<p>Gets a specific piece of information from the ride statuses passed into the action<p><sup>__Parameters__<br>Vehicle Information • Drop Off Time • Pickup Time • Pickup Location • Drop Off Location • Minimum Price • Maximum Price • Ride Option Name • Driver • Name</sup><br><sub>__Output__<br>The detail</sub> 
+
+<br>
+
+[Get Firewall State](https://www.icloud.com/shortcuts/5f3227380135451d873feb9afa00436a) <sub><sup>__macOS__<sup></sub><p>Get the current Firewall policy<p><sup>__Output__<br>Firewall policy</sup>
+
+<br>
+
+### Third Party Services
+
+[Add to Pinboard](https://www.icloud.com/shortcuts/018a1ed6474448f1a40ad90795952804)<p>Adds the URL passed into the action to your Pinboard – requires access to your Pinboard account<p><sup>__Output__<br>The input URL</sup>
+
+<br>
+
+[Get Pinboard Bookmarks](https://www.icloud.com/shortcuts/c77470ba888c4f11bb90369b7d94663b)<p>Gets bookmarks in your Pinboard account – requires access to your Pinboard account<p><sup>__Output__<br>URLs</sup>
+
+<br>
+
+[Upload to Imgur](https://www.icloud.com/shortcuts/be15bed49b5c4b9393548d7d8fa38168)<p>Uploads the input to Imgur<p><sup>__Options__<br>Upload Anonymously • Direct Link • Create Album • Title • Description</sup><br><sub>__Output__<br>URLs</sub>
+
+<br>
+
+[Post to WordPress](https://www.icloud.com/shortcuts/4fcf8fafba874096b36b888d8e3a9097)<p>Posts the input to a WordPress blog as a new post or page – requires access to your WordPress account<p><sup>__Output__<br>The URL of the new blog post</sup>
+
+<br>
+
+[Post to Tumblr](https://www.icloud.com/shortcuts/b61947a637a94192b120158a695f20d2)<p>Posts the content passed into the action to Tumblr – requires access to your Tumblr account<p><sup>__Output__<br>The URL of the new post</sup>
+
+<br>
+<br>
