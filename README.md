@@ -38,7 +38,7 @@ __Usage__
 
 <br>
 
-[Open URL/Blank Tab in Current Tab Group](https://www.icloud.com/shortcuts/781a72027b634c8c8963b6aad2a38dd6)<br><sub>_Actual title: “Create Tab“ – opens the URL/tab in the current tab group, unlike the stock iOS “Open URL” and “Create New Tab” actions_</sub><p>Create a new tab in Safari and optionally open a URL<p><sup>__Options__<br>URL</sup><br><sub>__Output__<br>The URL if supplied or the Start Page URL if not</sub>
+[Open URL or Blank Tab in Current Tab Group](https://www.icloud.com/shortcuts/781a72027b634c8c8963b6aad2a38dd6)<br><sub>_Actual title: “Create Tab for URL“_</sub><p>Opens a URL or blank tab – in the current tab group – unlike any of the official actions<p><sup>__Options__<br>URL</sup><br><sub>__Output__<br>The URL if supplied or the Start Page URL if not</sub>
 
 <br>
 
@@ -86,7 +86,6 @@ __Usage__
 
 [Alert Haptics](https://www.icloud.com/shortcuts/da466ed63c784c17a35d29ffa5c45289) <sub><sup>__iOS__<sup></sub><p>Select mode for the “Alert Haptics” setting<p><sup>__Parameters__<br>Always Play • Play in Silent Mode • Don”t Play in Silent Mode • Never</sup><br><sub>__Output__<br>The generic string “Haptic options”</sub>
 
-
 <br>
 
 [FaceTime Silence Unknown Callers](https://www.icloud.com/shortcuts/83e6c26612be43f1a8aa7fa7c0a08eea) <sub><sup>__iOS__<sup></sub><p>Toggle “Silence Unknown Callers” for FaceTime<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup><br><sub>__Output__<br>The generic string “FaceTime Silence Unknown Callers Toggle”</sub>
@@ -103,7 +102,7 @@ __Usage__
 
 > __macOS Settings__
 
-[Sidebar Icon Size](https://www.icloud.com/shortcuts/acef10e5216e4309846544eea4895fa3) <sub><sup>__macOS__<sup></sub><p>Change the Appearance setting “Sidebar Icon Size”<p><sup>__Parameters__<br>Small • Medium • Large</sup><br><sub>__Output__<br>The generic string “Sidebar icon size”</sub>
+[Sidebar Icon Size](https://www.icloud.com/shortcuts/acef10e5216e4309846544eea4895fa3) <sub><sup>__macOS__<sup></sub><p>Change the “Sidebar Icon Size” Appearance setting<p><sup>__Parameters__<br>Small • Medium • Large</sup><br><sub>__Output__<br>The generic string “Sidebar icon size”</sub>
 
 <br>
 
@@ -111,11 +110,11 @@ __Usage__
 
 <br>
 
-[Show Scroll Bars When](https://www.icloud.com/shortcuts/cbc83684138647239140196e76a500c4) <sub><sup>__macOS__<sup></sub><p>Change the Appearance setting “Show scroll bars”<p><sup>__Parameters__<br>Automatically based on mouse or trackpad • When scrolling • Always</sup><br><sub>__Output__<br>The generic string “Show scroll bars”</sub>
+[Show Scroll Bars When](https://www.icloud.com/shortcuts/cbc83684138647239140196e76a500c4) <sub><sup>__macOS__<sup></sub><p>Change the “Show scroll bars” Appearance setting<p><sup>__Parameters__<br>Automatically based on mouse or trackpad • When scrolling • Always</sup><br><sub>__Output__<br>The generic string “Show scroll bars”</sub>
 
 <br>
 
-[Click in Scroll Bar To](https://www.icloud.com/shortcuts/94b30eeab6104e9282f964d18e6764e8) <sub><sup>__macOS__<sup></sub><p>Change the Appearance setting “Click in the scroll bar to”<p><sup>__Parameters__<br>Jump to the next page • Jump to the spot that”s clicked</sup><br><sub>__Output__<br>The generic string “Click in the scroll bar to”</sub>
+[Click in Scroll Bar To](https://www.icloud.com/shortcuts/94b30eeab6104e9282f964d18e6764e8) <sub><sup>__macOS__<sup></sub><p>Change the “Click in the scroll bar to” Appearance setting<p><sup>__Parameters__<br>Jump to the next page • Jump to the spot that”s clicked</sup><br><sub>__Output__<br>The generic string “Click in the scroll bar to”</sub>
 
 <br>
 
@@ -123,7 +122,7 @@ __Usage__
 
 <br>
 
-[Automatically Adjust Brightness](https://www.icloud.com/shortcuts/36b4d6fb9bac4e60926ff048e83b8a54) <sub><sup>__macOS__<sup></sub><br><sub>_Note: the toggle doesn't change state because of a bug (until you restart System Settings), but a yellow warning sign appears beneath the toggle when it's turned off_</sub><p>Toggle the Displays setting “Automatically adjust brightness”<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup><br><sub>__Output__<br>The generic string “Automatically adjust brightness on the main display”</sub>
+[Automatically Adjust Brightness](https://www.icloud.com/shortcuts/36b4d6fb9bac4e60926ff048e83b8a54) <sub><sup>__macOS__<sup></sub><br><sub>_Note: Due to a bug, the toggle won't reflect the changed state until you restart System Settings_</sub><p>Toggle the Displays setting “Automatically adjust brightness”<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup><br><sub>__Output__<br>The generic string “Automatically adjust brightness on the main display”</sub>
 
 <br>
 
@@ -143,7 +142,7 @@ __Usage__
 
 <br>
 
-[Menu Bar User Switching Style](https://www.icloud.com/shortcuts/7f8b7313b3be4f34bf8683bbaa865c2f) <sub><sup>__macOS__<sup></sub><p>Change the appearance of the Fast User Switching menu bar item<p><sup>__Parameters__<br>Full Name • Account Name • Icon</sup><br><sub>__Output__<br>The generic string “Fast User Switching menu style”</sub>
+[Menu Bar User Switching Appearance](https://www.icloud.com/shortcuts/7f8b7313b3be4f34bf8683bbaa865c2f) <sub><sup>__macOS__<sup></sub><p>Change the appearance of the Fast User Switching menu bar item<p><sup>__Parameters__<br>Full Name • Account Name • Icon</sup><br><sub>__Output__<br>The generic string “Fast User Switching menu style”</sub>
 
 <br>
 
@@ -183,7 +182,7 @@ __Usage__
 
 <br>
 
-[Trackpad Look Up & Data Detectors](https://www.icloud.com/shortcuts/15b9a8257719410f96aa247ac4af666c) <sub><sup>__macOS__<sup></sub><p><sup>_The action mistakenly refers to “Force Click and haptic feedback”_</sup><p>Change the “Look up & data detectors” Trackpad setting<p><sup>__Parameters__<br>Off • Force Click with One Finger • Tap with Three Fingers</sup><br><sub>__Output__<br>The generic string “Force Click and haptic feedback” [mistake]</sub>
+[Trackpad Look Up & Data Detectors](https://www.icloud.com/shortcuts/15b9a8257719410f96aa247ac4af666c) <sub><sup>__macOS__<sup></sub><p><sup>_Mistakenly referred to as “Force Click and haptic feedback” in the action_</sup><p>Change the “Look up & data detectors” Trackpad setting<p><sup>__Parameters__<br>Off • Force Click with One Finger • Tap with Three Fingers</sup><br><sub>__Output__<br>The generic string “Force Click and haptic feedback” [wrong term used]</sub>
 
 <br>
 
@@ -205,7 +204,7 @@ __Usage__
 
 <br>
 
-[Get Details of Shortcut](https://www.icloud.com/shortcuts/770cfe1d75b246b5adae1da01ea8b550)<p>Get a specific detail about one or more shortcuts – use in combination with the Get My Shortcuts and Filter Files actions<p><sup>__Parameters__<br>Folder • Icon • Action Count • File Size • File Extension • Date Created • Last Modified Date • Name</sup><br><sub>__Output__<br>The detail of the shortcuts</sub>
+[Get Details of Shortcut](https://www.icloud.com/shortcuts/770cfe1d75b246b5adae1da01ea8b550)<p>Get a specific detail about one or more shortcuts – use in combination with the Get My Shortcuts and Filter Files actions<p><sup>__Parameters__<br>Folder • Icon • Action Count • File Size • File Extension • Date Created • Last Modified Date • Name</sup><br><sub>__Output__<br>The specific detail</sub>
 
 <br>
 
@@ -223,11 +222,11 @@ __Usage__
 
 <br>
 
-[Get Details of Shazam](https://www.icloud.com/shortcuts/a78bed33f41047f9ae4010cb4e73f43b)<p>Gets a specific piece of information from the Shazam media passed into the action<p><sup>__Parameters__<br>Apple Music ID • Artist • Title • Is Explicit • Lyrics Snippet • Lyrics Snippet Synced • Artwork • Video URL • Shazam URL • Apple Music URL • Name</sup><br><sub>__Output__<br>The detail</sub>
+[Get Details of Shazam](https://www.icloud.com/shortcuts/a78bed33f41047f9ae4010cb4e73f43b)<p>Gets a specific piece of information from the Shazam media passed into the action<p><sup>__Parameters__<br>Apple Music ID • Artist • Title • Is Explicit • Lyrics Snippet • Lyrics Snippet Synced • Artwork • Video URL • Shazam URL • Apple Music URL • Name</sup><br><sub>__Output__<br>The specific detail</sub>
 
 <br>
 
-[Get Details of Ride Status](https://www.icloud.com/shortcuts/39d199f8ed834574be0cfa7a93ca0c1e)<p>Gets a specific piece of information from the ride statuses passed into the action<p><sup>__Parameters__<br>Vehicle Information • Drop Off Time • Pickup Time • Pickup Location • Drop Off Location • Minimum Price • Maximum Price • Ride Option Name • Driver • Name</sup><br><sub>__Output__<br>The detail</sub> 
+[Get Details of Ride Status](https://www.icloud.com/shortcuts/39d199f8ed834574be0cfa7a93ca0c1e)<p>Gets a specific piece of information from the ride statuses passed into the action<p><sup>__Parameters__<br>Vehicle Information • Drop Off Time • Pickup Time • Pickup Location • Drop Off Location • Minimum Price • Maximum Price • Ride Option Name • Driver • Name</sup><br><sub>__Output__<br>The specific detail</sub> 
 
 <br>
 
