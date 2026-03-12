@@ -30,7 +30,7 @@ __Usage__
 
 <br>
 
-[Add Bookmark](https://www.icloud.com/shortcuts/03fd3d58b356445dbd2b60362302e922)<br><sub>_Opens the “Add Bookmark” dialog_</sub><p>Adds the current page to Safari bookmarks<p><sup>__Options__<br>Title</sup><br><sub>_No output_</sub>
+[Add Bookmark](https://www.icloud.com/shortcuts/03fd3d58b356445dbd2b60362302e922)<br><sub>_Opens the “Add Bookmark” dialog_</sub><p>Add the current web page to Safari bookmarks<p><sup>__Options__<br>Title</sup><br><sub>_No output_</sub>
 
 <br>
 
@@ -158,15 +158,15 @@ __Usage__
 
 <br>
 
-[Flash the Screen When an Alert Sound Occurs](https://www.icloud.com/shortcuts/7f9e4a28d262482883e39a6a5e4cc2f6) <sub><sup>__macOS__<sup></sub><p>Toggle the Accessibility setting “Flash the screen when an alert sound occurs”<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup><br><sub>__Output__<br>The generic string “Flash the screen when an alert sound occurs”</sub>
+[Flash the Screen when an Alert Sound Occurs](https://www.icloud.com/shortcuts/7f9e4a28d262482883e39a6a5e4cc2f6) <sub><sup>__macOS__<sup></sub><p>Toggle the Accessibility setting “Flash the screen when an alert sound occurs”<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup><br><sub>__Output__<br>The generic string “Flash the screen when an alert sound occurs”</sub>
 
 <br>
 
-[Play Feedback When Volume is Changed](https://www.icloud.com/shortcuts/29c18f5b9b194cbf91543b860443609f) <sub><sup>__macOS__<sup></sub><p>Toggle the Sound setting “Play feedback when volume is changed”<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup><br><sub>__Output__<br>The generic string “Play feedback when volume is changed”</sub>
+[Play Feedback when Volume is Changed](https://www.icloud.com/shortcuts/29c18f5b9b194cbf91543b860443609f) <sub><sup>__macOS__<sup></sub><p>Toggle the Sound setting “Play feedback when volume is changed”<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup><br><sub>__Output__<br>The generic string “Play feedback when volume is changed”</sub>
 
 <br>
 
-[Play Sound on Startup](https://www.icloud.com/shortcuts/e34d752371b644e08e4e66b8846957b0) <sub><sup>__macOS__<sup></sub><p>Toggle the Sound setting “Play sound on startup”<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup><br><sub>__Output__<br>The generic string “Play sound on startup”</sub>
+[Play Sound on Startup](https://www.icloud.com/shortcuts/e34d752371b644e08e4e66b8846957b0) <sub><sup>__macOS__<sup></sub><p>Toggle the “Play sound on startup” Sound setting<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup><br><sub>__Output__<br>The generic string “Play sound on startup”</sub>
 
 <br>
 
@@ -174,7 +174,7 @@ __Usage__
 
 <br>
 
-[Trackpad Click Pressure Speed](https://www.icloud.com/shortcuts/d933ee204a384e19962c7a8e9dcb2337) <sub><sup>__macOS__<sup></sub><p>Adjust the “Click” Trackpad setting<p><sup>__Parameters__<br>Light • Medium • Firm</sup><br><sub>__Output__<br>The generic string “Click pressure”</sub>
+[Trackpad Click Pressure](https://www.icloud.com/shortcuts/d933ee204a384e19962c7a8e9dcb2337) <sub><sup>__macOS__<sup></sub><p>Select pressure for the “Click” Trackpad setting<p><sup>__Parameters__<br>Light • Medium • Firm</sup><br><sub>__Output__<br>The generic string “Click pressure”</sub>
 
 <br>
 
