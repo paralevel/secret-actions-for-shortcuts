@@ -15,7 +15,7 @@ __Usage__
 
 > __Safari__
 ###
-[Clear History](https://www.icloud.com/shortcuts/3bff1910f3b34daf90fda20d6913e10e) <sub><sup>__iOS__<sup></sub><p>Clears history, related cookies and other website data in Safari<p><sup>__Parameters__<br>Last Hour • Today • Today and Yesterday • All History</sup><br><sub>(No output)</sub>
+[Clear History](https://www.icloud.com/shortcuts/3bff1910f3b34daf90fda20d6913e10e) <sub><sup>__iOS__<sup></sub><p>Clears history, related cookies and other website data in Safari<p><sup>__Parameters__<br>Last Hour • Today • Today and Yesterday • All History</sup><br><sub>__Output__<br>none</sub>
 
 <br>
 
@@ -23,19 +23,19 @@ __Usage__
 
 <br>
 
-[Open Bookmark](https://www.icloud.com/shortcuts/656c86427f9d435fb416bd287f207c4b) <sub><sup>__macOS__<sup></sub><br><sub>_Copy of the stock iOS action_</sub><p>Opens the selected Safari bookmark<p><sup>(No output)</sup>
+[Open Bookmark](https://www.icloud.com/shortcuts/656c86427f9d435fb416bd287f207c4b) <sub><sup>__macOS__<sup></sub><br><sub>_Copy of the stock iOS action_</sub><p>Opens the selected Safari bookmark<p><sup>__Output__<br>none</sup>
 
 <br>
 
-[Delete Bookmarks](https://www.icloud.com/shortcuts/1439113460c945279a9152ceef4f0382)<br><sub>_Use in combination with the Find Bookmarks action_</sub><p>Deletes Safari bookmarks<p><sup>(No output)</sup>
+[Delete Bookmarks](https://www.icloud.com/shortcuts/1439113460c945279a9152ceef4f0382)<br><sub>_Use in combination with the Find Bookmarks action_</sub><p>Deletes Safari bookmarks<p><sup>__Output__<br>none</sup>
 
 <br>
 
-[Add Bookmark](https://www.icloud.com/shortcuts/03fd3d58b356445dbd2b60362302e922)<br><sub>_Opens the “Add Bookmark” dialog_</sub><p>Add the current web page to Safari bookmarks<p><sup>__Options__<br>Title</sup><br><sub>(No output)</sub>
+[Add Bookmark](https://www.icloud.com/shortcuts/03fd3d58b356445dbd2b60362302e922)<br><sub>_Opens the “Add Bookmark” dialog_</sub><p>Add the current web page to Safari bookmarks<p><sup>__Options__<br>Title</sup><br><sub>__Output__<br>none</sub>
 
 <br>
 
-[Open Tab Group](https://www.icloud.com/shortcuts/a03c00999a574a8a9c0a78b92aa6282f) <sub><sup>__macOS__<sup></sub><br><sub>_Copy of the stock iOS action_</sub><p>Opens the selected Safari tab group<p><sup>__Parameters__<br>Tab Group</sup><br><sub>(No output)</sub>
+[Open Tab Group](https://www.icloud.com/shortcuts/a03c00999a574a8a9c0a78b92aa6282f) <sub><sup>__macOS__<sup></sub><br><sub>_Copy of the stock iOS action_</sub><p>Opens the selected Safari tab group<p><sup>__Parameters__<br>Tab Group</sup><br><sub>__Output__<br>none</sub>
 
 <br>
 
@@ -43,11 +43,11 @@ __Usage__
 
 <br>
 
-[Search Tabs](https://www.icloud.com/shortcuts/33017293f6c04ec798cd73f1dca2a16f)<p>Search for tabs in Safari<p><sup>__Parameters__<br>Keyword</sup><br><sub>(No output)</sub>
+[Search Tabs](https://www.icloud.com/shortcuts/33017293f6c04ec798cd73f1dca2a16f)<p>Search for tabs in Safari<p><sup>__Parameters__<br>Keyword</sup><br><sub>__Output__<br>none</sub>
 
 <br>
 
-[Close View](https://www.icloud.com/shortcuts/22fcb91de7ed4f2db5d72de787665dbc)<br><p>Closes the view in Safari<p><sup>__Parameters__<br>Bookmarks • History • Reading List • Start Page • Tab Overview • Sidebar • Shared with You</sup><br><sub>(No output)</sub>
+[Close View](https://www.icloud.com/shortcuts/22fcb91de7ed4f2db5d72de787665dbc)<br><p>Closes the view in Safari<p><sup>__Parameters__<br>Bookmarks • History • Reading List • Start Page • Tab Overview • Sidebar • Shared with You</sup><br><sub>__Output__<br>none</sub>
 
 <br>
 <br>
@@ -208,7 +208,7 @@ __Usage__
 
 > __Shortcuts__
 ###
-[Set Shortcut Attributes](https://www.icloud.com/shortcuts/391372497e7c425a90b92bb6bafbacf7)<p>Change an attribute for an individual shortcut<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle • Reiceive Input From Spotlight • Show in Share Sheet • Show on Apple Watch • Pin in Menu Bar • Receive What”s On Screen • Use as Quick Action • Allow Running When Locked</sup><br><sub>__Options__<br>Open When Run</sub><p><sup>(No output)</sup>
+[Set Shortcut Attributes](https://www.icloud.com/shortcuts/391372497e7c425a90b92bb6bafbacf7)<p>Change an attribute for an individual shortcut<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle • Reiceive Input From Spotlight • Show in Share Sheet • Show on Apple Watch • Pin in Menu Bar • Receive What”s On Screen • Use as Quick Action • Allow Running When Locked</sup><br><sub>__Options__<br>Open When Run</sub><p><sup>__Output__<br>none</sup>
 
 <br>
 
@@ -219,11 +219,11 @@ __Usage__
 
 > __Other__
 ###
-[Lock App](https://www.icloud.com/shortcuts/7fa46ae5058c4d069928c7e06596b3b3) <sub><sup>__iOS__<sup></sub><p>Changes whether the selected application is locked. Locked apps require authentication to access.<p><sup>__Parameters__<br>Lock • Unlock • Toggle</sup><br><sub>(No output)</sub>
+[Lock App](https://www.icloud.com/shortcuts/7fa46ae5058c4d069928c7e06596b3b3) <sub><sup>__iOS__<sup></sub><p>Changes whether the selected application is locked. Locked apps require authentication to access.<p><sup>__Parameters__<br>Lock • Unlock • Toggle</sup><br><sub>__Output__<br>none</sub>
 
 <br>
 
-[Delete Contact](https://www.icloud.com/shortcuts/f66e6cccfb0f4cebb9aca0d4da3f4a2f)<p>Deletes one or more contacts<p><sup>__Parameters__<br>Contact</sup><br><sub>(No output)</sub>
+[Delete Contact](https://www.icloud.com/shortcuts/f66e6cccfb0f4cebb9aca0d4da3f4a2f)<p>Deletes one or more contacts<p><sup>__Parameters__<br>Contact</sup><br><sub>__Output__<br>none</sub>
 
 <br>
 
