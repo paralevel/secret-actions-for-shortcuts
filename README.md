@@ -248,7 +248,7 @@ __Usage__
 
 > __Miscellaneous__
 ###
-[Set Shortcut Attributes](https://www.icloud.com/shortcuts/391372497e7c425a90b92bb6bafbacf7)<p>Change an attribute for an individual shortcut<p><sup>__Parameters__<br>Receive Input From Spotlight • Show in Share Sheet • Show on Apple Watch • Pin in Menu Bar • Receive What’s On Screen • Use as Quick Action • Allow Running When Locked</sup><br><sub>__Options__<br>Open When Run</sub><p><sup>__Output__<br>(none)</sup>
+[Change Shortcut Attribute](https://www.icloud.com/shortcuts/391372497e7c425a90b92bb6bafbacf7)<p>Change one of the attributes of a specific shortcut<p><sup>__Parameters__<br>Receive Input From Spotlight • Show in Share Sheet • Show on Apple Watch • Pin in Menu Bar • Receive What’s On Screen • Use as Quick Action • Allow Running When Locked</sup><br><sub>__Options__<br>Open When Run</sub><p><sup>__Output__<br>(none)</sub>
 
 <br>
 
