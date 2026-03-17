@@ -105,10 +105,6 @@ __Usage__
 [AirDrop Use Cellular Data](https://www.icloud.com/shortcuts/752d07f7888b4de8878e3a12fee1021e) <sub><sup>__iOS__<sup></sub><p>Toggle the AirDrop setting “Out of Range – Use Cellular Data”<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup><br><sub>__Output__<br>The generic string “Use Cellular Data”</sub>
 
 <br>
-
-[Family Member Details](https://www.icloud.com/shortcuts/6a578a3c9e054f8d8d4d2afcf5fc79cf) <sub><sup>__iOS__<sup></sub><p>Open the details page for a specific Family member<p><sup>__Output__<br>(none)</sup>
-
-<br>
 <br>
 
 > __macOS Settings__
@@ -193,7 +189,7 @@ __Usage__
 
 <br>
 
-[Trackpad Look Up & Data Detectors](https://www.icloud.com/shortcuts/15b9a8257719410f96aa247ac4af666c) <sub><sup>__macOS__<sup></sub><br><sub>_Wrongly called “Force Click and haptic feedback” in the action_</sub><p>Change the “Look up & data detectors” Trackpad setting<p><sup>__Parameters__<br>Off • Force Click with One Finger • Tap with Three Fingers</sup><br><sub>__Output__<br>The generic string “Force Click and haptic feedback” [wrong name used]</sub>
+[Trackpad Look Up & Data Detectors](https://www.icloud.com/shortcuts/32c3f02492c74f13a11a7df765e2132e) <sub><sup>__macOS__<sup></sub><br><sub>_Wrongly called “Force Click and haptic feedback” in the action_</sub><p>Change the “Look up & data detectors” Trackpad setting<p><sup>__Parameters__<br>Off • Force Click with One Finger • Tap with Three Fingers</sup><br><sub>__Output__<br>The generic string “Force Click and haptic feedback” [wrong name used]</sub>
 
 <br>
 
@@ -225,7 +221,7 @@ __Usage__
 
 <br>
 
-[Trackpad Swipe Between Full-Screen Applications](https://www.icloud.com/shortcuts/b384ab2f3bcf479a84ac31f19be634df) <sub><sup>__macOS__<sup></sub><br><sub>_Wrongly called “Swipe between pages” in the action_</sub><p>Select gesture for the “Swipe between full-screen applications” Trackpad setting<p><sup>__Parameters__<br>Off • Swipe Left or Right with Three Fingers • Swipe Left or Right with Four Fingers</sup><br><sub>__Output__<br>The generic string “Swipe between pages” [wrong name used]</sub>
+[Trackpad Swipe Between Full-Screen Applications](https://www.icloud.com/shortcuts/3ec27345793e4a708a443aabee9434e1) <sub><sup>__macOS__<sup></sub><br><sub>_Wrongly called “Swipe between pages” in the action_</sub><p>Select gesture for the “Swipe between full-screen applications” Trackpad setting<p><sup>__Parameters__<br>Off • Swipe Left or Right with Three Fingers • Swipe Left or Right with Four Fingers</sup><br><sub>__Output__<br>The generic string “Swipe between pages” [wrong name used]</sub>
 
 <br>
 
@@ -276,6 +272,10 @@ __Usage__
 <br>
 
 [Find Focus](https://www.icloud.com/shortcuts/60127f3bc6894ea691888efdd3a8162f) <sub><sup>__iOS__<sup></sub><p>Get a list of all Focus modes<p><sup>__Options__<br>Limit</sup><br><sub>__Output__<br>List of Focus modes</sub>
+
+<br>
+
+[Family Member Details](https://www.icloud.com/shortcuts/6a578a3c9e054f8d8d4d2afcf5fc79cf)<p>Open the details page for a specific Family member<p><sup>__Output__<br>(none)</sup>
 
 <br>
 
