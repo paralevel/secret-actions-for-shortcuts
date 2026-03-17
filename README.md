@@ -15,7 +15,7 @@ __Usage__
 
 > __Safari__
 ###
-[Clear History](https://www.icloud.com/shortcuts/3bff1910f3b34daf90fda20d6913e10e) <sub><sup>__iOS__<sup></sub><p>Clears history, related cookies and other website data in Safari<p><sup>__Parameters__<br>Last Hour • Today • Today and Yesterday • All History</sup><br><sub>__Output__<br>(none)</sub>
+[Clear History](https://www.icloud.com/shortcuts/3bff1910f3b34daf90fda20d6913e10e) <sub><sup>__iOS__<sup></sub><br><sub>_Opens the “Clear History” dialog_</sub><p>Clears history, related cookies and other website data in Safari<p><sup>__Parameters__<br>Last Hour • Today • Today and Yesterday • All History</sup><br><sub>__Output__<br>(none)</sub>
 
 <br>
 
