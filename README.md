@@ -125,7 +125,7 @@ __Usage__
 
 <br>
 
-[Desktop & Dock Settings](https://www.icloud.com/shortcuts/55a45fe74e8742728c0aa959f8cf923e) <sub><sup>__macOS__<sup></sub><p>Change one or more Desktop & Dock settings<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle • Animate opening applications • Automatically hide and show the Dock • Window title bar double-click action • Magnification • Minimize windows into application icon • Minimized window animation • Dock position on screen • Show indicators for open applications • Show suggested and recent apps in Dock • Size</sup><br><sub>__Output__<br>The generic string “Dock Settings”</sub>
+[Desktop & Dock Settings](https://www.icloud.com/shortcuts/55a45fe74e8742728c0aa959f8cf923e) <sub><sup>__macOS__<sup></sub><p>Change one or more Desktop & Dock settings<p><sup>__Parameters__<br>Animate opening applications • Automatically hide and show the Dock • Window title bar double-click action • Magnification • Minimize windows into application icon • Minimized window animation • Dock position on screen • Show indicators for open applications • Show suggested and recent apps in Dock • Size</sup><br><sub>__Output__<br>The generic string “Dock Settings”</sub>
 
 <br>
 
@@ -189,7 +189,7 @@ __Usage__
 
 <br>
 
-[Trackpad Look Up & Data Detectors](https://www.icloud.com/shortcuts/32c3f02492c74f13a11a7df765e2132e) <sub><sup>__macOS__<sup></sub><br><sub>_Wrongly called “Force Click and haptic feedback” in the action_</sub><p>Change the “Look up & data detectors” Trackpad setting<p><sup>__Parameters__<br>Off • Force Click with One Finger • Tap with Three Fingers</sup><br><sub>__Output__<br>The generic string “Force Click and haptic feedback” [wrong name used]</sub>
+[Trackpad Look Up & Data Detectors](https://www.icloud.com/shortcuts/32c3f02492c74f13a11a7df765e2132e) <sub><sup>__macOS__<sup></sub><br><sub>_Wrongly called “Force Click and haptic feedback” in the action_</sub><p>Change gesture for the “Look up & data detectors” Trackpad setting<p><sup>__Parameters__<br>Off • Force Click with One Finger • Tap with Three Fingers</sup><br><sub>__Output__<br>The generic string “Force Click and haptic feedback” [wrong name used]</sub>
 
 <br>
 
