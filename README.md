@@ -15,7 +15,7 @@ __Usage__
 
 > __Safari__
 ###
-[Clear History](https://www.icloud.com/shortcuts/3bff1910f3b34daf90fda20d6913e10e) <sub><sup>__iOS__<sup></sub><p>Clears history, related cookies and other website data in Safari<p><sup>__Parameters__<br>Last Hour • Today • Today and Yesterday • All History</sup><br><sub>__Output__<br>none</sub>
+[Clear History](https://www.icloud.com/shortcuts/3bff1910f3b34daf90fda20d6913e10e) <sub><sup>__iOS__<sup></sub><p>Clears history, related cookies and other website data in Safari<p><sup>__Parameters__<br>Last Hour • Today • Today and Yesterday • All History</sup><br><sub>__Output__<br>(none)</sub>
 
 <br>
 
@@ -23,19 +23,19 @@ __Usage__
 
 <br>
 
-[Open Bookmark](https://www.icloud.com/shortcuts/656c86427f9d435fb416bd287f207c4b) <sub><sup>__macOS__<sup></sub><br><sub>_Copy of the stock iOS action_</sub><p>Opens the selected Safari bookmark<p><sup>__Output__<br>none</sup>
+[Open Bookmark](https://www.icloud.com/shortcuts/656c86427f9d435fb416bd287f207c4b) <sub><sup>__macOS__<sup></sub><br><sub>_Copy of the stock iOS action_</sub><p>Opens the selected Safari bookmark<p><sup>__Output__<br>(none)</sup>
 
 <br>
 
-[Delete Bookmarks](https://www.icloud.com/shortcuts/1439113460c945279a9152ceef4f0382)<br><sub>_Use in combination with the Find Bookmarks action_</sub><p>Deletes Safari bookmarks<p><sup>__Output__<br>none</sup>
+[Delete Bookmarks](https://www.icloud.com/shortcuts/1439113460c945279a9152ceef4f0382)<br><sub>_Use in combination with the Find Bookmarks action_</sub><p>Deletes Safari bookmarks<p><sup>__Output__<br>(none)</sup>
 
 <br>
 
-[Add Bookmark](https://www.icloud.com/shortcuts/03fd3d58b356445dbd2b60362302e922)<br><sub>_Opens the “Add Bookmark” dialog_</sub><p>Add the current web page to Safari bookmarks<p><sup>__Options__<br>Title</sup><br><sub>__Output__<br>none</sub>
+[Add Bookmark](https://www.icloud.com/shortcuts/03fd3d58b356445dbd2b60362302e922)<br><sub>_Opens the “Add Bookmark” dialog_</sub><p>Add the current web page to Safari bookmarks<p><sup>__Options__<br>Title</sup><br><sub>__Output__<br>(none)</sub>
 
 <br>
 
-[Open Tab Group](https://www.icloud.com/shortcuts/a03c00999a574a8a9c0a78b92aa6282f) <sub><sup>__macOS__<sup></sub><br><sub>_Copy of the stock iOS action_</sub><p>Opens the selected Safari tab group<p><sup>__Parameters__<br>Tab Group</sup><br><sub>__Output__<br>none</sub>
+[Open Tab Group](https://www.icloud.com/shortcuts/a03c00999a574a8a9c0a78b92aa6282f) <sub><sup>__macOS__<sup></sub><br><sub>_Copy of the stock iOS action_</sub><p>Opens the selected Safari tab group<p><sup>__Parameters__<br>Tab Group</sup><br><sub>__Output__<br>(none)</sub>
 
 <br>
 
@@ -43,11 +43,11 @@ __Usage__
 
 <br>
 
-[Search Tabs](https://www.icloud.com/shortcuts/33017293f6c04ec798cd73f1dca2a16f)<p>Search for tabs in Safari<p><sup>__Parameters__<br>Keyword</sup><br><sub>__Output__<br>none</sub>
+[Search Tabs](https://www.icloud.com/shortcuts/33017293f6c04ec798cd73f1dca2a16f)<p>Search for tabs in Safari<p><sup>__Parameters__<br>Keyword</sup><br><sub>__Output__<br>(none)</sub>
 
 <br>
 
-[Close View](https://www.icloud.com/shortcuts/22fcb91de7ed4f2db5d72de787665dbc)<br><p>Closes the view in Safari<p><sup>__Parameters__<br>Bookmarks • History • Reading List • Start Page • Tab Overview • Sidebar • Shared with You</sup><br><sub>__Output__<br>none</sub>
+[Close View](https://www.icloud.com/shortcuts/22fcb91de7ed4f2db5d72de787665dbc)<br><p>Closes the view in Safari<p><sup>__Parameters__<br>Bookmarks • History • Reading List • Start Page • Tab Overview • Sidebar • Shared with You</sup><br><sub>__Output__<br>(none)</sub>
 
 <br>
 <br>
@@ -55,6 +55,14 @@ __Usage__
 > __iOS Settings__
 ###
 [Show Battery Percentage in Status Bar](https://www.icloud.com/shortcuts/fb45c3d68f274b96a9ec8197ca5e03d0) <sub><sup>__iOS__<sup></sub><p>Toggle the “Show Percentage” Battery setting<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup><br><sub>__Output__<br>The generic string “Battery Percentage”</sub>
+
+<br>
+
+[Show Silent Mode in Status Bar](https://www.icloud.com/shortcuts/cb6d50f0fe8d414391cea66e6ef129d8) <sub><sup>__iOS__<sup></sub><p>Toggle the Sounds & Haptics setting “Show in Status Bar” for Silent Mode<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup><br><sub>__Output__<br>The generic string “Silent Mode in Status Bar”</sub>
+
+<br>
+
+[Alert Haptics](https://www.icloud.com/shortcuts/da466ed63c784c17a35d29ffa5c45289) <sub><sup>__iOS__<sup></sub><p>Select mode for the “Alert Haptics” setting<p><sup>__Parameters__<br>Always Play • Play in Silent Mode • Don”t Play in Silent Mode • Never</sup><br><sub>__Output__<br>The generic string “Haptic options”</sub>
 
 <br>
 
@@ -86,10 +94,6 @@ __Usage__
 
 <br>
 
-[Alert Haptics](https://www.icloud.com/shortcuts/da466ed63c784c17a35d29ffa5c45289) <sub><sup>__iOS__<sup></sub><p>Select mode for the “Alert Haptics” setting<p><sup>__Parameters__<br>Always Play • Play in Silent Mode • Don”t Play in Silent Mode • Never</sup><br><sub>__Output__<br>The generic string “Haptic options”</sub>
-
-<br>
-
 [FaceTime Silence Unknown Callers](https://www.icloud.com/shortcuts/83e6c26612be43f1a8aa7fa7c0a08eea) <sub><sup>__iOS__<sup></sub><p>Toggle “Silence Unknown Callers” for FaceTime<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup><br><sub>__Output__<br>The generic string “FaceTime Silence Unknown Callers Toggle”</sub>
 
 <br>
@@ -99,6 +103,10 @@ __Usage__
 <br>
 
 [AirDrop Use Cellular Data](https://www.icloud.com/shortcuts/752d07f7888b4de8878e3a12fee1021e) <sub><sup>__iOS__<sup></sub><p>Toggle the AirDrop setting “Out of Range – Use Cellular Data”<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup><br><sub>__Output__<br>The generic string “Use Cellular Data”</sub>
+
+<br>
+
+[Family Member Details](https://www.icloud.com/shortcuts/6a578a3c9e054f8d8d4d2afcf5fc79cf) <sub><sup>__iOS__<sup></sub><p>Open the details page for a specific Family member<p><sup>__Output__<br>(none)</sup>
 
 <br>
 <br>
@@ -244,22 +252,26 @@ __Usage__
 
 > __Shortcuts__
 ###
-[Set Shortcut Attributes](https://www.icloud.com/shortcuts/391372497e7c425a90b92bb6bafbacf7)<p>Change an attribute for an individual shortcut<p><sup>__Parameters__<br>Receive Input From Spotlight • Show in Share Sheet • Show on Apple Watch • Pin in Menu Bar • Receive What’s On Screen • Use as Quick Action • Allow Running When Locked</sup><br><sub>__Options__<br>Open When Run</sub><p><sup>__Output__<br>none</sup>
+[Set Shortcut Attributes](https://www.icloud.com/shortcuts/391372497e7c425a90b92bb6bafbacf7)<p>Change an attribute for an individual shortcut<p><sup>__Parameters__<br>Receive Input From Spotlight • Show in Share Sheet • Show on Apple Watch • Pin in Menu Bar • Receive What’s On Screen • Use as Quick Action • Allow Running When Locked</sup><br><sub>__Options__<br>Open When Run</sub><p><sup>__Output__<br>(none)</sup>
 
 <br>
 
 [Get Details of Shortcut](https://www.icloud.com/shortcuts/770cfe1d75b246b5adae1da01ea8b550)<p>Get a specific detail about one or more shortcuts – use in combination with the Get My Shortcuts and Filter Files actions<p><sup>__Parameters__<br>Folder • Icon • Action Count • File Size • File Extension • Date Created • Last Modified Date • Name</sup><br><sub>__Output__<br>The specific detail</sub>
 
 <br>
+
+[Installed Apps Settings URLs](https://www.icloud.com/shortcuts/00b53bd9ab7b49e1b4b568d6f2faa9fd) <sub><sup>__iOS__<sup></sub><br><sub><p>Get the settings URL scheme for every app installed<p><sup>__Options__<br>Limit</sup><br><sub>__Output__<br>URLs</sub>
+
+<br>
 <br>
 
 > __Other__
 ###
-[Lock App](https://www.icloud.com/shortcuts/7fa46ae5058c4d069928c7e06596b3b3) <sub><sup>__iOS__<sup></sub><p>Changes whether the selected application is locked. Locked apps require authentication to access.<p><sup>__Parameters__<br>Lock • Unlock • Toggle</sup><br><sub>__Output__<br>none</sub>
+[Lock App](https://www.icloud.com/shortcuts/7fa46ae5058c4d069928c7e06596b3b3) <sub><sup>__iOS__<sup></sub><p>Changes whether the selected application is locked. Locked apps require authentication to access.<p><sup>__Parameters__<br>Lock • Unlock • Toggle</sup><br><sub>__Output__<br>(none)</sub>
 
 <br>
 
-[Delete Contact](https://www.icloud.com/shortcuts/f66e6cccfb0f4cebb9aca0d4da3f4a2f)<p>Deletes one or more contacts<p><sup>__Parameters__<br>Contact</sup><br><sub>__Output__<br>none</sub>
+[Delete Contact](https://www.icloud.com/shortcuts/f66e6cccfb0f4cebb9aca0d4da3f4a2f)<p>Deletes one or more contacts<p><sup>__Parameters__<br>Contact</sup><br><sub>__Output__<br>(none)</sub>
 
 <br>
 
