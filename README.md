@@ -86,7 +86,7 @@ __Usage__
 
 <br>
 
-[Set Color Filter](https://www.icloud.com/shortcuts/f203b0c45a8a41a4b16418fd9e94e85a) <sub><sup>__iOS__<sup></sub><br><sub>_No “Color Tint” option_</sub><p>Choose filter for the Accessibility setting “Color Filters”<p><sup>__Parameters__<br>Red/Green filter (Protanopia) • Green/Red filter (Deuteranopia) • Blue/Yellow filter (Tritanopia) • Grayscale</sup><br><sub>__Output__<br>The generic string “Color Filters”</sub>
+[Set Color Filter](https://www.icloud.com/shortcuts/f203b0c45a8a41a4b16418fd9e94e85a) <sub><sup>__iOS__<sup></sub><br><sub>_Missing parameter: “Color Tint”_</sub><p>Choose filter for the Accessibility setting “Color Filters”<p><sup>__Parameters__<br>Red/Green filter (Protanopia) • Green/Red filter (Deuteranopia) • Blue/Yellow filter (Tritanopia) • Grayscale</sup><br><sub>__Output__<br>The generic string “Color Filters”</sub>
 
 <br>
 
