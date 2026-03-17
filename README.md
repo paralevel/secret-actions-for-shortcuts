@@ -217,11 +217,11 @@ __Usage__
 
 <br>
 
-[Trackpad Swipe Between Pages](https://www.icloud.com/shortcuts/68f1446300c0442593da362f77d7429c) <sub><sup>__macOS__<sup></sub><p>Select gesture for the “Swipe between pages” Trackpad setting<p><sup>__Parameters__<br>Off • Swipe Left or Right with One Finger • Swipe with Two Fingers • Swipe with One or Two Fingers</sup><br><sub>__Output__<br>The generic string “Swipe between pages”</sub>
+[Trackpad Swipe Between Pages](https://www.icloud.com/shortcuts/68f1446300c0442593da362f77d7429c) <sub><sup>__macOS__<sup></sub><p>Change gesture for the “Swipe between pages” Trackpad setting<p><sup>__Parameters__<br>Off • Swipe Left or Right with One Finger • Swipe with Two Fingers • Swipe with One or Two Fingers</sup><br><sub>__Output__<br>The generic string “Swipe between pages”</sub>
 
 <br>
 
-[Trackpad Swipe Between Full-Screen Applications](https://www.icloud.com/shortcuts/3ec27345793e4a708a443aabee9434e1) <sub><sup>__macOS__<sup></sub><br><sub>_Wrongly called “Swipe between pages” in the action_</sub><p>Select gesture for the “Swipe between full-screen applications” Trackpad setting<p><sup>__Parameters__<br>Off • Swipe Left or Right with Three Fingers • Swipe Left or Right with Four Fingers</sup><br><sub>__Output__<br>The generic string “Swipe between pages” [wrong name used]</sub>
+[Trackpad Swipe Between Full-Screen Applications](https://www.icloud.com/shortcuts/3ec27345793e4a708a443aabee9434e1) <sub><sup>__macOS__<sup></sub><br><sub>_Wrongly called “Swipe between pages” in the action_</sub><p>Change gesture for the “Swipe between full-screen applications” Trackpad setting<p><sup>__Parameters__<br>Off • Swipe Left or Right with Three Fingers • Swipe Left or Right with Four Fingers</sup><br><sub>__Output__<br>The generic string “Swipe between pages” [wrong name used]</sub>
 
 <br>
 
@@ -229,11 +229,11 @@ __Usage__
 
 <br>
 
-[Trackpad Mission Control Gesture](https://www.icloud.com/shortcuts/42dcb8713fde485486d2de0a44719758) <sub><sup>__macOS__<sup></sub><p>Select Gesture for the “Mission Control” Trackpad setting<p><sup>__Parameters__<br>Off • Swipe Up with Three Fingers • Swipe Up with Four Fingers</sup><br><sub>__Output__<br>The generic string “Mission Control”</sub>
+[Trackpad Mission Control Gesture](https://www.icloud.com/shortcuts/42dcb8713fde485486d2de0a44719758) <sub><sup>__macOS__<sup></sub><p>Change gesture for the “Mission Control” Trackpad setting<p><sup>__Parameters__<br>Off • Swipe Up with Three Fingers • Swipe Up with Four Fingers</sup><br><sub>__Output__<br>The generic string “Mission Control”</sub>
 
 <br>
 
-[Trackpad App Exposé Gesture](https://www.icloud.com/shortcuts/65a7d64f87f44c69b2ec85d61f1527f1) <sub><sup>__macOS__<sup></sub><p>Select Gesture for the “App Exposé” Trackpad setting<p><sup>__Parameters__<br>Off • Swipe Down with Three Fingers • Swipe Down with Four Fingers</sup><br><sub>__Output__<br>The generic string “App Exposé”</sub>
+[Trackpad App Exposé Gesture](https://www.icloud.com/shortcuts/65a7d64f87f44c69b2ec85d61f1527f1) <sub><sup>__macOS__<sup></sub><p>Change gesture for the “App Exposé” Trackpad setting<p><sup>__Parameters__<br>Off • Swipe Down with Three Fingers • Swipe Down with Four Fingers</sup><br><sub>__Output__<br>The generic string “App Exposé”</sub>
 
 <br>
 
