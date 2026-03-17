@@ -246,7 +246,7 @@ __Usage__
 <br>
 <br>
 
-> __Shortcuts__
+> __Miscellaneous__
 ###
 [Set Shortcut Attributes](https://www.icloud.com/shortcuts/391372497e7c425a90b92bb6bafbacf7)<p>Change an attribute for an individual shortcut<p><sup>__Parameters__<br>Receive Input From Spotlight • Show in Share Sheet • Show on Apple Watch • Pin in Menu Bar • Receive What’s On Screen • Use as Quick Action • Allow Running When Locked</sup><br><sub>__Options__<br>Open When Run</sub><p><sup>__Output__<br>(none)</sup>
 
@@ -259,10 +259,7 @@ __Usage__
 [Installed Apps Settings URLs](https://www.icloud.com/shortcuts/00b53bd9ab7b49e1b4b568d6f2faa9fd) <sub><sup>__iOS__<sup></sub><br><sub><p>Get the settings URL scheme for every app installed<p><sup>__Options__<br>Limit</sup><br><sub>__Output__<br>URLs</sub>
 
 <br>
-<br>
 
-> __Other__
-###
 [Lock App](https://www.icloud.com/shortcuts/7fa46ae5058c4d069928c7e06596b3b3) <sub><sup>__iOS__<sup></sub><p>Changes whether the selected application is locked. Locked apps require authentication to access.<p><sup>__Parameters__<br>Lock • Unlock • Toggle</sup><br><sub>__Output__<br>(none)</sub>
 
 <br>
