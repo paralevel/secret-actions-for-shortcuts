@@ -19,7 +19,7 @@ __Usage__
 
 <br>
 
-[Find Bookmarks](https://www.icloud.com/shortcuts/f1bac8b295be482bbca14f6be591ff84) <sub><sup>__macOS__<sup></sub><br><sub>_Copy of the stock iOS action_</sub><p>Find Safari bookmark<p><sup>__Options__<br>Add Filter • Sort by • Limit</sup><br><sub>__Output__<br>Matching bookmark items</sub>
+[Find Bookmarks](https://www.icloud.com/shortcuts/f1bac8b295be482bbca14f6be591ff84) <sub><sup>__macOS__<sup></sub><br><sub>_Copy of the stock iOS action_</sub><p>Finds Safari bookmarks<p><sup>__Options__<br>Add Filter • Sort by • Limit</sup><br><sub>__Output__<br>Matching bookmark items</sub>
 
 <br>
 
@@ -27,7 +27,7 @@ __Usage__
 
 <br>
 
-[Delete Bookmarks](https://www.icloud.com/shortcuts/1439113460c945279a9152ceef4f0382)<br><sub>_Use in combination with the Find Bookmarks action_</sub><p>Deletes Safari bookmarks<p><sup>__Output__<br>(none)</sup>
+[Delete Bookmarks](https://www.icloud.com/shortcuts/8f645d98155b4f469e27ef782c440b9b)<br><sub>_Use in combination with the Find Bookmarks action_</sub><p>Deletes Safari bookmarks<p><sup>__Output__<br>(none)</sup>
 
 <br>
 
