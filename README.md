@@ -113,7 +113,7 @@ __Usage__
 
 <br>
 
-[Tint Window Background With Wallpaper Color](https://www.icloud.com/shortcuts/b25b9dd7de0049c7a1795b018b1ffa96) <sub><sup>__macOS__<sup></sub><p>Change the Appearance setting “Tint window background with wallpaper color”<p><sup>__Parameters__<br>Small • Medium • Large</sup><br><sub>__Output__<br>The generic string “Tint window background with wallpaper color”</sub>
+[Tint Window Background With Wallpaper Color](https://www.icloud.com/shortcuts/b25b9dd7de0049c7a1795b018b1ffa96) <sub><sup>__macOS__<sup></sub><p>Toggle the Appearance setting “Tint window background with wallpaper color”<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup><br><sub>__Output__<br>The generic string “Tint window background with wallpaper color”</sub>
 
 <br>
 
