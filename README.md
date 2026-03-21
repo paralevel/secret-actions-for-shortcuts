@@ -35,7 +35,7 @@ __Usage__
 
 <br>
 
-[Bookmark URL](https://www.icloud.com/shortcuts/0a32178abc4248c1bbb034f8aca55696)<br><p>Silently adds the given URL with optional name to the end of the root “Bookmarks” folder<p><sup>__Options__<br>Name</sup><br><sub>__Output__<br>The bookmarked URL and its name</sub>
+[Bookmark URL](https://www.icloud.com/shortcuts/0a32178abc4248c1bbb034f8aca55696)<br><p>Silently adds the given URL with optional name to the end of the root Safari “Bookmarks” folder<p><sup>__Options__<br>Name</sup><br><sub>__Output__<br>The bookmarked URL and its name</sub>
 
 <br>
 
@@ -110,11 +110,11 @@ __Usage__
 
 <br>
 
-[AirDrop Bring Devices Together](https://www.icloud.com/shortcuts/adda1b4a5e6c49d6b8faa5512dc0fc09) <sub><sup>__iOS__<sup></sub><p>Toggle the AirDrop setting “Start Sharing By – Bringing Devices Together”<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup><br><sub>__Output__<br>The generic string “Bring Devices Together for AirDrop”</sub>
+[AirDrop Bring Devices Together](https://www.icloud.com/shortcuts/adda1b4a5e6c49d6b8faa5512dc0fc09) <sub><sup>__iOS__<sup></sub><p>Toggle the AirDrop setting “(Start Sharing By) Bringing Devices Together”<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup><br><sub>__Output__<br>The generic string “Bring Devices Together for AirDrop”</sub>
 
 <br>
 
-[AirDrop Use Cellular Data](https://www.icloud.com/shortcuts/752d07f7888b4de8878e3a12fee1021e) <sub><sup>__iOS__<sup></sub><p>Toggle the AirDrop setting “Out of Range – Use Cellular Data”<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup><br><sub>__Output__<br>The generic string “Use Cellular Data”</sub>
+[AirDrop Use Cellular Data](https://www.icloud.com/shortcuts/752d07f7888b4de8878e3a12fee1021e) <sub><sup>__iOS__<sup></sub><p>Toggle the AirDrop setting “(Out of Range) Use Cellular Data”<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup><br><sub>__Output__<br>The generic string “Use Cellular Data”</sub>
 
 <br>
 <br>
