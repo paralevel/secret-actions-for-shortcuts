@@ -70,19 +70,11 @@ __Usage__
 
 <br>
 
-[Flash for Alerts](https://www.icloud.com/shortcuts/591481f4db534e1493af2b4b5dc6c118) <sub><sup>__iOS__<sup></sub><p>Toggle the “Flash for Alerts” Accessibility setting<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup><br><sub>__Output__<br>The generic string “Flash for Alerts”</sub>
-
-<br>
-
 [Flash for Alerts in Silent Mode](https://www.icloud.com/shortcuts/e1800c743b92455aab52297e12aaf998) <sub><sup>__iOS__<sup></sub><p>Toggle the “Flash in Silent Mode” Accessibility setting<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup><br><sub>__Output__<br>The generic string “Flash in Silent Mode”</sub>
 
 <br>
 
 [Flash for Alerts While Unlocked](https://www.icloud.com/shortcuts/919ef5ee6ddd42f894408cc416598417) <sub><sup>__iOS__<sup></sub><p>Toggle the “Flash While Unlocked” Accessibility setting<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup><br><sub>__Output__<br>The generic string “Flash While Unlocked”</sub>
-
-<br>
-
-[Audio Volume Balance](https://www.icloud.com/shortcuts/9c91aa67a59a4c5eac23dc6f1bb274aa) <sub><sup>__iOS__<sup></sub><br><sub>_Resets the balance to 0.0 when toggling to Off, but due to a bug the indicator above the slider in Settings app will keep showing the previous value_</sub><p>Adjust or toggle the audio volume balance between left and right channels<p><sup>__Parameters__<br>Toggle • Set</sup><br><sub>__Output__<br>(no output)</sub>
 
 <br>
 
