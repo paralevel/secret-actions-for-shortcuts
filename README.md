@@ -15,7 +15,7 @@ __Usage__
 
 > __Safari__
 ###
-[Clear History](https://www.icloud.com/shortcuts/3bff1910f3b34daf90fda20d6913e10e) <sub><sup>__iOS__<sup></sub><br><sub>_Opens the “Clear History” dialog_</sub><p>Clears history, related cookies and other website data in Safari<p><sup>__Parameters__<br>Last Hour • Today • Today and Yesterday • All History</sup><br><sub>__Output__<br>(none)</sub>
+[Clear History](https://www.icloud.com/shortcuts/3bff1910f3b34daf90fda20d6913e10e) <sub><sup>__iOS__<sup></sub><p>Opens the “Clear History” dialog in Safari<p><sup>__Parameters__<br>Last Hour • Today • Today and Yesterday • All History</sup><br><sub>__Output__<br>(none)</sub>
 
 <br>
 
@@ -31,7 +31,11 @@ __Usage__
 
 <br>
 
-[Add Bookmark](https://www.icloud.com/shortcuts/03fd3d58b356445dbd2b60362302e922)<br><sub>_Opens the “Add Bookmark” dialog_</sub><p>Add the current web page to Safari bookmarks<p><sup>__Options__<br>Title</sup><br><sub>__Output__<br>(none)</sub>
+[Bookmark Current Page](https://www.icloud.com/shortcuts/03fd3d58b356445dbd2b60362302e922)<br><p>Opens the “Add Bookmark” dialog for the current Safari web page<p><sup>__Options__<br>Title</sup><br><sub>__Output__<br>(none)</sub>
+
+<br>
+
+[Bookmark URL](https://www.icloud.com/shortcuts/0a32178abc4248c1bbb034f8aca55696)<br><p>Silently adds a URL with an optional name to the end of the root “Bookmarks” folder<p><sup>__Options__<br>Name</sup><br><sub>__Output__<br>The bookmarked URL and its name</sub>
 
 <br>
 
