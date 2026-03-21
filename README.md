@@ -98,11 +98,11 @@ __Usage__
 
 <br>
 
-[Set Color Filter](https://www.icloud.com/shortcuts/f203b0c45a8a41a4b16418fd9e94e85a) <sub><sup>__iOS__<sup></sub><br><sub>_Missing parameter: “Color Tint”_</sub><p>Choose filter for the Accessibility setting “Color Filters”<p><sup>__Parameters__<br>Red/Green filter (Protanopia) • Green/Red filter (Deuteranopia) • Blue/Yellow filter (Tritanopia) • Grayscale</sup><br><sub>__Output__<br>The generic string “Color Filters”</sub>
+[Choose Color Filter](https://www.icloud.com/shortcuts/f203b0c45a8a41a4b16418fd9e94e85a) <sub><sup>__iOS__<sup></sub><br><sub>_Missing parameter: “Color Tint”_</sub><p>Choose filter for the Accessibility setting “Color Filters”<p><sup>__Parameters__<br>Red/Green filter (Protanopia) • Green/Red filter (Deuteranopia) • Blue/Yellow filter (Tritanopia) • Grayscale</sup><br><sub>__Output__<br>The generic string “Color Filters”</sub>
 
 <br>
 
-[Set Zoom Filter](https://www.icloud.com/shortcuts/ded5de5e0e924cd9a5df2c879c91c4a7) <sub><sup>__iOS__<sup></sub><br><sub>_You need to have Zoom enabled to see any changes_</sub><p>Choose filter for the Accessibility setting “Zoom Filters”<p><sup>__Parameters__<br>None • Grayscale • Grayscale Inverted • Hue Adjust • Low Light</sup><br><sub>__Output__<br>The generic string “Zoom Filter”</sub>
+[Choose Zoom Filter](https://www.icloud.com/shortcuts/ded5de5e0e924cd9a5df2c879c91c4a7) <sub><sup>__iOS__<sup></sub><br><sub>_You need to have Zoom enabled to see any changes_</sub><p>Choose filter for the Accessibility setting “Zoom Filters”<p><sup>__Parameters__<br>None • Grayscale • Grayscale Inverted • Hue Adjust • Low Light</sup><br><sub>__Output__<br>The generic string “Zoom Filter”</sub>
 
 <br>
 
@@ -145,7 +145,7 @@ __Usage__
 
 <br>
 
-[Set Color Filter](https://www.icloud.com/shortcuts/f982e3422d7142279168767fd4d6c6b8) <sub><sup>__macOS__<sup></sub><br><sub>_You need to have Color Filters enabled to see any changes_</sub><p>Choose filter for the Accessibility setting “Color Filters”<p><sup>__Parameters__<br>Grayscale • Red/Green filter (Protanopia) • Green/Red filter (Deuteranopia) • Blue/Yellow filter (Tritanopia) • Color Tint</sup><br><sub>__Output__<br>The generic string “Filter type”</sub>
+[Choose Color Filter](https://www.icloud.com/shortcuts/f982e3422d7142279168767fd4d6c6b8) <sub><sup>__macOS__<sup></sub><br><sub>_You need to have Color Filters enabled to see any changes_</sub><p>Choose filter for the Accessibility setting “Color Filters”<p><sup>__Parameters__<br>Grayscale • Red/Green filter (Protanopia) • Green/Red filter (Deuteranopia) • Blue/Yellow filter (Tritanopia) • Color Tint</sup><br><sub>__Output__<br>The generic string “Filter type”</sub>
 
 <br>
 
