@@ -35,7 +35,7 @@ __Usage__
 
 <br>
 
-[Bookmark URL](https://www.icloud.com/shortcuts/0a32178abc4248c1bbb034f8aca55696)<br><p>Silently adds a URL with an optional name to the end of the root “Bookmarks” folder<p><sup>__Options__<br>Name</sup><br><sub>__Output__<br>The bookmarked URL and its name</sub>
+[Bookmark URL](https://www.icloud.com/shortcuts/0a32178abc4248c1bbb034f8aca55696)<br><p>Silently adds the given URL with optional name to the end of the root “Bookmarks” folder<p><sup>__Options__<br>Name</sup><br><sub>__Output__<br>The bookmarked URL and its name</sub>
 
 <br>
 
@@ -43,7 +43,7 @@ __Usage__
 
 <br>
 
-[Open URL or Blank Tab in Current Tab Group](https://www.icloud.com/shortcuts/781a72027b634c8c8963b6aad2a38dd6)<br><sub>_Actual title: “Create Tab for URL“_</sub><p>Opens a URL or blank tab – in the current tab group – unlike any of the official actions<p><sup>__Options__<br>URL</sup><br><sub>__Output__<br>The URL if supplied or the Start Page URL if not</sub>
+[Open URL or Blank Tab in Current Tab Group](https://www.icloud.com/shortcuts/781a72027b634c8c8963b6aad2a38dd6)<br><sub>_Actual title: “Create Tab for URL“_</sub><p>Opens an optional URL or a blank tab – in the current tab group – unlike any of the official actions<p><sup>__Options__<br>URL</sup><br><sub>__Output__<br>The URL if supplied or the Start Page URL if not</sub>
 
 <br>
 
@@ -82,7 +82,7 @@ __Usage__
 
 <br>
 
-[Audio Volume Balance](https://www.icloud.com/shortcuts/116550a020e4441d9715471ce4ff6a86) <sub><sup>__iOS__<sup></sub><br><sub>_When toggling to Off, balance is set to 0.0, but due to a bug the number indicator above the slider in Settings app will keep showing the previous value_</sub><p>Adjust or toggle the audio volume balance between left and right channels<p><sup>__Parameters__<br>Toggle • Set</sup><br><sub>__Output__<br>(no output)</sub>
+[Audio Volume Balance](https://www.icloud.com/shortcuts/9c91aa67a59a4c5eac23dc6f1bb274aa) <sub><sup>__iOS__<sup></sub><br><sub>_Resets the balance to 0.0 when toggling to Off, but due to a bug the indicator above the slider in Settings app will keep showing the previous value_</sub><p>Adjust or toggle the audio volume balance between left and right channels<p><sup>__Parameters__<br>Toggle • Set</sup><br><sub>__Output__<br>(no output)</sub>
 
 <br>
 
