@@ -43,7 +43,7 @@ __Usage__
 
 <br>
 
-[Open URL or Blank Tab in Current Tab Group](https://www.icloud.com/shortcuts/781a72027b634c8c8963b6aad2a38dd6)<br><sub>_Actual title: “Create Tab for URL“_</sub><p>Opens an optional URL or a blank tab – in the current tab group – unlike any of the official actions<p><sup>__Options__<br>URL</sup><br><sub>__Output__<br>The URL if supplied or the Start Page URL if not</sub>
+[Open URL/Blank Tab in Current Tab Group](https://www.icloud.com/shortcuts/781a72027b634c8c8963b6aad2a38dd6)<br><sub>_Actual title: “Create Tab for URL“_</sub><p>Opens an optional URL or a blank tab – in the current tab group – unlike any of the official actions<p><sup>__Options__<br>URL</sup><br><sub>__Output__<br>The URL if supplied or the Start Page URL if not</sub>
 
 <br>
 
