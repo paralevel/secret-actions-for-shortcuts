@@ -70,11 +70,11 @@ __Usage__
 
 <br>
 
-[Flash for Alerts in Silent Mode](https://www.icloud.com/shortcuts/e1800c743b92455aab52297e12aaf998) <sub><sup>__iOS__<sup></sub><p>Toggle the “Flash in Silent Mode” Accessibility setting<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup><br><sub>__Output__<br>The generic string “Flash in Silent Mode”</sub>
+[Flash for Alerts in Silent Mode](https://www.icloud.com/shortcuts/e1800c743b92455aab52297e12aaf998) <sub><sup>__iOS__<sup></sub><br><sub>_You need to have Flash for Alerts enabled to see any changes_</sub><p>Toggle the “Flash in Silent Mode” Accessibility setting<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup><br><sub>__Output__<br>The generic string “Flash in Silent Mode”</sub>
 
 <br>
 
-[Flash for Alerts While Unlocked](https://www.icloud.com/shortcuts/919ef5ee6ddd42f894408cc416598417) <sub><sup>__iOS__<sup></sub><p>Toggle the “Flash While Unlocked” Accessibility setting<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup><br><sub>__Output__<br>The generic string “Flash While Unlocked”</sub>
+[Flash for Alerts While Unlocked](https://www.icloud.com/shortcuts/919ef5ee6ddd42f894408cc416598417) <sub><sup>__iOS__<sup></sub><br><sub>_You need to have Flash for Alerts enabled to see any changes_</sub><p>Toggle the “Flash While Unlocked” Accessibility setting<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup><br><sub>__Output__<br>The generic string “Flash While Unlocked”</sub>
 
 <br>
 
@@ -98,7 +98,7 @@ __Usage__
 
 <br>
 
-[Choose Color Filter](https://www.icloud.com/shortcuts/f203b0c45a8a41a4b16418fd9e94e85a) <sub><sup>__iOS__<sup></sub><br><sub>_Missing parameter: “Color Tint”_</sub><p>Choose filter for the Accessibility setting “Color Filters”<p><sup>__Parameters__<br>Red/Green filter (Protanopia) • Green/Red filter (Deuteranopia) • Blue/Yellow filter (Tritanopia) • Grayscale</sup><br><sub>__Output__<br>The generic string “Color Filters”</sub>
+[Choose Color Filter](https://www.icloud.com/shortcuts/f203b0c45a8a41a4b16418fd9e94e85a) <sub><sup>__iOS__<sup></sub><br><sub>_Automatically also enables Color Filters; no Color Tint parameter_</sub><p>Choose filter for the Accessibility setting “Color Filters”<p><sup>__Parameters__<br>Red/Green filter (Protanopia) • Green/Red filter (Deuteranopia) • Blue/Yellow filter (Tritanopia) • Grayscale</sup><br><sub>__Output__<br>The generic string “Color Filters”</sub>
 
 <br>
 
