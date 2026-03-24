@@ -268,7 +268,7 @@ __Usage__
 
 <br>
 
-[Installed Apps Settings URLs](https://www.icloud.com/shortcuts/00b53bd9ab7b49e1b4b568d6f2faa9fd) <sub><sup>__iOS__<sup></sub><br><sub><p>Get the settings URL scheme for every app installed<p><sup>__Options__<br>Limit</sup><br><sub>__Output__<br>URLs</sub>
+[Installed Apps Settings URLs](https://www.icloud.com/shortcuts/00b53bd9ab7b49e1b4b568d6f2faa9fd) <sub><sup>__iOS__<sup></sub><br><sub>_Use with e.g. Open URL or Get URLs from Input_</sub><p>Get the settings URL scheme for every app installed<p><sup>__Options__<br>Limit</sup><br><sub>__Output__<br>App names with corresponding URLs</sub>
 
 <br>
 
