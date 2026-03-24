@@ -15,7 +15,7 @@ __Usage__
 
 > __Safari__
 ###
-[Clear History](https://www.icloud.com/shortcuts/3bff1910f3b34daf90fda20d6913e10e) <sub><sup>__iOS__<sup></sub><p>Opens the “Clear History” dialog in Safari<p><sup>__Parameters__<br>Last Hour • Today • Today and Yesterday • All History</sup><br><sub>__Output__<br>(none)</sub>
+[Clear History](https://www.icloud.com/shortcuts/fbf7dc393a4f44479da72291b7504f62) <sub><sup>__iOS__<sup></sub><p>Opens the “Clear History” dialog in Safari<p><sup>__Parameters__<br>Last Hour • Today • Today and Yesterday • All History</sup><br><sub>__Output__<br>(none)</sub>
 
 <br>
 
@@ -280,7 +280,7 @@ __Usage__
 
 <br>
 
-[Find Focus](https://www.icloud.com/shortcuts/60127f3bc6894ea691888efdd3a8162f) <sub><sup>__iOS__<sup></sub><p>Get a list of all Focus modes<p><sup>__Options__<br>Limit</sup><br><sub>__Output__<br>List of Focus modes</sub>
+[Find Focus](https://www.icloud.com/shortcuts/71375f2726c140beb4352ba9653479fd) <sub><sup>__iOS__<sup></sub><p>Get a list of all Focus modes<p><sup>__Options__<br>Limit</sup><br><sub>__Output__<br>List of Focus modes</sub>
 
 <br>
 
