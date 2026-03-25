@@ -2,6 +2,8 @@
 
 Collection of hidden actions in Shortcuts app on iOS and macOS
 
+<sub>_Minimum iOS and macOS versions: 26_</sub>
+
 <br>
 
 __Usage__
