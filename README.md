@@ -2,7 +2,7 @@
 
 Collection of hidden actions in Shortcuts app on iOS and macOS
 
-<sub>_Requirements: iOS 26 or macOS Tahoe_</sub>
+<sub>_Requirements: iOS 26 or macOS 26 Tahoe_</sub>
 
 <br>
 
