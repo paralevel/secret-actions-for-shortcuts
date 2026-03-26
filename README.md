@@ -12,7 +12,7 @@ __Usage__
 
 <br>
 
-___Tip___: By selecting a different detail for the output type <sup>[[iOS guide]](https://support.apple.com/guide/shortcuts/adjust-variables-apda36b9018b/ios) [[macOS guide]](https://support.apple.com/guide/shortcuts-mac/adjust-variables-apda36b9018b/mac)</sup>, it's possible to extract some useful information, for example which parameter was changed
+___Tip___: It's possible to extract some useful information from the output, for example which parameter was changed, by selecting a different detail for the output type <sup>[[iOS guide]](https://support.apple.com/guide/shortcuts/adjust-variables-apda36b9018b/ios) [[macOS guide]](https://support.apple.com/guide/shortcuts-mac/adjust-variables-apda36b9018b/mac)</sup>
 
 <br>
 <br>
