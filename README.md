@@ -14,10 +14,17 @@ __Usage__
 <br>
 
 > [!TIP]
-> It's possible to extract some useful information from the action output, for example which parameter was changed, by selecting a different detail for the output type <sup>[[iOS guide]](https://support.apple.com/guide/shortcuts/adjust-variables-apda36b9018b/ios) [[macOS guide]](https://support.apple.com/guide/shortcuts-mac/adjust-variables-apda36b9018b/mac)
+> It's possible to extract some useful information from the action output – for example which parameter was changed – by selecting a different detail for the output type <sup>[[iOS guide]](https://support.apple.com/guide/shortcuts/adjust-variables-apda36b9018b/ios) [[macOS guide]](https://support.apple.com/guide/shortcuts-mac/adjust-variables-apda36b9018b/mac)
 
-> [!NOTE]
+<br>
+
+<sub>
+
+> [!NOTE] 
 > These actions likely won't work on iOS <26 and macOS <26
+
+</sub>
+
 
 <br>
 <br>
