@@ -1,8 +1,6 @@
 # Secret Actions for Shortcuts
 
-Collection of hidden actions in Shortcuts app on iOS and macOS
-
-<sub>_Requirements: iOS 26 or macOS 26 Tahoe_</sub>
+Collection of hidden actions in Shortcuts app on iOS 26 and macOS 26
 
 <br>
 
@@ -11,6 +9,10 @@ __Usage__
 2. Open the shortcut
 3. Copy the action
 4. Paste it into your own shortcut
+
+<br>
+
+___Tip___: It's possible to change the output type and details of the type to extract useful information <sup>[[iOS guide]](https://support.apple.com/guide/shortcuts/adjust-variables-apda36b9018b/ios) [[macOS guide]](https://support.apple.com/guide/shortcuts-mac/adjust-variables-apda36b9018b/mac)</sup>
 
 <br>
 <br>
@@ -100,7 +102,7 @@ __Usage__
 
 <br>
 
-[Choose Color Filter](https://www.icloud.com/shortcuts/f203b0c45a8a41a4b16418fd9e94e85a) <sub><sup>__iOS__<sup></sub><br><sub>_Automatically also enables Color Filters; no Color Tint parameter_</sub><p>Choose filter for the Accessibility setting “Color Filters”<p><sup>__Parameters__<br>Red/Green filter (Protanopia) • Green/Red filter (Deuteranopia) • Blue/Yellow filter (Tritanopia) • Grayscale</sup><br><sub>__Output__<br>The generic string “Color Filters”</sub>
+[Choose Color Filter](https://www.icloud.com/shortcuts/f203b0c45a8a41a4b16418fd9e94e85a) <sub><sup>__iOS__<sup></sub><br><sub>_Automatically also enables Color Filters; no Color Tint parameter_</sub><p>Choose filter for the Accessibility setting “Color Filters”<p><sup>__Parameters__<br>Off • Red/Green filter (Protanopia) • Green/Red filter (Deuteranopia) • Blue/Yellow filter (Tritanopia) • Grayscale</sup><br><sub>__Output__<br>Color Filters, `GRAYSCALE` [Off [wrong term used]], `RED_ADJUST` [Red/Green], `GREEN_ADJUST` [Green/Red], `BLUE_ADJUST` [Blue/Yellow], `GRAYSCALE` [Grayscale]</sub>
 
 <br>
 
@@ -147,7 +149,7 @@ __Usage__
 
 <br>
 
-[Choose Color Filter](https://www.icloud.com/shortcuts/f982e3422d7142279168767fd4d6c6b8) <sub><sup>__macOS__<sup></sub><br><sub>_You need to have Color Filters enabled to see any changes_</sub><p>Choose filter for the Accessibility setting “Color Filters”<p><sup>__Parameters__<br>Grayscale • Red/Green filter (Protanopia) • Green/Red filter (Deuteranopia) • Blue/Yellow filter (Tritanopia) • Color Tint</sup><br><sub>__Output__<br>The generic string “Filter type”</sub>
+[Choose Color Filter](https://www.icloud.com/shortcuts/f982e3422d7142279168767fd4d6c6b8) <sub><sup>__macOS__<sup></sub><br><sub>_You need to have Color Filters enabled to see any changes_</sub><p>Choose filter for the Accessibility setting “Color Filters”<p><sup>__Parameters__<br>Grayscale • Red/Green filter (Protanopia) • Green/Red filter (Deuteranopia) • Blue/Yellow filter (Tritanopia) • Color Tint</sup><br><sub>__Output__<br>Filter type, Grayscale, Red/Green filter (Protanopia), Green/Red filter (Deuteranopia), Blue/Yellow filter (Tritanopia), Color Tint</sub>
 
 <br>
 
