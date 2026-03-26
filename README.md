@@ -20,7 +20,7 @@ __Usage__
 
 <sub>
 
-> [!NOTE] 
+> [!CAUTION] 
 > These actions likely won't work on iOS <26 and macOS <26
 
 </sub>
