@@ -82,7 +82,7 @@ __Usage__
 
 <br>
 
-[Vibration Toggle](https://www.icloud.com/shortcuts/1b61d7c6ea6e4e76a303af565e7ebdd9) <sub><sup>__iOS__<sup></sub><p>Toggle “Vibration” (Accessibility > Touch)<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup>
+[Vibration](https://www.icloud.com/shortcuts/1b61d7c6ea6e4e76a303af565e7ebdd9) <sub><sup>__iOS__<sup></sub><p>Toggle “Vibration” (Accessibility > Touch)<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup>
 
 <br>
 
