@@ -205,7 +205,7 @@ __Usage__
 
 <br>
 
-[Flash the Screen when an Alert Sound Occurs](https://www.icloud.com/shortcuts/7f9e4a28d262482883e39a6a5e4cc2f6) <sub><sup>__macOS__<sup></sub><p>Toggle “Flash the screen when an alert sound occurs” (Accessibility > Audio)<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup>
+[Flash the Screen When an Alert Sound Occurs](https://www.icloud.com/shortcuts/7f9e4a28d262482883e39a6a5e4cc2f6) <sub><sup>__macOS__<sup></sub><p>Toggle “Flash the screen when an alert sound occurs” (Accessibility > Audio)<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup>
 
 <br>
 
