@@ -78,15 +78,15 @@ __Usage__
 
 <br>
 
-[Show Silent Mode in Status Bar](https://www.icloud.com/shortcuts/cb6d50f0fe8d414391cea66e6ef129d8) <sub><sup>__iOS__<sup></sub><p>Toggle “Show in Status Bar” (Sounds & Haptics > Silent Mode)<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup><br><sub>__Output__<br>Silent Mode in Status Bar, No, Yes</sub>
+[Show Silent Mode in Status Bar](https://www.icloud.com/shortcuts/cb6d50f0fe8d414391cea66e6ef129d8) <sub><sup>__iOS__<sup></sub><p>Toggle “Show in Status Bar” (Sounds & Haptics > Silent Mode)<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup><br><sub>__Output__<br>_Silent Mode in Status Bar_, _No_, _Yes_</sub>
 
 <br>
 
-[Vibration Toggle](https://www.icloud.com/shortcuts/1b61d7c6ea6e4e76a303af565e7ebdd9) <sub><sup>__iOS__<sup></sub><p>Toggle “Vibration” (Accessibility > Touch)<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup><br><sub>__Output__<br>Vibration, No, Yes</sub>
+[Vibration Toggle](https://www.icloud.com/shortcuts/1b61d7c6ea6e4e76a303af565e7ebdd9) <sub><sup>__iOS__<sup></sub><p>Toggle “Vibration” (Accessibility > Touch)<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup><br><sub>__Output__<br>_Vibration_, _No_, _Yes_</sub>
 
 <br>
 
-[Alert Haptics](https://www.icloud.com/shortcuts/da466ed63c784c17a35d29ffa5c45289) <sub><sup>__iOS__<sup></sub><p>Change “Alert Haptics” (Sounds & Haptics)<p><sup>__Parameters__<br>Always Play • Play in Silent Mode • Don”t Play in Silent Mode • Never</sup><br><sub>__Output__<br>Haptic options, Never [any parameter]</sub>
+[Alert Haptics](https://www.icloud.com/shortcuts/da466ed63c784c17a35d29ffa5c45289) <sub><sup>__iOS__<sup></sub><p>Change “Alert Haptics” (Sounds & Haptics)<p><sup>__Parameters__<br>Always Play • Play in Silent Mode • Don”t Play in Silent Mode • Never</sup><br><sub>__Output__<br>_Haptic options_, _Never_ [any parameter]</sub>
 
 <br>
 
@@ -118,7 +118,7 @@ __Usage__
 
 <br>
 
-[Choose Color Filter](https://www.icloud.com/shortcuts/f203b0c45a8a41a4b16418fd9e94e85a) <sub><sup>__iOS__<sup></sub><br><sub>_Automatically also enables Color Filters; no Color Tint parameter_</sub><p>Choose filter for the Accessibility setting “Color Filters”<p><sup>__Parameters__<br>Off • Red/Green filter (Protanopia) • Green/Red filter (Deuteranopia) • Blue/Yellow filter (Tritanopia) • Grayscale</sup><br><sub>__Output__<br>Color Filters, `GRAYSCALE` [Off [wrong term used]], `RED_ADJUST` [Red/Green], `GREEN_ADJUST` [Green/Red], `BLUE_ADJUST` [Blue/Yellow], `GRAYSCALE` [Grayscale]</sub>
+[Choose Color Filter](https://www.icloud.com/shortcuts/f203b0c45a8a41a4b16418fd9e94e85a) <sub><sup>__iOS__<sup></sub><br><sub>_Automatically also enables Color Filters; no Color Tint parameter_</sub><p>Choose filter for the Accessibility setting “Color Filters”<p><sup>__Parameters__<br>Off • Red/Green filter (Protanopia) • Green/Red filter (Deuteranopia) • Blue/Yellow filter (Tritanopia) • Grayscale</sup><br><sub>__Output__<br>_Color Filters_, _`GRAYSCALE`_ [Off [wrong term used]], _`RED_ADJUST`_ [Red/Green], _`GREEN_ADJUST`_ [Green/Red], _`BLUE_ADJUST`_ [Blue/Yellow], _`GRAYSCALE`_ [Grayscale]</sub>
 
 <br>
 
@@ -165,7 +165,7 @@ __Usage__
 
 <br>
 
-[Choose Color Filter](https://www.icloud.com/shortcuts/f982e3422d7142279168767fd4d6c6b8) <sub><sup>__macOS__<sup></sub><br><sub>_You need to have Color Filters enabled to see any changes_</sub><p>Choose filter for the Accessibility setting “Color Filters”<p><sup>__Parameters__<br>Grayscale • Red/Green filter (Protanopia) • Green/Red filter (Deuteranopia) • Blue/Yellow filter (Tritanopia) • Color Tint</sup><br><sub>__Output__<br>Filter type, Grayscale, Red/Green filter (Protanopia), Green/Red filter (Deuteranopia), Blue/Yellow filter (Tritanopia), Color Tint</sub>
+[Choose Color Filter](https://www.icloud.com/shortcuts/f982e3422d7142279168767fd4d6c6b8) <sub><sup>__macOS__<sup></sub><br><sub>_You need to have Color Filters enabled to see any changes_</sub><p>Choose filter for the Accessibility setting “Color Filters”<p><sup>__Parameters__<br>Grayscale • Red/Green filter (Protanopia) • Green/Red filter (Deuteranopia) • Blue/Yellow filter (Tritanopia) • Color Tint</sup><br><sub>__Output__<br>_Filter type_, _Grayscale_, _Red/Green filter (Protanopia)_, _Green/Red filter (Deuteranopia)_, _Blue/Yellow filter (Tritanopia)_, _Color Tint_</sub>
 
 <br>
 
