@@ -13,7 +13,7 @@ __Usage__
 <br>
 
 > [!TIP]
-> It's possible to extract some useful information from the action output – for example which parameter was changed – by selecting a different detail for the output type <sup>[[iOS guide]](https://support.apple.com/guide/shortcuts/adjust-variables-apda36b9018b/ios) [[macOS guide]](https://support.apple.com/guide/shortcuts-mac/adjust-variables-apda36b9018b/mac)
+> It's possible to extract some useful information from the output of the actions, for example the updated value of a parameter – by selecting a different detail for the output type <sup>[[iOS guide]](https://support.apple.com/guide/shortcuts/adjust-variables-apda36b9018b/ios) [[macOS guide]](https://support.apple.com/guide/shortcuts-mac/adjust-variables-apda36b9018b/mac)
 
 <br>
 
@@ -118,7 +118,7 @@ __Usage__
 
 <br>
 
-[Choose Color Filter](https://www.icloud.com/shortcuts/f203b0c45a8a41a4b16418fd9e94e85a) <sub><sup>__iOS__<sup></sub><br><sub>_Automatically also enables Color Filters; no Color Tint parameter; the Off parameter wrongly outputs `GRAYSCALE`_</sub><p>Choose filter for the Accessibility setting “Color Filters”<p><sup>__Parameters__<br>Off • Red/Green filter (Protanopia) • Green/Red filter (Deuteranopia) • Blue/Yellow filter (Tritanopia) • Grayscale</sup>
+[Choose Color Filter](https://www.icloud.com/shortcuts/f203b0c45a8a41a4b16418fd9e94e85a) <sub><sup>__iOS__<sup></sub><br><sub>_Automatically also enables Color Filters; no Color Tint parameter; the output of the Off parameter is `GRAYSCALE`_</sub><p>Choose filter for the Accessibility setting “Color Filters”<p><sup>__Parameters__<br>Off • Red/Green filter (Protanopia) • Green/Red filter (Deuteranopia) • Blue/Yellow filter (Tritanopia) • Grayscale</sup>
 
 <br>
 
