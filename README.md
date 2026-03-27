@@ -197,7 +197,7 @@ __Usage__
 
 <br>
 
-[Play Feedback when Volume is Changed](https://www.icloud.com/shortcuts/29c18f5b9b194cbf91543b860443609f) <sub><sup>__macOS__<sup></sub><p>Toggle “Play feedback when volume is changed” (Sound > Sound Effects)<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup>
+[Play Feedback When Volume is Changed](https://www.icloud.com/shortcuts/29c18f5b9b194cbf91543b860443609f) <sub><sup>__macOS__<sup></sub><p>Toggle “Play feedback when volume is changed” (Sound > Sound Effects)<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup>
 
 <br>
 
