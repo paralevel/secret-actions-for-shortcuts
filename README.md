@@ -189,7 +189,7 @@ __Usage__
 
 <br>
 
-[Application Notification Settings](https://www.icloud.com/shortcuts/1f9c0e6c26ed4b3ba2833f5c7042e30b) <sub><sup>__macOS__<sup></sub><p>Change one or more notification settings for an indiviudal application (Notifications)<p><sup>__Parameters__<br>Alert style • Critical notifications • Allow notifications • Time sensitive notifications • Badge application icon • Notification grouping • Play sound for notification • Show in Notification Center • Show notifications on lock screen • Show previews</sup>
+[Application Notification Settings](https://www.icloud.com/shortcuts/1f9c0e6c26ed4b3ba2833f5c7042e30b) <sub><sup>__macOS__<sup></sub><p>Change one or more notification settings for a specific application (Notifications)<p><sup>__Parameters__<br>Alert style • Critical notifications • Allow notifications • Time sensitive notifications • Badge application icon • Notification grouping • Play sound for notification • Show in Notification Center • Show notifications on lock screen • Show previews</sup>
 
 <br>
 
@@ -304,7 +304,7 @@ __Usage__
 
 <br>
 
-[Family Member Details](https://www.icloud.com/shortcuts/6a578a3c9e054f8d8d4d2afcf5fc79cf)<p>Open the details page for a specific Family member
+[Family Member Details](https://www.icloud.com/shortcuts/6a578a3c9e054f8d8d4d2afcf5fc79cf)<p>Open the details page for a specific member in (System) Settings > Family
 
 <br>
 
