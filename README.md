@@ -43,7 +43,7 @@ __Usage__
 
 <br>
 
-[Delete Bookmarks](https://www.icloud.com/shortcuts/8f645d98155b4f469e27ef782c440b9b)<br><sub>_Use in combination with the Find Bookmarks action_</sub><p>Deletes Safari bookmarks
+[Delete Bookmarks](https://www.icloud.com/shortcuts/8f645d98155b4f469e27ef782c440b9b)<br><sub>_Use in combination with the Find Bookmarks action_</sub><p>Delete one or more Safari bookmarks
 
 <br>
 
@@ -141,19 +141,19 @@ __Usage__
 
 > __macOS Settings__
 ###
-[Sidebar Icon Size](https://www.icloud.com/shortcuts/acef10e5216e4309846544eea4895fa3) <sub><sup>__macOS__<sup></sub><p>Change “Sidebar Icon Size” (Appearance)<p><sup>__Parameters__<br>Small • Medium • Large</sup>
+[Sidebar Icon Size](https://www.icloud.com/shortcuts/acef10e5216e4309846544eea4895fa3) <sub><sup>__macOS__<sup></sub><p>Change “Sidebar Icon Size” (Appearance > Windows)<p><sup>__Parameters__<br>Small • Medium • Large</sup>
 
 <br>
 
-[Tint Window Background With Wallpaper Color](https://www.icloud.com/shortcuts/b25b9dd7de0049c7a1795b018b1ffa96) <sub><sup>__macOS__<sup></sub><p>Toggle “Tint window background with wallpaper color” (Appearance)<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup>
+[Tint Window Background With Wallpaper Color](https://www.icloud.com/shortcuts/b25b9dd7de0049c7a1795b018b1ffa96) <sub><sup>__macOS__<sup></sub><p>Toggle “Tint window background with wallpaper color” (Appearance > Windows)<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup>
 
 <br>
 
-[Show Scroll Bars When](https://www.icloud.com/shortcuts/cbc83684138647239140196e76a500c4) <sub><sup>__macOS__<sup></sub><p>Change “Show scroll bars” (Appearance)<p><sup>__Parameters__<br>Automatically based on mouse or trackpad • When scrolling • Always</sup>
+[Show Scroll Bars When](https://www.icloud.com/shortcuts/cbc83684138647239140196e76a500c4) <sub><sup>__macOS__<sup></sub><p>Change “Show scroll bars” (Appearance > Windows)<p><sup>__Parameters__<br>Automatically based on mouse or trackpad • When scrolling • Always</sup>
 
 <br>
 
-[Click in Scroll Bar To](https://www.icloud.com/shortcuts/94b30eeab6104e9282f964d18e6764e8) <sub><sup>__macOS__<sup></sub><p>Change “Click in the scroll bar to” (Appearance)<p><sup>__Parameters__<br>Jump to the next page • Jump to the spot that’s clicked</sup>
+[Click in Scroll Bar To](https://www.icloud.com/shortcuts/94b30eeab6104e9282f964d18e6764e8) <sub><sup>__macOS__<sup></sub><p>Change “Click in the scroll bar to” (Appearance > Windows)<p><sup>__Parameters__<br>Jump to the next page • Jump to the spot that’s clicked</sup>
 
 <br>
 
@@ -165,7 +165,7 @@ __Usage__
 
 <br>
 
-[Choose Color Filter](https://www.icloud.com/shortcuts/f982e3422d7142279168767fd4d6c6b8) <sub><sup>__macOS__<sup></sub><br><sub>_You need to have Color Filters enabled to see any changes_</sub><p>Choose filter for “Color filters” (Accessibility > Display)<p><sup>__Parameters__<br>Grayscale • Red/Green filter (Protanopia) • Green/Red filter (Deuteranopia) • Blue/Yellow filter (Tritanopia) • Color Tint</sup>
+[Choose Color Filter](https://www.icloud.com/shortcuts/f982e3422d7142279168767fd4d6c6b8) <sub><sup>__macOS__<sup></sub><br><sub>_You need to have Color Filters enabled to see any changes_</sub><p>Choose filter for “Color filters” (Accessibility > Display > Color Filters)<p><sup>__Parameters__<br>Grayscale • Red/Green filter (Protanopia) • Green/Red filter (Deuteranopia) • Blue/Yellow filter (Tritanopia) • Color Tint</sup>
 
 <br>
 
@@ -177,35 +177,35 @@ __Usage__
 
 <br>
 
-[Menu Bar Clock Settings](https://www.icloud.com/shortcuts/ec220408957b47ab9ad46a6d26f5d493) <sub><sup>__macOS__<sup></sub><p>Change one or more Clock settings (Menu Bar)<p><sup>__Parameters__<br>Announce the time • Style • Flash the time separators • Show AM/PM • Show date • Show the day of the week • Display the time with seconds • Interval</sup>
+[Menu Bar Clock Settings](https://www.icloud.com/shortcuts/ec220408957b47ab9ad46a6d26f5d493) <sub><sup>__macOS__<sup></sub><p>Change one or more Clock settings (Menu Bar > Menu Bar Controls)<p><sup>__Parameters__<br>Announce the time • Style • Flash the time separators • Show AM/PM • Show date • Show the day of the week • Display the time with seconds • Interval</sup>
 
 <br>
 
-[Menu Bar User Switching Appearance](https://www.icloud.com/shortcuts/7f8b7313b3be4f34bf8683bbaa865c2f) <sub><sup>__macOS__<sup></sub><p>Change “Fast User Switching” (Menu Bar)<p><sup>__Parameters__<br>Full Name • Account Name • Icon</sup>
+[Menu Bar User Switching Appearance](https://www.icloud.com/shortcuts/7f8b7313b3be4f34bf8683bbaa865c2f) <sub><sup>__macOS__<sup></sub><p>Change “Fast User Switching” (Menu Bar > Menu Bar Comtrols)<p><sup>__Parameters__<br>Full Name • Account Name • Icon</sup>
 
 <br>
 
-[Notification Center Settings](https://www.icloud.com/shortcuts/c578638d141a425f89fa9bf144474c4c) <sub><sup>__macOS__<sup></sub><p>Change one or more Notification Center settings (Notifications)<p><sup>__Parameters__<br>Allow notifications when the screen is locked • Allow notifications when mirroring or sharing the display • Allow notifications when the display is sleeping • Show previews • Summarize notifications</sup>
+[Notification Center Settings](https://www.icloud.com/shortcuts/c578638d141a425f89fa9bf144474c4c) <sub><sup>__macOS__<sup></sub><p>Change one or more Notification Center settings (Notifications > Notification Center)<p><sup>__Parameters__<br>Allow notifications when the screen is locked • Allow notifications when mirroring or sharing the display • Allow notifications when the display is sleeping • Show previews • Summarize notifications</sup>
 
 <br>
 
-[Application Notification Settings](https://www.icloud.com/shortcuts/1f9c0e6c26ed4b3ba2833f5c7042e30b) <sub><sup>__macOS__<sup></sub><p>Change one or more notification settings for a specific application (Notifications)<p><sup>__Parameters__<br>Alert style • Critical notifications • Allow notifications • Time sensitive notifications • Badge application icon • Notification grouping • Play sound for notification • Show in Notification Center • Show notifications on lock screen • Show previews</sup>
+[Application Notification Settings](https://www.icloud.com/shortcuts/1f9c0e6c26ed4b3ba2833f5c7042e30b) <sub><sup>__macOS__<sup></sub><p>Change one or more notification settings for a specific application (Notifications > Application Notifications)<p><sup>__Parameters__<br>Alert style • Critical notifications • Allow notifications • Time sensitive notifications • Badge application icon • Notification grouping • Play sound for notification • Show in Notification Center • Show notifications on lock screen • Show previews</sup>
 
 <br>
 
-[Play User Interface Sound Effects](https://www.icloud.com/shortcuts/01f69b58ce0c4bf1a47ffd7bf79af2df) <sub><sup>__macOS__<sup></sub><p>Toggle “Play user interface sound effects” (Sound)<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup>
+[Play User Interface Sound Effects](https://www.icloud.com/shortcuts/01f69b58ce0c4bf1a47ffd7bf79af2df) <sub><sup>__macOS__<sup></sub><p>Toggle “Play user interface sound effects” (Sound > Sound Effects)<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup>
+
+<br>
+
+[Play Feedback when Volume is Changed](https://www.icloud.com/shortcuts/29c18f5b9b194cbf91543b860443609f) <sub><sup>__macOS__<sup></sub><p>Toggle “Play feedback when volume is changed” (Sound > Sound Effects)<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup>
+
+<br>
+
+[Play Sound on Startup](https://www.icloud.com/shortcuts/e34d752371b644e08e4e66b8846957b0) <sub><sup>__macOS__<sup></sub><p>Toggle “Play sound on startup” (Sound > Sound Effects)<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup>
 
 <br>
 
 [Flash the Screen when an Alert Sound Occurs](https://www.icloud.com/shortcuts/7f9e4a28d262482883e39a6a5e4cc2f6) <sub><sup>__macOS__<sup></sub><p>Toggle “Flash the screen when an alert sound occurs” (Accessibility > Audio)<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup>
-
-<br>
-
-[Play Feedback when Volume is Changed](https://www.icloud.com/shortcuts/29c18f5b9b194cbf91543b860443609f) <sub><sup>__macOS__<sup></sub><p>Toggle “Play feedback when volume is changed” (Sound)<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup>
-
-<br>
-
-[Play Sound on Startup](https://www.icloud.com/shortcuts/e34d752371b644e08e4e66b8846957b0) <sub><sup>__macOS__<sup></sub><p>Toggle “Play sound on startup” (Sound)<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup>
 
 <br>
 
@@ -269,7 +269,7 @@ __Usage__
 
 <br>
 
-[Trackpad Show Desktop Gesture](https://www.icloud.com/shortcuts/bd818fb595e9468ab3655bb3bfdeb6c9) <sub><sup>__macOS__<sup></sub><br><sub>_Because of a bug, the toggle won’t reflect the changed state until System Settings is restarted_</sub><p>Toggle “Show Desktop” (Trackpad > More Gestures)<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup>
+[Trackpad Show Desktop Gesture](https://www.icloud.com/shortcuts/bd818fb595e9468ab3655bb3bfdeb6c9) <sub><sup>__macOS__<sup></sub><br><sub>_The toggle won’t reflect the changed state until System Settings is restarted_</sub><p>Toggle “Show Desktop” (Trackpad > More Gestures)<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup>
 
 <br>
 
