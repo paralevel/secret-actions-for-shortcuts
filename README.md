@@ -74,7 +74,7 @@ __Usage__
 
 > __iOS Settings__
 ###
-[Show Battery Percentage in Status Bar](https://www.icloud.com/shortcuts/fb45c3d68f274b96a9ec8197ca5e03d0) <sub><sup>__iOS__<sup></sub><p>Toggle the “Show Percentage” Battery setting<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup><br>
+[Show Battery Percentage in Status Bar](https://www.icloud.com/shortcuts/fb45c3d68f274b96a9ec8197ca5e03d0) <sub><sup>__iOS__<sup></sub><p>Toggle “Show Percentage” (Battery)<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup><br>
 
 <br>
 
@@ -90,190 +90,190 @@ __Usage__
 
 <br>
 
-[Flash for Alerts in Silent Mode](https://www.icloud.com/shortcuts/e1800c743b92455aab52297e12aaf998) <sub><sup>__iOS__<sup></sub><br><sub>_You need to have Flash for Alerts enabled to see any changes_</sub><p>Toggle the “Flash in Silent Mode” Accessibility setting<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup>
+[Flash for Alerts in Silent Mode](https://www.icloud.com/shortcuts/e1800c743b92455aab52297e12aaf998) <sub><sup>__iOS__<sup></sub><br><sub>_You need to have Flash for Alerts enabled to see any changes_</sub><p>Toggle “Flash in Silent Mode” (Accessibility > Audio & Visual > Flash for Alerts)<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup>
 
 <br>
 
-[Flash for Alerts While Unlocked](https://www.icloud.com/shortcuts/919ef5ee6ddd42f894408cc416598417) <sub><sup>__iOS__<sup></sub><br><sub>_You need to have Flash for Alerts enabled to see any changes_</sub><p>Toggle the “Flash While Unlocked” Accessibility setting<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup>
+[Flash for Alerts While Unlocked](https://www.icloud.com/shortcuts/919ef5ee6ddd42f894408cc416598417) <sub><sup>__iOS__<sup></sub><br><sub>_You need to have Flash for Alerts enabled to see any changes_</sub><p>Toggle “Flash While Unlocked” (Accessibility > Audio & Visual > Flash for Alerts)<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup>
 
 <br>
 
-[Auto-Brightness](https://www.icloud.com/shortcuts/88b6505076d4414f8acdde41b20ba741) <sub><sup>__iOS__<sup></sub><br><sub>_Only Turn Off or Turn On should be used and not Toggle, since toggling to On currently doesn't work_</sub><p>Toggle the “Auto-Brightness” setting<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup>
+[Auto-Brightness](https://www.icloud.com/shortcuts/88b6505076d4414f8acdde41b20ba741) <sub><sup>__iOS__<sup></sub><br><sub>_Only Turn Off or Turn On should be used and not Toggle, since toggling to On currently doesn't work_</sub><p>Toggle “Auto-Brightness” (Accessibility > Display & Text Size)<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup>
 
 <br>
 
-[Bold Text](https://www.icloud.com/shortcuts/28c297e31aa44a57ade8a538c5ffb0b9) <sub><sup>__iOS__<sup></sub><p>Toggle the Accessibility setting “Bold Text”<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup>
+[Bold Text](https://www.icloud.com/shortcuts/28c297e31aa44a57ade8a538c5ffb0b9) <sub><sup>__iOS__<sup></sub><p>Toggle “Bold Text” (Accessibility > Display & Text Size)<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup>
 
 <br>
 
-[Show Borders](https://www.icloud.com/shortcuts/d8068de66bb0456ab47abae46f3168a4) <sub><sup>__iOS__<sup></sub><p>Toggle the Accessibility setting “Show Borders”<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup>
+[Show Borders](https://www.icloud.com/shortcuts/d8068de66bb0456ab47abae46f3168a4) <sub><sup>__iOS__<sup></sub><p>Toggle “Show Borders” (Accessibility > Display & Text Size)<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup>
 
 <br>
 
-[Differentiate Without Color](https://www.icloud.com/shortcuts/44d17ef4b0ca4e8ca02b5ceeb0a251e3) <sub><sup>__iOS__<sup></sub><p>Toggle the Accessibility setting “Differentiate Without Colors”<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup>
+[Differentiate Without Color](https://www.icloud.com/shortcuts/44d17ef4b0ca4e8ca02b5ceeb0a251e3) <sub><sup>__iOS__<sup></sub><p>Toggle “Differentiate Without Colors” (Accessibility > Display & Text Size)<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup>
 
 <br>
 
-[On/Off Labels](https://www.icloud.com/shortcuts/e45bce4643f84226a6f65c19485f5b89) <sub><sup>__iOS__<sup></sub><p>Toggle the Accessibility setting “On/Off Labels”<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup>
+[On/Off Labels](https://www.icloud.com/shortcuts/e45bce4643f84226a6f65c19485f5b89) <sub><sup>__iOS__<sup></sub><p>Toggle “On/Off Labels” (Accessibility > Display & Text Size)<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup>
 
 <br>
 
-[Choose Color Filter](https://www.icloud.com/shortcuts/f203b0c45a8a41a4b16418fd9e94e85a) <sub><sup>__iOS__<sup></sub><br><sub>_Automatically also enables Color Filters; no Color Tint parameter; the output of the Off parameter is `GRAYSCALE`_</sub><p>Choose filter for the Accessibility setting “Color Filters”<p><sup>__Parameters__<br>Off • Red/Green filter (Protanopia) • Green/Red filter (Deuteranopia) • Blue/Yellow filter (Tritanopia) • Grayscale</sup>
+[Choose Color Filter](https://www.icloud.com/shortcuts/f203b0c45a8a41a4b16418fd9e94e85a) <sub><sup>__iOS__<sup></sub><br><sub>_Automatically also enables Color Filters; no Color Tint parameter; the output of the Off parameter is `GRAYSCALE`_</sub><p>Choose filter for “Color Filters” (Accessibility > Display & Text Size > Color Filters)<p><sup>__Parameters__<br>Off • Red/Green filter (Protanopia) • Green/Red filter (Deuteranopia) • Blue/Yellow filter (Tritanopia) • Grayscale</sup>
 
 <br>
 
-[Choose Zoom Filter](https://www.icloud.com/shortcuts/ded5de5e0e924cd9a5df2c879c91c4a7) <sub><sup>__iOS__<sup></sub><br><sub>_You need to have Zoom enabled to see any changes_</sub><p>Choose filter for the Accessibility setting “Zoom Filters”<p><sup>__Parameters__<br>None • Grayscale • Grayscale Inverted • Hue Adjust • Low Light</sup>
+[Choose Zoom Filter](https://www.icloud.com/shortcuts/ded5de5e0e924cd9a5df2c879c91c4a7) <sub><sup>__iOS__<sup></sub><br><sub>_You need to have Zoom enabled to see any changes_</sub><p>Choose filter for “Zoom Filter” (Accessibility > Zoom > Zoom Filter)<p><sup>__Parameters__<br>None • Grayscale • Grayscale Inverted • Hue Adjust • Low Light</sup>
 
 <br>
 
-[FaceTime Silence Unknown Callers](https://www.icloud.com/shortcuts/83e6c26612be43f1a8aa7fa7c0a08eea) <sub><sup>__iOS__<sup></sub><p>Toggle “Silence Unknown Callers” for FaceTime<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup>
+[FaceTime Silence Unknown Callers](https://www.icloud.com/shortcuts/83e6c26612be43f1a8aa7fa7c0a08eea) <sub><sup>__iOS__<sup></sub><p>Toggle “Silence Unknown Callers” (Apps > FaceTime)<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup>
 
 <br>
 
-[AirDrop Bring Devices Together](https://www.icloud.com/shortcuts/adda1b4a5e6c49d6b8faa5512dc0fc09) <sub><sup>__iOS__<sup></sub><p>Toggle the AirDrop setting “(Start Sharing By) Bringing Devices Together”<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup>
+[AirDrop Bring Devices Together](https://www.icloud.com/shortcuts/adda1b4a5e6c49d6b8faa5512dc0fc09) <sub><sup>__iOS__<sup></sub><p>Toggle the AirDrop setting “(Start Sharing By) Bringing Devices Together” (General > AirDrop)<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup>
 
 <br>
 
-[AirDrop Use Cellular Data](https://www.icloud.com/shortcuts/752d07f7888b4de8878e3a12fee1021e) <sub><sup>__iOS__<sup></sub><p>Toggle the AirDrop setting “(Out of Range) Use Cellular Data”<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup>
+[AirDrop Use Cellular Data](https://www.icloud.com/shortcuts/752d07f7888b4de8878e3a12fee1021e) <sub><sup>__iOS__<sup></sub><p>Toggle the AirDrop setting “(Out of Range) Use Cellular Data” (General > AirDrop)<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup>
 
 <br>
 <br>
 
 > __macOS Settings__
 ###
-[Sidebar Icon Size](https://www.icloud.com/shortcuts/acef10e5216e4309846544eea4895fa3) <sub><sup>__macOS__<sup></sub><p>Change the “Sidebar Icon Size” Appearance setting<p><sup>__Parameters__<br>Small • Medium • Large</sup>
+[Sidebar Icon Size](https://www.icloud.com/shortcuts/acef10e5216e4309846544eea4895fa3) <sub><sup>__macOS__<sup></sub><p>Change “Sidebar Icon Size” (Appearance)<p><sup>__Parameters__<br>Small • Medium • Large</sup>
 
 <br>
 
-[Tint Window Background With Wallpaper Color](https://www.icloud.com/shortcuts/b25b9dd7de0049c7a1795b018b1ffa96) <sub><sup>__macOS__<sup></sub><p>Toggle the Appearance setting “Tint window background with wallpaper color”<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup>
+[Tint Window Background With Wallpaper Color](https://www.icloud.com/shortcuts/b25b9dd7de0049c7a1795b018b1ffa96) <sub><sup>__macOS__<sup></sub><p>Toggle “Tint window background with wallpaper color” (Appearance)<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup>
 
 <br>
 
-[Show Scroll Bars When](https://www.icloud.com/shortcuts/cbc83684138647239140196e76a500c4) <sub><sup>__macOS__<sup></sub><p>Change the “Show scroll bars” Appearance setting<p><sup>__Parameters__<br>Automatically based on mouse or trackpad • When scrolling • Always</sup>
+[Show Scroll Bars When](https://www.icloud.com/shortcuts/cbc83684138647239140196e76a500c4) <sub><sup>__macOS__<sup></sub><p>Change “Show scroll bars” (Appearance)<p><sup>__Parameters__<br>Automatically based on mouse or trackpad • When scrolling • Always</sup>
 
 <br>
 
-[Click in Scroll Bar To](https://www.icloud.com/shortcuts/94b30eeab6104e9282f964d18e6764e8) <sub><sup>__macOS__<sup></sub><p>Change the “Click in the scroll bar to” Appearance setting<p><sup>__Parameters__<br>Jump to the next page • Jump to the spot that’s clicked</sup>
+[Click in Scroll Bar To](https://www.icloud.com/shortcuts/94b30eeab6104e9282f964d18e6764e8) <sub><sup>__macOS__<sup></sub><p>Change “Click in the scroll bar to” (Appearance)<p><sup>__Parameters__<br>Jump to the next page • Jump to the spot that’s clicked</sup>
 
 <br>
 
-[Desktop & Dock Settings](https://www.icloud.com/shortcuts/55a45fe74e8742728c0aa959f8cf923e) <sub><sup>__macOS__<sup></sub><p>Change one or more Desktop & Dock settings<p><sup>__Parameters__<br>Animate opening applications • Automatically hide and show the Dock • Window title bar double-click action • Magnification • Minimize windows into application icon • Minimized window animation • Dock position on screen • Show indicators for open applications • Show suggested and recent apps in Dock • Size</sup>
+[Desktop & Dock Settings](https://www.icloud.com/shortcuts/55a45fe74e8742728c0aa959f8cf923e) <sub><sup>__macOS__<sup></sub><p>Change one or more Desktop or Dock settings (Desktop & Dock)<p><sup>__Parameters__<br>Animate opening applications • Automatically hide and show the Dock • Window title bar double-click action • Magnification • Minimize windows into application icon • Minimized window animation • Dock position on screen • Show indicators for open applications • Show suggested and recent apps in Dock • Size</sup>
 
 <br>
 
-[Automatically Adjust Brightness](https://www.icloud.com/shortcuts/142abd3279bf4c26b5caa18c4f43341b) <sub><sup>__macOS__<sup></sub><br><sub>_Because of a bug, the toggle won’t reflect the changed state until System Settings is restarted_</sub><p>Toggle the Displays setting “Automatically adjust brightness”<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup>
+[Automatically Adjust Brightness](https://www.icloud.com/shortcuts/142abd3279bf4c26b5caa18c4f43341b) <sub><sup>__macOS__<sup></sub><br><sub>_The toggle won’t reflect the changed state until System Settings is restarted_</sub><p>Toggle “Automatically adjust brightness” (Displays)<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup>
 
 <br>
 
-[Choose Color Filter](https://www.icloud.com/shortcuts/f982e3422d7142279168767fd4d6c6b8) <sub><sup>__macOS__<sup></sub><br><sub>_You need to have Color Filters enabled to see any changes_</sub><p>Choose filter for the Accessibility setting “Color Filters”<p><sup>__Parameters__<br>Grayscale • Red/Green filter (Protanopia) • Green/Red filter (Deuteranopia) • Blue/Yellow filter (Tritanopia) • Color Tint</sup>
+[Choose Color Filter](https://www.icloud.com/shortcuts/f982e3422d7142279168767fd4d6c6b8) <sub><sup>__macOS__<sup></sub><br><sub>_You need to have Color Filters enabled to see any changes_</sub><p>Choose filter for “Color filters” (Accessibility > Display)<p><sup>__Parameters__<br>Grayscale • Red/Green filter (Protanopia) • Green/Red filter (Deuteranopia) • Blue/Yellow filter (Tritanopia) • Color Tint</sup>
 
 <br>
 
-[Automatically Hide and Show the Menu Bar](https://www.icloud.com/shortcuts/16c6bfc7fcb14ef889a0a73c71423816) <sub><sup>__macOS__<sup></sub><p>Change the “Automatically hide and show the menu bar” setting<p><sup>__Parameters__<br>Always • On Desktop Only • In Full Screen Only • Never</sup>
+[Automatically Hide and Show the Menu Bar](https://www.icloud.com/shortcuts/16c6bfc7fcb14ef889a0a73c71423816) <sub><sup>__macOS__<sup></sub><p>Change “Automatically hide and show the menu bar” (Menu Bar)<p><sup>__Parameters__<br>Always • On Desktop Only • In Full Screen Only • Never</sup>
 
 <br>
 
-[Show Menu Bar Background](https://www.icloud.com/shortcuts/4b013a82a9ba49fda5f579d91341c7fb) <sub><sup>__macOS__<sup></sub><p>Change the “Show menu bar background” setting<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup>
+[Show Menu Bar Background](https://www.icloud.com/shortcuts/4b013a82a9ba49fda5f579d91341c7fb) <sub><sup>__macOS__<sup></sub><p>Change “Show menu bar background” (Menu Bar)<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup>
 
 <br>
 
-[Menu Bar Clock Settings](https://www.icloud.com/shortcuts/ec220408957b47ab9ad46a6d26f5d493) <sub><sup>__macOS__<sup></sub><p>Change one or more Menu Bar Clock settings<p><sup>__Parameters__<br>Announce the time • Style • Flash the time separators • Show AM/PM • Show date • Show the day of the week • Display the time with seconds • Interval</sup>
+[Menu Bar Clock Settings](https://www.icloud.com/shortcuts/ec220408957b47ab9ad46a6d26f5d493) <sub><sup>__macOS__<sup></sub><p>Change one or more Clock settings (Menu Bar)<p><sup>__Parameters__<br>Announce the time • Style • Flash the time separators • Show AM/PM • Show date • Show the day of the week • Display the time with seconds • Interval</sup>
 
 <br>
 
-[Menu Bar User Switching Appearance](https://www.icloud.com/shortcuts/7f8b7313b3be4f34bf8683bbaa865c2f) <sub><sup>__macOS__<sup></sub><p>Change the appearance of the Fast User Switching menu bar item<p><sup>__Parameters__<br>Full Name • Account Name • Icon</sup>
+[Menu Bar User Switching Appearance](https://www.icloud.com/shortcuts/7f8b7313b3be4f34bf8683bbaa865c2f) <sub><sup>__macOS__<sup></sub><p>Change “Fast User Switching” (Menu Bar)<p><sup>__Parameters__<br>Full Name • Account Name • Icon</sup>
 
 <br>
 
-[Notification Center Settings](https://www.icloud.com/shortcuts/c578638d141a425f89fa9bf144474c4c) <sub><sup>__macOS__<sup></sub><p>Change one or more Notification Center settings<p><sup>__Parameters__<br>Allow notifications when the screen is locked • Allow notifications when mirroring or sharing the display • Allow notifications when the display is sleeping • Show previews • Summarize notifications</sup>
+[Notification Center Settings](https://www.icloud.com/shortcuts/c578638d141a425f89fa9bf144474c4c) <sub><sup>__macOS__<sup></sub><p>Change one or more Notification Center settings (Notifications)<p><sup>__Parameters__<br>Allow notifications when the screen is locked • Allow notifications when mirroring or sharing the display • Allow notifications when the display is sleeping • Show previews • Summarize notifications</sup>
 
 <br>
 
-[Application Notification Settings](https://www.icloud.com/shortcuts/1f9c0e6c26ed4b3ba2833f5c7042e30b) <sub><sup>__macOS__<sup></sub><p>Change one or more notification settings for an indiviudal application<p><sup>__Parameters__<br>Alert style • Critical notifications • Allow notifications • Time sensitive notifications • Badge application icon • Notification grouping • Play sound for notification • Show in Notification Center • Show notifications on lock screen • Show previews</sup>
+[Application Notification Settings](https://www.icloud.com/shortcuts/1f9c0e6c26ed4b3ba2833f5c7042e30b) <sub><sup>__macOS__<sup></sub><p>Change one or more notification settings for an indiviudal application (Notifications)<p><sup>__Parameters__<br>Alert style • Critical notifications • Allow notifications • Time sensitive notifications • Badge application icon • Notification grouping • Play sound for notification • Show in Notification Center • Show notifications on lock screen • Show previews</sup>
 
 <br>
 
-[Play User Interface Sound Effects](https://www.icloud.com/shortcuts/01f69b58ce0c4bf1a47ffd7bf79af2df) <sub><sup>__macOS__<sup></sub><p>Toggle the Sound setting “Play user interface sound effects”<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup>
+[Play User Interface Sound Effects](https://www.icloud.com/shortcuts/01f69b58ce0c4bf1a47ffd7bf79af2df) <sub><sup>__macOS__<sup></sub><p>Toggle “Play user interface sound effects” (Sound)<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup>
 
 <br>
 
-[Flash the Screen when an Alert Sound Occurs](https://www.icloud.com/shortcuts/7f9e4a28d262482883e39a6a5e4cc2f6) <sub><sup>__macOS__<sup></sub><p>Toggle the Accessibility setting “Flash the screen when an alert sound occurs”<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup>
+[Flash the Screen when an Alert Sound Occurs](https://www.icloud.com/shortcuts/7f9e4a28d262482883e39a6a5e4cc2f6) <sub><sup>__macOS__<sup></sub><p>Toggle “Flash the screen when an alert sound occurs” (Accessibility > Audio)<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup>
 
 <br>
 
-[Play Feedback when Volume is Changed](https://www.icloud.com/shortcuts/29c18f5b9b194cbf91543b860443609f) <sub><sup>__macOS__<sup></sub><p>Toggle the Sound setting “Play feedback when volume is changed”<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup>
+[Play Feedback when Volume is Changed](https://www.icloud.com/shortcuts/29c18f5b9b194cbf91543b860443609f) <sub><sup>__macOS__<sup></sub><p>Toggle “Play feedback when volume is changed” (Sound)<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup>
 
 <br>
 
-[Play Sound on Startup](https://www.icloud.com/shortcuts/e34d752371b644e08e4e66b8846957b0) <sub><sup>__macOS__<sup></sub><p>Toggle the “Play sound on startup” Sound setting<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup>
+[Play Sound on Startup](https://www.icloud.com/shortcuts/e34d752371b644e08e4e66b8846957b0) <sub><sup>__macOS__<sup></sub><p>Toggle “Play sound on startup” (Sound)<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup>
 
 <br>
 
-[Trackpad Tracking Speed](https://www.icloud.com/shortcuts/ccd1705b6c2a4999aa81a30b1e228eb0) <sub><sup>__macOS__<sup></sub><p>Adjust the “Tracking speed” Trackpad setting<p><sup>__Parameters__<br>`0.0` • `0.125` • `0.5` • `0.6875` • `0.875` • `1.0` • `1.5` • `2.0` • `2.5` • `3.0`</sup>
+[Trackpad Tracking Speed](https://www.icloud.com/shortcuts/ccd1705b6c2a4999aa81a30b1e228eb0) <sub><sup>__macOS__<sup></sub><p>Change “Tracking speed” (Trackpad > Point & Click)<p><sup>__Parameters__<br>`0.0` • `0.125` • `0.5` • `0.6875` • `0.875` • `1.0` • `1.5` • `2.0` • `2.5` • `3.0`</sup>
 
 <br>
 
-[Trackpad Click Pressure](https://www.icloud.com/shortcuts/d933ee204a384e19962c7a8e9dcb2337) <sub><sup>__macOS__<sup></sub><p>Select pressure for the “Click” Trackpad setting<p><sup>__Parameters__<br>Light • Medium • Firm</sup>
+[Trackpad Click Pressure](https://www.icloud.com/shortcuts/d933ee204a384e19962c7a8e9dcb2337) <sub><sup>__macOS__<sup></sub><p>Change “Click” (Trackpad > Point & Click)<p><sup>__Parameters__<br>Light • Medium • Firm</sup>
 
 <br>
 
-[Trackpad Force Click And Haptic Feedback](https://www.icloud.com/shortcuts/65e95291b1c04e0897fe23defbc784a6) <sub><sup>__macOS__<sup></sub><p>Toggle the “Force Click and haptic feedback” Trackpad setting<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup>
+[Trackpad Force Click And Haptic Feedback](https://www.icloud.com/shortcuts/65e95291b1c04e0897fe23defbc784a6) <sub><sup>__macOS__<sup></sub><p>Toggle “Force Click and haptic feedback” (Trackpad > Point & Click)<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup>
 
 <br>
 
-[Trackpad Look Up & Data Detectors](https://www.icloud.com/shortcuts/32c3f02492c74f13a11a7df765e2132e) <sub><sup>__macOS__<sup></sub><br><sub>_Wrongly called “Force Click and haptic feedback” in the action_</sub><p>Change gesture for the “Look up & data detectors” Trackpad setting<p><sup>__Parameters__<br>Off • Force Click with One Finger • Tap with Three Fingers</sup>
+[Trackpad Look Up & Data Detectors](https://www.icloud.com/shortcuts/32c3f02492c74f13a11a7df765e2132e) <sub><sup>__macOS__<sup></sub><br><sub>_Wrongly called “Force Click and haptic feedback” in the action_</sub><p>Change “Look up & data detectors” (Trackpad > Point & Click)<p><sup>__Parameters__<br>Off • Force Click with One Finger • Tap with Three Fingers</sup>
 
 <br>
 
-[Trackpad Secondary Click](https://www.icloud.com/shortcuts/5db14aa8c7ec46c79b503fa348ff48d1) <sub><sup>__macOS__<sup></sub><p>Change gesture for the “Secondary click” Trackpad setting<p><sup>__Parameters__<br>Off • Click with Two Fingers • Click in Bottom Right Corner • Click in Bottom Left Corner</sup>
+[Trackpad Secondary Click](https://www.icloud.com/shortcuts/5db14aa8c7ec46c79b503fa348ff48d1) <sub><sup>__macOS__<sup></sub><p>Change “Secondary click” (Trackpad > Point & Click)<p><sup>__Parameters__<br>Off • Click with Two Fingers • Click in Bottom Right Corner • Click in Bottom Left Corner</sup>
 
 <br>
 
-[Trackpad Tap to Click](https://www.icloud.com/shortcuts/e31537fdbd4b4047b8a0315affe3bfb8) <sub><sup>__macOS__<sup></sub><p>Toggle the “Tap to click” Trackpad setting<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup>
+[Trackpad Tap to Click](https://www.icloud.com/shortcuts/e31537fdbd4b4047b8a0315affe3bfb8) <sub><sup>__macOS__<sup></sub><p>Toggle “Tap to click” (Trackpad > Point & Click)<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup>
 
 <br>
 
-[Trackpad Natural Scrolling](https://www.icloud.com/shortcuts/3090805fb7514726928df7d4eac59c05) <sub><sup>__macOS__<sup></sub><p>Toggle the “Natural Scrolling” Trackpad setting<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup>
+[Trackpad Natural Scrolling](https://www.icloud.com/shortcuts/3090805fb7514726928df7d4eac59c05) <sub><sup>__macOS__<sup></sub><p>Toggle “Natural Scrolling” (Trackpad > Scroll & Zoom)<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup>
 
 <br>
 
-[Trackpad Zoom In or Out](https://www.icloud.com/shortcuts/fe8a470135694186b1c1bf21911333b3) <sub><sup>__macOS__<sup></sub><p>Toggle the “Zoom in or out” Trackpad setting<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup>
+[Trackpad Zoom In or Out](https://www.icloud.com/shortcuts/fe8a470135694186b1c1bf21911333b3) <sub><sup>__macOS__<sup></sub><p>Toggle “Zoom in or out” (Trackpad > Scroll & Zoom)<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup>
 
 <br>
 
-[Trackpad Smart Zoom](https://www.icloud.com/shortcuts/983acd1dca2d4cb59368cdf44f431dc9) <sub><sup>__macOS__<sup></sub><p>Toggle the “Smart zoom” Trackpad setting<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup>
+[Trackpad Smart Zoom](https://www.icloud.com/shortcuts/983acd1dca2d4cb59368cdf44f431dc9) <sub><sup>__macOS__<sup></sub><p>Toggle “Smart zoom” (Trackpad > Scroll & Zoom)<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup>
 
 <br>
 
-[Trackpad Rotate](https://www.icloud.com/shortcuts/7c7f2a060caa47359d6da959321cf495) <sub><sup>__macOS__<sup></sub><p>Toggle the “Rotate” Trackpad setting<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup>
+[Trackpad Rotate](https://www.icloud.com/shortcuts/7c7f2a060caa47359d6da959321cf495) <sub><sup>__macOS__<sup></sub><p>Toggle “Rotate” (Trackpad > Scroll & Zoom)<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup>
 
 <br>
 
-[Trackpad Swipe Between Pages](https://www.icloud.com/shortcuts/68f1446300c0442593da362f77d7429c) <sub><sup>__macOS__<sup></sub><p>Change gesture for the “Swipe between pages” Trackpad setting<p><sup>__Parameters__<br>Off • Swipe Left or Right with One Finger • Swipe with Two Fingers • Swipe with One or Two Fingers</sup>
+[Trackpad Swipe Between Pages](https://www.icloud.com/shortcuts/68f1446300c0442593da362f77d7429c) <sub><sup>__macOS__<sup></sub><p>Change “Swipe between pages” (Trackpad > More Gestures)<p><sup>__Parameters__<br>Off • Swipe Left or Right with One Finger • Swipe with Two Fingers • Swipe with One or Two Fingers</sup>
 
 <br>
 
-[Trackpad Swipe Between Full-Screen Applications](https://www.icloud.com/shortcuts/3ec27345793e4a708a443aabee9434e1) <sub><sup>__macOS__<sup></sub><br><sub>_Wrongly called “Swipe between pages” in the action_</sub><p>Change gesture for the “Swipe between full-screen applications” Trackpad setting<p><sup>__Parameters__<br>Off • Swipe Left or Right with Three Fingers • Swipe Left or Right with Four Fingers</sup>
+[Trackpad Swipe Between Full-Screen Applications](https://www.icloud.com/shortcuts/3ec27345793e4a708a443aabee9434e1) <sub><sup>__macOS__<sup></sub><br><sub>_Wrongly called “Swipe between pages” in the action_</sub><p>Change “Swipe between full-screen applications” (Trackpad > More Gestures)<p><sup>__Parameters__<br>Off • Swipe Left or Right with Three Fingers • Swipe Left or Right with Four Fingers</sup>
 
 <br>
 
-[Trackpad Notification Center Gesture](https://www.icloud.com/shortcuts/50f67a1cd28541cabaef6f7fe23d6611) <sub><sup>__macOS__<sup></sub><p>Toggle the “Notification Center” Trackpad swipe gesture<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup>
+[Trackpad Notification Center Gesture](https://www.icloud.com/shortcuts/50f67a1cd28541cabaef6f7fe23d6611) <sub><sup>__macOS__<sup></sub><p>Toggle “Notification Center” (Trackpad > More Gestures)<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup>
 
 <br>
 
-[Trackpad Mission Control Gesture](https://www.icloud.com/shortcuts/42dcb8713fde485486d2de0a44719758) <sub><sup>__macOS__<sup></sub><p>Change gesture for the “Mission Control” Trackpad setting<p><sup>__Parameters__<br>Off • Swipe Up with Three Fingers • Swipe Up with Four Fingers</sup>
+[Trackpad Mission Control Gesture](https://www.icloud.com/shortcuts/42dcb8713fde485486d2de0a44719758) <sub><sup>__macOS__<sup></sub><p>Change “Mission Control” (Trackpad > More Gestures)<p><sup>__Parameters__<br>Off • Swipe Up with Three Fingers • Swipe Up with Four Fingers</sup>
 
 <br>
 
-[Trackpad App Exposé Gesture](https://www.icloud.com/shortcuts/65a7d64f87f44c69b2ec85d61f1527f1) <sub><sup>__macOS__<sup></sub><p>Change gesture for the “App Exposé” Trackpad setting<p><sup>__Parameters__<br>Off • Swipe Down with Three Fingers • Swipe Down with Four Fingers</sup>
+[Trackpad App Exposé Gesture](https://www.icloud.com/shortcuts/65a7d64f87f44c69b2ec85d61f1527f1) <sub><sup>__macOS__<sup></sub><p>Change “App Exposé” (Trackpad > More Gestures)<p><sup>__Parameters__<br>Off • Swipe Down with Three Fingers • Swipe Down with Four Fingers</sup>
 
 <br>
 
-[Trackpad Show Desktop Gesture](https://www.icloud.com/shortcuts/bd818fb595e9468ab3655bb3bfdeb6c9) <sub><sup>__macOS__<sup></sub><br><sub>_Because of a bug, the toggle won’t reflect the changed state until System Settings is restarted_</sub><p>Toggle the “Show Desktop” Trackpad swipe gesture<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup>
+[Trackpad Show Desktop Gesture](https://www.icloud.com/shortcuts/bd818fb595e9468ab3655bb3bfdeb6c9) <sub><sup>__macOS__<sup></sub><br><sub>_Because of a bug, the toggle won’t reflect the changed state until System Settings is restarted_</sub><p>Toggle “Show Desktop” (Trackpad > More Gestures)<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup>
 
 <br>
 
-[Use Scroll Gesture With Modifier Keys to Zoom](https://www.icloud.com/shortcuts/0833b7dbdd7a4cf98fa67cdc858b78bf) <sub><sup>__macOS__<sup></sub><p>Toggle the Accessibility setting “Use scroll gesture with modifier keys to zoom”<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup>
+[Use Scroll Gesture With Modifier Keys to Zoom](https://www.icloud.com/shortcuts/0833b7dbdd7a4cf98fa67cdc858b78bf) <sub><sup>__macOS__<sup></sub><p>Toggle “Use scroll gesture with modifier keys to zoom” (Accessibility > Zoom)<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup>
 
 <br>
 <br>
