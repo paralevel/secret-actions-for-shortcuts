@@ -35,49 +35,6 @@ __Usage__
 <br>
 <br>
 
-> __Safari__
-###
-[Clear History](https://www.icloud.com/shortcuts/fbf7dc393a4f44479da72291b7504f62) <sub><sup>__iOS__</sup></sub><p>Opens the “Clear History” dialog in Safari<p><sup>__Parameters__<br>Last Hour • Today • Today and Yesterday • All History</sup>
-
-<br>
-
-[Find Bookmarks](https://www.icloud.com/shortcuts/f1bac8b295be482bbca14f6be591ff84) <sub><sup>__macOS__</sup></sub><br><sub>_Copy of the stock iOS action_</sub><p>Finds Safari bookmarks<p><sup>__Options__<br>Add Filter • Sort by • Limit</sup><br>
-
-<br>
-
-[Open Bookmark](https://www.icloud.com/shortcuts/656c86427f9d435fb416bd287f207c4b) <sub><sup>__macOS__</sup></sub><br><sub>_Copy of the stock iOS action_</sub><p>Opens the selected Safari bookmark
-
-<br>
-
-[Delete Bookmarks](https://www.icloud.com/shortcuts/8f645d98155b4f469e27ef782c440b9b)<br><sub>_Use in combination with the Find Bookmarks action_</sub><p>Delete one or more Safari bookmarks
-
-<br>
-
-[Bookmark Current Page](https://www.icloud.com/shortcuts/03fd3d58b356445dbd2b60362302e922)<br><p>Opens the “Add Bookmark” dialog for the current Safari web page<p><sup>__Options__<br>Title</sup>
-
-<br>
-
-[Bookmark URL](https://www.icloud.com/shortcuts/0a32178abc4248c1bbb034f8aca55696)<br><p>Silently adds the given URL with optional name to the end of the root Safari “Bookmarks” folder<p><sup>__Options__<br>Name</sup>
-
-<br>
-
-[Open Tab Group](https://www.icloud.com/shortcuts/a03c00999a574a8a9c0a78b92aa6282f) <sub><sup>__macOS__</sup></sub><br><sub>_Copy of the stock iOS action_</sub><p>Opens the selected Safari tab group<p><sup>__Parameters__<br>Tab Group</sup>
-
-<br>
-
-[Open URL/Blank Tab in Current Tab Group](https://www.icloud.com/shortcuts/781a72027b634c8c8963b6aad2a38dd6)<br><sub>_Actual title: “Create Tab for URL“_</sub><p>Opens an optional URL or a blank tab – in the current tab group – unlike any of the official actions<p><sup>__Options__<br>URL</sup>
-
-<br>
-
-[Search Tabs](https://www.icloud.com/shortcuts/33017293f6c04ec798cd73f1dca2a16f)<p>Search for tabs in Safari<p><sup>__Parameters__<br>Keyword</sup>
-
-<br>
-
-[Close View](https://www.icloud.com/shortcuts/22fcb91de7ed4f2db5d72de787665dbc)<br><p>Closes the view in Safari<p><sup>__Parameters__<br>Bookmarks • History • Reading List • Start Page • Tab Overview • Sidebar • Shared with You</sup>
-
-<br>
-<br>
-
 > __iOS Settings__
 ###
 [Show Battery Percentage in Status Bar](https://www.icloud.com/shortcuts/fb45c3d68f274b96a9ec8197ca5e03d0) <sub><sup>__iOS__</sup></sub><p>Toggle “Show Percentage” (Battery)<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup><br>
@@ -288,6 +245,49 @@ __Usage__
 <br>
 
 [Use Scroll Gesture With Modifier Keys to Zoom](https://www.icloud.com/shortcuts/0833b7dbdd7a4cf98fa67cdc858b78bf) <sub><sup>__macOS__</sup></sub><p>Toggle “Use scroll gesture with modifier keys to zoom” (Accessibility > Zoom)<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup>
+
+<br>
+<br>
+
+> __Safari__
+###
+[Clear History](https://www.icloud.com/shortcuts/fbf7dc393a4f44479da72291b7504f62) <sub><sup>__iOS__</sup></sub><p>Opens the “Clear History” dialog in Safari<p><sup>__Parameters__<br>Last Hour • Today • Today and Yesterday • All History</sup>
+
+<br>
+
+[Find Bookmarks](https://www.icloud.com/shortcuts/f1bac8b295be482bbca14f6be591ff84) <sub><sup>__macOS__</sup></sub><br><sub>_Copy of the stock iOS action_</sub><p>Finds Safari bookmarks<p><sup>__Options__<br>Add Filter • Sort by • Limit</sup><br>
+
+<br>
+
+[Open Bookmark](https://www.icloud.com/shortcuts/656c86427f9d435fb416bd287f207c4b) <sub><sup>__macOS__</sup></sub><br><sub>_Copy of the stock iOS action_</sub><p>Opens the selected Safari bookmark
+
+<br>
+
+[Delete Bookmarks](https://www.icloud.com/shortcuts/8f645d98155b4f469e27ef782c440b9b)<br><sub>_Use in combination with the Find Bookmarks action_</sub><p>Delete one or more Safari bookmarks
+
+<br>
+
+[Bookmark Current Page](https://www.icloud.com/shortcuts/03fd3d58b356445dbd2b60362302e922)<br><p>Opens the “Add Bookmark” dialog for the current Safari web page<p><sup>__Options__<br>Title</sup>
+
+<br>
+
+[Bookmark URL](https://www.icloud.com/shortcuts/0a32178abc4248c1bbb034f8aca55696)<br><p>Silently adds the given URL with optional name to the end of the root Safari “Bookmarks” folder<p><sup>__Options__<br>Name</sup>
+
+<br>
+
+[Open Tab Group](https://www.icloud.com/shortcuts/a03c00999a574a8a9c0a78b92aa6282f) <sub><sup>__macOS__</sup></sub><br><sub>_Copy of the stock iOS action_</sub><p>Opens the selected Safari tab group<p><sup>__Parameters__<br>Tab Group</sup>
+
+<br>
+
+[Open URL/Blank Tab in Current Tab Group](https://www.icloud.com/shortcuts/781a72027b634c8c8963b6aad2a38dd6)<br><sub>_Actual title: “Create Tab for URL“_</sub><p>Opens an optional URL or a blank tab – in the current tab group – unlike any of the official actions<p><sup>__Options__<br>URL</sup>
+
+<br>
+
+[Search Tabs](https://www.icloud.com/shortcuts/33017293f6c04ec798cd73f1dca2a16f)<p>Search for tabs in Safari<p><sup>__Parameters__<br>Keyword</sup>
+
+<br>
+
+[Close View](https://www.icloud.com/shortcuts/22fcb91de7ed4f2db5d72de787665dbc)<br><p>Closes the view in Safari<p><sup>__Parameters__<br>Bookmarks • History • Reading List • Start Page • Tab Overview • Sidebar • Shared with You</sup>
 
 <br>
 <br>
