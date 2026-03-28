@@ -30,7 +30,7 @@ __Usage__
 <br>
 
 
-<sup>_Disclaimer: This collection is built on a [shortcut](https://www.reddit.com/r/shortcuts/comments/1nwdlva/32_hidden_shortcuts_actions/) I posted in October 2025, and only includes actions I have been able to reverse engineer myself, and no actions that were copied from other sources_</sup>
+<sup>_Disclaimer: This collection is built on a [shortcut](https://www.reddit.com/r/shortcuts/comments/1nwdlva/32_hidden_shortcuts_actions/) I posted in October 2025, and only includes actions I have been able to reverse engineer myself using data extracted from local system files, and no actions that were copied from other sources_</sup>
 
 <br>
 <br>
