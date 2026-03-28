@@ -283,7 +283,7 @@ __Usage__
 
 <br>
 
-[Search Tabs](https://www.icloud.com/shortcuts/33017293f6c04ec798cd73f1dca2a16f)<p>Opens the search field in the current tab group's tab switcher, and performs a search if the keyword parameter was used<p><sup>__Parameters__<br>Keyword</sup>
+[Search Tabs](https://www.icloud.com/shortcuts/33017293f6c04ec798cd73f1dca2a16f)<p>Search for tabs in the current tab group's tab switcher<p><sup>__Parameters__<br>Keyword</sup>
 
 <br>
 
