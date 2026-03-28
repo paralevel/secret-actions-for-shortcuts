@@ -283,7 +283,7 @@ __Usage__
 
 <br>
 
-[Search Tabs](https://www.icloud.com/shortcuts/33017293f6c04ec798cd73f1dca2a16f)<p>Search for tabs in Safari<p><sup>__Parameters__<br>Keyword</sup>
+[Search Tabs](https://www.icloud.com/shortcuts/33017293f6c04ec798cd73f1dca2a16f)<p>Opens the search field in the tab switcher for the current tab group in Safari, and performs a search if a keyboard is supplied<p><sup>__Parameters__<br>Keyword</sup>
 
 <br>
 
