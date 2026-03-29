@@ -287,7 +287,7 @@ __Usage__
 
 <br>
 
-[Create New Tab](https://www.icloud.com/shortcuts/65a7ba0a4cb54084a46744c4948407b3) <sub><sup>__macOS__</sup></sub><br><sub>_Copy of the stock iOS action_</sub><p>Opens Safari and creates a new blank tab in the current tab group
+[Create New Tab](https://www.icloud.com/shortcuts/65a7ba0a4cb54084a46744c4948407b3) <sub><sup>__macOS__</sup></sub><br><sub>_Copy of the stock iOS action_</sub><p>Opens Safari and creates a new blank tab in the current tab group (macOS) or the default tab group (iOS)
 
 <br>
 
