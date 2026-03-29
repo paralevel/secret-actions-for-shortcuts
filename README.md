@@ -250,14 +250,6 @@ __Usage__
 
 <br>
 
-[Invert Colors](https://www.icloud.com/shortcuts/41378b4aa92046d8ae15b72dfca9559b) <sub><sup>__macOS__</sup></sub><p>Toggle “Invert colors” (Accessibility > Display)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
-
-<br>
-
-[Smart/Classic Invert](https://www.icloud.com/shortcuts/1bc7b6957c024b9dbad813a2c9ab08be) <sub><sup>__macOS__</sup></sub><p>Toggle “Smart” (Accessibility > Display > Invert colors mode)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
-
-<br>
-
 [Differentiate Without Colors](https://www.icloud.com/shortcuts/f29ea258a80540efb0b148a778da150f) <sub><sup>__macOS__</sup></sub><p>Toggle “Differentiate without color” (Accessibility > Display)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
 
 <br>
