@@ -1,9 +1,8 @@
 # Secret Actions for Shortcuts
 
 Collection of hidden actions in Shortcuts app on iOS 26 and macOS 26
-
 <br>
-
+<br>
 __Usage__
 1. Click the action's title to install a shortcut that contains only this action
 2. Open the shortcut
@@ -26,7 +25,6 @@ __Usage__
 </sub>
 </i>
 
-<br>
 <br>
 
 <sup>_Credit: https://ariweinstein.com • https://conradkramer.com • https://www.apple.com_</sup>
