@@ -259,7 +259,7 @@ __Usage__
 
 <br>
 
-[Open View](https://www.icloud.com/shortcuts/642da3651061446bacb9bdf100f80d04) <sub><sup>__macOS__</sup></sub><br><sub>_Copy of the stock iOS action_</sub><p>Opens the given View in Safari<p><sup>__Parameters__<br>Bookmarks • History • Reading List • Start Page • Tab Overview • Default Tab Group • Private Tab Group • Sidebar • Shared with You</sup>
+[Open View](https://www.icloud.com/shortcuts/3d900f08e71e46da92513ef276025e09) <sub><sup>__macOS__</sup></sub><br><sub>_Copy of the stock iOS action_</sub><p>Opens the given View in Safari<p><sup>__Parameters__<br>Bookmarks • History • Reading List • Start Page • Tab Overview • Default Tab Group • Private Tab Group • Sidebar • Shared with You</sup>
 
 <br>
 
