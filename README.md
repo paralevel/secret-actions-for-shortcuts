@@ -81,7 +81,7 @@ __Usage__
 
 <br>
 
-[Choose Color Filter](https://www.icloud.com/shortcuts/f203b0c45a8a41a4b16418fd9e94e85a) <sub><sup>__iOS__</sup></sub><br><sub>_Automatically also enables Color Filters; no Color Tint parameter; the output of the Off parameter is `GRAYSCALE`_</sub><p>Choose filter for “Color Filters” (Accessibility > Display & Text Size > Color Filters)<p><sup>__Parameters__<br>Off • Red/Green filter (Protanopia) • Green/Red filter (Deuteranopia) • Blue/Yellow filter (Tritanopia) • Grayscale</sup>
+[Choose Color Filter](https://www.icloud.com/shortcuts/f203b0c45a8a41a4b16418fd9e94e85a) <sub><sup>__iOS__</sup></sub><br><sub>_Automatically also enables Color Filters; no Color Tint parameter; the output when using the `OFF` parameter is the same as for `GRAYSCALE`_</sub><p>Choose filter for “Color Filters” (Accessibility > Display & Text Size > Color Filters)<p><sup>__Parameters__<br>`OFF` [Off] • `RED_ADJUST` [Red/Green filter (Protanopia)] • `GREEN_ADJUST` [Green/Red filter (Deuteranopia)] • `BLUE_ADJUST` [Blue/Yellow filter (Tritanopia)] • `GRAYSCALE` [Grayscale]</sup>
 
 <br>
 
@@ -93,7 +93,7 @@ __Usage__
 
 <br>
 
-[Choose Zoom Filter](https://www.icloud.com/shortcuts/ded5de5e0e924cd9a5df2c879c91c4a7) <sub><sup>__iOS__</sup></sub><br><sub>_You need to have Zoom enabled to see any changes_</sub><p>Choose filter for “Zoom Filter” (Accessibility > Zoom > Zoom Filter)<p><sup>__Parameters__<br>None • Grayscale • Grayscale Inverted • Hue Adjust • Low Light</sup>
+[Choose Zoom Filter](https://www.icloud.com/shortcuts/ded5de5e0e924cd9a5df2c879c91c4a7) <sub><sup>__iOS__</sup></sub><br><sub>_You need to have Zoom enabled to see any changes_</sub><p>Choose filter for “Zoom Filter” (Accessibility > Zoom > Zoom Filter)<p><sup>__Parameters__<br>`ZOOM_LENS_EFFECT_NONE` [None] • `ZOOM_LENS_EFFECT_BLACK_AND_WHITE` [Grayscale] • `ZOOM_LENS_EFFECT_BLACK_AND_WHITE_INVERTED` [Grayscale Inverted] • `ZOOM_LENS_EFFECT_HUE_ADJUST` [hidden in Settings] • `ZOOM_LENS_EFFECT_LOW_LIGHT` [Low Light]</sup>
 
 <br>
 
