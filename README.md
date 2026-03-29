@@ -246,7 +246,7 @@ __Usage__
 
 <br>
 
-[Smart/Classic Invert](https://www.icloud.com/shortcuts/1bc7b6957c024b9dbad813a2c9ab08be) <sub><sup>__macOS__</sup></sub><p>Toggle “Smart Invert” in “Invert colors mode” (Accessibility > Display)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
+[Smart/Classic Invert](https://www.icloud.com/shortcuts/1bc7b6957c024b9dbad813a2c9ab08be) <sub><sup>__macOS__</sup></sub><p>Toggle “Smart” (Accessibility > Display > Invert colors mode)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
 
 <br>
 
