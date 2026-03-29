@@ -255,15 +255,15 @@ __Usage__
 
 <br>
 
-[Find Bookmarks](https://www.icloud.com/shortcuts/f1bac8b295be482bbca14f6be591ff84) <sub><sup>__macOS__</sup></sub><br><sub>_Copy of the stock iOS action_</sub><p>Finds Safari bookmarks<p><sup>__Options__<br>Add Filter • Sort by • Limit</sup><br>
+[Open URL/Blank Tab in Current Tab Group](https://www.icloud.com/shortcuts/781a72027b634c8c8963b6aad2a38dd6)<br><sub>_Actual title: “Create Tab for URL“_</sub><p>Opens an optional URL or a blank tab – in the current tab group – unlike any of the official actions<p><sup>__Options__<br>URL</sup>
 
 <br>
 
-[Open Bookmark](https://www.icloud.com/shortcuts/656c86427f9d435fb416bd287f207c4b) <sub><sup>__macOS__</sup></sub><br><sub>_Copy of the stock iOS action_</sub><p>Opens the selected Safari bookmark
+[Open View](https://www.icloud.com/shortcuts/642da3651061446bacb9bdf100f80d04) <sub><sup>__macOS__</sup></sub><br><sub>_Copy of the stock iOS action_</sub><p>Opens the given View in Safari<p><sup>__Parameters__<br>Bookmarks • History • Reading List • Start Page • Tab Overview • Default Tab Group • Private Tab Group • Sidebar • Shared with You</sup>
 
 <br>
 
-[Delete Bookmarks](https://www.icloud.com/shortcuts/8f645d98155b4f469e27ef782c440b9b)<br><sub>_Use in combination with the Find Bookmarks action_</sub><p>Delete one or more Safari bookmarks
+[Close View](https://www.icloud.com/shortcuts/66b3186530fd492eaa4808c1f5cf3931)<p>Opens Safari and closes the given View<p><sup>__Parameters__<br>Bookmarks • History • Reading List • Start Page • Tab Overview • Sidebar • Shared with You</sup>
 
 <br>
 
@@ -275,11 +275,23 @@ __Usage__
 
 <br>
 
-[Open Tab Group](https://www.icloud.com/shortcuts/a03c00999a574a8a9c0a78b92aa6282f) <sub><sup>__macOS__</sup></sub><br><sub>_Copy of the stock iOS action_</sub><p>Opens the selected Safari tab group<p><sup>__Parameters__<br>Tab Group</sup>
+[Find Bookmarks](https://www.icloud.com/shortcuts/f1bac8b295be482bbca14f6be591ff84) <sub><sup>__macOS__</sup></sub><br><sub>_Copy of the stock iOS action_</sub><p>Finds Safari bookmarks<p><sup>__Options__<br>Add Filter • Sort by • Limit</sup><br>
 
 <br>
 
-[Open URL/Blank Tab in Current Tab Group](https://www.icloud.com/shortcuts/781a72027b634c8c8963b6aad2a38dd6)<br><sub>_Actual title: “Create Tab for URL“_</sub><p>Opens an optional URL or a blank tab – in the current tab group – unlike any of the official actions<p><sup>__Options__<br>URL</sup>
+[Open Bookmark](https://www.icloud.com/shortcuts/656c86427f9d435fb416bd287f207c4b) <sub><sup>__macOS__</sup></sub><br><sub>_Copy of the stock iOS action_</sub><p>Opens the given bookmark in a new tab in the current tab group
+
+<br>
+
+[Delete Bookmarks](https://www.icloud.com/shortcuts/8f645d98155b4f469e27ef782c440b9b)<br><sub>_Use in combination with the Find Bookmarks action_</sub><p>Delete one or more Safari bookmarks
+
+<br>
+
+[Create New Tab](https://www.icloud.com/shortcuts/65a7ba0a4cb54084a46744c4948407b3) <sub><sup>__macOS__</sup></sub><br><sub>_Copy of the stock iOS action_</sub><p>Opens Safari and creates a new blank tab in the current tab group
+
+<br>
+
+[Find Tabs](https://www.icloud.com/shortcuts/ce0ec1db3e7a4d60928af67ad6e21f2c) <sub><sup>__macOS__</sup></sub><br><sub>_Copy of the stock iOS action; doesn't work for tabs in the Private tab group_</sub><p>Finds Safari tabs<p><sup>__Options__<br>Add Filter • Sort by • Limit</sup><br>
 
 <br>
 
@@ -287,7 +299,23 @@ __Usage__
 
 <br>
 
-[Close View](https://www.icloud.com/shortcuts/22fcb91de7ed4f2db5d72de787665dbc)<br><p>Closes the view in Safari<p><sup>__Parameters__<br>Bookmarks • History • Reading List • Start Page • Tab Overview • Sidebar • Shared with You</sup>
+[Switch Tab](https://www.icloud.com/shortcuts/79960341e47a40c7a7246bc2a0f45280) <sub><sup>__macOS__</sup></sub><br><sub>_Copy of the stock iOS action_</sub><p>Opens Safari and switches to the given tab<p><sup>__Parameters__<br>Tab</sup>
+
+<br>
+
+[Close Tab](https://www.icloud.com/shortcuts/8b07de524c214f859a32366905b9cc32) <sub><sup>__macOS__</sup></sub><br><sub>_Copy of the stock iOS action_</sub><p>Opens Safari and closes the given tab<p><sup>__Parameters__<br>Tab</sup>
+
+<br>
+
+[Open Tab Group](https://www.icloud.com/shortcuts/a03c00999a574a8a9c0a78b92aa6282f) <sub><sup>__macOS__</sup></sub><br><sub>_Copy of the stock iOS action_</sub><p>Opens the given tab group in Safari<p><sup>__Parameters__<br>Tab Group</sup>
+
+<br>
+
+[Create Tab Group](https://www.icloud.com/shortcuts/45a42efecf8f4c03b6de081e6a7667b8) <sub><sup>__macOS__</sup></sub><br><sub>_Copy of the stock iOS action_</sub><p>Opens Safari and creates a new tab group with the given name (or “Untitled” if no name is given)<p><sup>__Options__<br>Tab Group Name</sup>
+
+<br>
+
+[Find Tab Groups](https://www.icloud.com/shortcuts/675a0799c41943fe85ecb51bb3984e7d) <sub><sup>__macOS__</sup></sub><br><sub>_Copy of the stock iOS action_</sub><p>Finds Safari tab groups<p><sup>__Options__<br>Add Filter • Sort by • Limit</sup><br>
 
 <br>
 <br>
