@@ -61,6 +61,14 @@ __Usage__
 
 <br>
 
+[Reachability](https://www.icloud.com/shortcuts/627c03553f9346a08a3450879b09b51d) <sub><sup>__iOS__</sup></sub><p>Toggle “Reachability” (Accessibility > Touch)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
+
+<br>
+
+[Shake to Undo](https://www.icloud.com/shortcuts/85fe6428b7eb4f468521347603017ef3) <sub><sup>__iOS__</sup></sub><p>Toggle “Shake to Undo” (Accessibility > Touch)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
+
+<br>
+
 [Auto-Brightness](https://www.icloud.com/shortcuts/88b6505076d4414f8acdde41b20ba741) <sub><sup>__iOS__</sup></sub><br><sub>_Only Turn Off or Turn On should be used and not Toggle, since toggling to On currently doesn't work_</sub><p>Toggle “Auto-Brightness” (Accessibility > Display & Text Size)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
 
 <br>
