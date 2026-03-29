@@ -255,10 +255,6 @@ __Usage__
 
 <br>
 
-[Open URL/Blank Tab in Current Tab Group](https://www.icloud.com/shortcuts/781a72027b634c8c8963b6aad2a38dd6)<br><sub>_Actual title: “Create Tab for URL“_</sub><p>Opens an optional URL or a blank tab – in the current tab group – unlike any of the official actions<p><sup>__Options__<br>URL</sup>
-
-<br>
-
 [Open View](https://www.icloud.com/shortcuts/3d900f08e71e46da92513ef276025e09) <sub><sup>__macOS__</sup></sub><br><sub>_Copy of the stock iOS action_</sub><p>Opens the given View in Safari<p><sup>__Parameters__<br>Bookmarks • History • Reading List • Start Page • Tab Overview • Default Tab Group • Private Tab Group • Sidebar • Shared with You</sup>
 
 <br>
@@ -287,7 +283,11 @@ __Usage__
 
 <br>
 
-[Create New Tab](https://www.icloud.com/shortcuts/65a7ba0a4cb54084a46744c4948407b3) <sub><sup>__macOS__</sup></sub><br><sub>_Copy of the stock iOS action_</sub><p>Opens Safari and creates a new blank tab in the current tab group (macOS) or the default tab group (iOS)
+[Open URL/Create Tab in Current Tab Group](https://www.icloud.com/shortcuts/781a72027b634c8c8963b6aad2a38dd6)<br><sub>_Actual title: “Create Tab for URL“_</sub><p>Opens an optional URL or a blank tab – in the current tab group – unlike any of the official actions<p><sup>__Options__<br>URL</sup>
+
+<br>
+
+[Create New Tab](https://www.icloud.com/shortcuts/65a7ba0a4cb54084a46744c4948407b3) <sub><sup>__macOS__</sup></sub><br><sub>_Copy of the stock iOS action_</sub><p>Opens Safari and creates a new blank tab, in the current tab group on macOS, in the default tab group on iOS
 
 <br>
 
