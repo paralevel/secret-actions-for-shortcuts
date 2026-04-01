@@ -263,10 +263,6 @@ __Usage__
 
 <br>
 
-[Acessibility › Flash The Screen When An Alert Sound Occurs](https://www.icloud.com/shortcuts/7f9e4a28d262482883e39a6a5e4cc2f6) <sup>${\color{DeepSkyBlue} macOS}$</sup><p>Toggle “Flash the screen when an alert sound occurs” (Accessibility › Audio)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
-
-<br>
-
 [Accessibility › Use Scroll Gesture With Modifier Keys To Zoom](https://www.icloud.com/shortcuts/0833b7dbdd7a4cf98fa67cdc858b78bf) <sup>${\color{DeepSkyBlue} macOS}$</sup><p>Toggle “Use scroll gesture with modifier keys to zoom” (Accessibility › Zoom)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
 
 <br>
@@ -296,6 +292,18 @@ __Usage__
 <br>
 
 [Accessibility › Color Filters › Filter Type](https://www.icloud.com/shortcuts/f982e3422d7142279168767fd4d6c6b8) <sup>${\color{DeepSkyBlue} macOS}$</sup><br><sub>_You need to have Color Filters enabled to see any changes_</sub><p>Change “Filter type” (Accessibility › Display › Color Filters)<p><sup>__Parameters__<br>Grayscale • Red/Green filter (Protanopia) • Green/Red filter (Deuteranopia) • Blue/Yellow filter (Tritanopia) • Color Tint</sup>
+
+<br>
+
+[Accessibility › Vehicle Motion Cues](https://www.icloud.com/shortcuts/f0573f3582f74ab8a1334d0725e84c5c) <sup>${\color{DeepSkyBlue} macOS}$</sup><p>Toggle “Vehicle Motion Cues” (Accessibility › Motion)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
+
+<br>
+
+[Acessibility › Flash The Screen When An Alert Sound Occurs](https://www.icloud.com/shortcuts/7f9e4a28d262482883e39a6a5e4cc2f6) <sup>${\color{DeepSkyBlue} macOS}$</sup><p>Toggle “Flash the screen when an alert sound occurs” (Accessibility › Audio)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
+
+<br>
+
+[Accessibility › Spatial Audio Follows Head Movements](https://www.icloud.com/shortcuts/e0b343a71b00497eb665e8dc250b84d0) <sup>${\color{DeepSkyBlue} macOS}$</sup><br><sub>_The toggle won't reflect the changed state until System Settings is restarted_</sub><p>Toggle “Spatial audio follows head movements” (Accessibility › Audio)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
 
 <br>
 <br>
