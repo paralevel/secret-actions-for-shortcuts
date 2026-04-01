@@ -171,7 +171,7 @@ __Usage__
 
 <br>
 
-[Menu Bar › Menu Bar Clock](https://www.icloud.com/shortcuts/ec220408957b47ab9ad46a6d26f5d493) <sup>${\color{DeepSkyBlue} macOS}$</sup><p>Change one or more Clock settings (Menu Bar › Menu Bar Controls)<p><sup>__Parameters__<br>Announce the time • Style • Flash the time separators • Show AM/PM • Show date • Show the day of the week • Display the time with seconds • Interval</sup>
+[Menu Bar › Clock](https://www.icloud.com/shortcuts/ec220408957b47ab9ad46a6d26f5d493) <sup>${\color{DeepSkyBlue} macOS}$</sup><p>Change one or more Clock settings (Menu Bar › Menu Bar Controls)<p><sup>__Parameters__<br>Announce the time • Style • Flash the time separators • Show AM/PM • Show date • Show the day of the week • Display the time with seconds • Interval</sup>
 
 <br>
 
