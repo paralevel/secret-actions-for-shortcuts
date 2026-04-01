@@ -1,4 +1,4 @@
-# $\color{#f00}\huge\frak S \frak e \frak c \frak r \frak e \frak t \ \frak A \frak c \frak t \frak i \frak o \frak n \frak s$
+# $\color{rgb(192, 0, 192)}\huge\frak S \frak e \frak c \frak r \frak e \frak t \ \frak A \frak c \frak t \frak i \frak o \frak n \frak s$
 
 Collection of hidden actions in Shortcuts app on iOS 26 and macOS 26
 <br>
@@ -40,11 +40,11 @@ __Usage__
 
 <br>
 
-[Show Silent Mode in Status Bar](https://www.icloud.com/shortcuts/cb6d50f0fe8d414391cea66e6ef129d8) <sup>${\color{DeepSkyBlue} iOS}$</sup><p>Toggle “Show in Status Bar” (Sounds & Haptics > Silent Mode)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
+[Show Silent Mode in Status Bar](https://www.icloud.com/shortcuts/cb6d50f0fe8d414391cea66e6ef129d8) <sup>${\color{DeepSkyBlue} iOS}$</sup><p>Toggle “Show in Status Bar” (Sounds & Haptics › Silent Mode)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
 
 <br>
 
-[Vibration](https://www.icloud.com/shortcuts/1b61d7c6ea6e4e76a303af565e7ebdd9) <sup>${\color{DeepSkyBlue} iOS}$</sup><p>Toggle “Vibration” (Accessibility > Touch)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
+[Vibration](https://www.icloud.com/shortcuts/1b61d7c6ea6e4e76a303af565e7ebdd9) <sup>${\color{DeepSkyBlue} iOS}$</sup><p>Toggle “Vibration” (Accessibility › Touch)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
 
 <br>
 
@@ -52,228 +52,250 @@ __Usage__
 
 <br>
 
-[Flash for Alerts in Silent Mode](https://www.icloud.com/shortcuts/e1800c743b92455aab52297e12aaf998) <sup>${\color{DeepSkyBlue} iOS}$</sup><br><sub>_You need to have Flash for Alerts enabled to see any changes_</sub><p>Toggle “Flash in Silent Mode” (Accessibility > Audio & Visual > Flash for Alerts)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
+[Flash for Alerts in Silent Mode](https://www.icloud.com/shortcuts/e1800c743b92455aab52297e12aaf998) <sup>${\color{DeepSkyBlue} iOS}$</sup><br><sub>_You need to have Flash for Alerts enabled to see any changes_</sub><p>Toggle “Flash in Silent Mode” (Accessibility › Audio & Visual › Flash for Alerts)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
 
 <br>
 
-[Flash for Alerts While Unlocked](https://www.icloud.com/shortcuts/919ef5ee6ddd42f894408cc416598417) <sup>${\color{DeepSkyBlue} iOS}$</sup><br><sub>_You need to have Flash for Alerts enabled to see any changes_</sub><p>Toggle “Flash While Unlocked” (Accessibility > Audio & Visual > Flash for Alerts)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
+[Flash for Alerts While Unlocked](https://www.icloud.com/shortcuts/919ef5ee6ddd42f894408cc416598417) <sup>${\color{DeepSkyBlue} iOS}$</sup><br><sub>_You need to have Flash for Alerts enabled to see any changes_</sub><p>Toggle “Flash While Unlocked” (Accessibility › Audio & Visual › Flash for Alerts)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
 
 <br>
 
-[Reachability](https://www.icloud.com/shortcuts/627c03553f9346a08a3450879b09b51d) <sup>${\color{DeepSkyBlue} iOS}$</sup><p>Toggle “Reachability” (Accessibility > Touch)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
+[Reachability](https://www.icloud.com/shortcuts/627c03553f9346a08a3450879b09b51d) <sup>${\color{DeepSkyBlue} iOS}$</sup><p>Toggle “Reachability” (Accessibility › Touch)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
 
 <br>
 
-[Shake to Undo](https://www.icloud.com/shortcuts/85fe6428b7eb4f468521347603017ef3) <sup>${\color{DeepSkyBlue} iOS}$</sup><p>Toggle “Shake to Undo” (Accessibility > Touch)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
+[Shake to Undo](https://www.icloud.com/shortcuts/85fe6428b7eb4f468521347603017ef3) <sup>${\color{DeepSkyBlue} iOS}$</sup><p>Toggle “Shake to Undo” (Accessibility › Touch)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
 
 <br>
 
-[Auto-Brightness](https://www.icloud.com/shortcuts/88b6505076d4414f8acdde41b20ba741) <sup>${\color{DeepSkyBlue} iOS}$</sup><br><sub>_Only Turn Off or Turn On should be used and not Toggle, since toggling to On currently doesn't work_</sub><p>Toggle “Auto-Brightness” (Accessibility > Display & Text Size)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
+[Auto-Brightness](https://www.icloud.com/shortcuts/88b6505076d4414f8acdde41b20ba741) <sup>${\color{DeepSkyBlue} iOS}$</sup><br><sub>_Only Turn Off or Turn On should be used and not Toggle, since toggling to On currently doesn't work_</sub><p>Toggle “Auto-Brightness” (Accessibility › Display & Text Size)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
 
 <br>
 
-[Bold Text](https://www.icloud.com/shortcuts/28c297e31aa44a57ade8a538c5ffb0b9) <sup>${\color{DeepSkyBlue} iOS}$</sup><p>Toggle “Bold Text” (Accessibility > Display & Text Size)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
+[Bold Text](https://www.icloud.com/shortcuts/28c297e31aa44a57ade8a538c5ffb0b9) <sup>${\color{DeepSkyBlue} iOS}$</sup><p>Toggle “Bold Text” (Accessibility › Display & Text Size)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
 
 <br>
 
-[Show Borders](https://www.icloud.com/shortcuts/d8068de66bb0456ab47abae46f3168a4) <sup>${\color{DeepSkyBlue} iOS}$</sup><p>Toggle “Show Borders” (Accessibility > Display & Text Size)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
+[Show Borders](https://www.icloud.com/shortcuts/d8068de66bb0456ab47abae46f3168a4) <sup>${\color{DeepSkyBlue} iOS}$</sup><p>Toggle “Show Borders” (Accessibility › Display & Text Size)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
 
 <br>
 
-[Differentiate Without Color](https://www.icloud.com/shortcuts/44d17ef4b0ca4e8ca02b5ceeb0a251e3) <sup>${\color{DeepSkyBlue} iOS}$</sup><p>Toggle “Differentiate Without Colors” (Accessibility > Display & Text Size)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
+[Differentiate Without Color](https://www.icloud.com/shortcuts/44d17ef4b0ca4e8ca02b5ceeb0a251e3) <sup>${\color{DeepSkyBlue} iOS}$</sup><p>Toggle “Differentiate Without Colors” (Accessibility › Display & Text Size)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
 
 <br>
 
-[On/Off Labels](https://www.icloud.com/shortcuts/e45bce4643f84226a6f65c19485f5b89) <sup>${\color{DeepSkyBlue} iOS}$</sup><p>Toggle “On/Off Labels” (Accessibility > Display & Text Size)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
+[On/Off Labels](https://www.icloud.com/shortcuts/e45bce4643f84226a6f65c19485f5b89) <sup>${\color{DeepSkyBlue} iOS}$</sup><p>Toggle “On/Off Labels” (Accessibility › Display & Text Size)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
 
 <br>
 
-[Color Filter Type](https://www.icloud.com/shortcuts/f203b0c45a8a41a4b16418fd9e94e85a) <sup>${\color{DeepSkyBlue} iOS}$</sup><br><sub>_Automatically also enables Color Filters; no Color Tint parameter_</sub><p>Change filter type for “Color Filters” (Accessibility > Display & Text Size > Color Filters)<p><sup>__Parameters__<br>`OFF` [Off] • `RED_ADJUST` [Red/Green filter (Protanopia)] • `GREEN_ADJUST` [Green/Red filter (Deuteranopia)] • `BLUE_ADJUST` [Blue/Yellow filter (Tritanopia)] • `GRAYSCALE` [Grayscale]</sup>
+[Color Filter Type](https://www.icloud.com/shortcuts/f203b0c45a8a41a4b16418fd9e94e85a) <sup>${\color{DeepSkyBlue} iOS}$</sup><br><sub>_Automatically also enables Color Filters; no Color Tint parameter_</sub><p>Change filter type for “Color Filters” (Accessibility › Display & Text Size › Color Filters)<p><sup>__Parameters__<br>`OFF` [Off] • `RED_ADJUST` [Red/Green filter (Protanopia)] • `GREEN_ADJUST` [Green/Red filter (Deuteranopia)] • `BLUE_ADJUST` [Blue/Yellow filter (Tritanopia)] • `GRAYSCALE` [Grayscale]</sup>
 
 <br>
 
-[Reduce Bright Effects](https://www.icloud.com/shortcuts/9702f5b4a5684b5f9e46f8b25776f4b5) <sup>${\color{DeepSkyBlue} iOS}$</sup><p>Toggle “Reduce Bright Effects” (Accessibility > Display & Text Size)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
+[Reduce Bright Effects](https://www.icloud.com/shortcuts/9702f5b4a5684b5f9e46f8b25776f4b5) <sup>${\color{DeepSkyBlue} iOS}$</sup><p>Toggle “Reduce Bright Effects” (Accessibility › Display & Text Size)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
 
 <br>
 
-[Dim Flashing Lights](https://www.icloud.com/shortcuts/6d7a0035987849d2a8d1a0bd4b2df36f) <sup>${\color{DeepSkyBlue} iOS}$</sup><p>Toggle “Dim Flashing Lights” (Accessibility > Display & Text Size)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
+[Dim Flashing Lights](https://www.icloud.com/shortcuts/6d7a0035987849d2a8d1a0bd4b2df36f) <sup>${\color{DeepSkyBlue} iOS}$</sup><p>Toggle “Dim Flashing Lights” (Accessibility › Display & Text Size)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
 
 <br>
 
-[Zoom Filter Type](https://www.icloud.com/shortcuts/ded5de5e0e924cd9a5df2c879c91c4a7) <sup>${\color{DeepSkyBlue} iOS}$</sup><br><sub>_You need to have Zoom enabled to see any changes_</sub><p>Change filter type for “Zoom Filter” (Accessibility > Zoom > Zoom Filter)<p><sup>__Parameters__<br>`ZOOM_LENS_EFFECT_NONE` [None] • `ZOOM_LENS_EFFECT_BLACK_AND_WHITE` [Grayscale] • `ZOOM_LENS_EFFECT_BLACK_AND_WHITE_INVERTED` [Grayscale Inverted] • `ZOOM_LENS_EFFECT_HUE_ADJUST` [not present in Settings] • `ZOOM_LENS_EFFECT_LOW_LIGHT` [Low Light]</sup>
+[Zoom Filter Type](https://www.icloud.com/shortcuts/ded5de5e0e924cd9a5df2c879c91c4a7) <sup>${\color{DeepSkyBlue} iOS}$</sup><br><sub>_You need to have Zoom enabled to see any changes_</sub><p>Change filter type for “Zoom Filter” (Accessibility › Zoom › Zoom Filter)<p><sup>__Parameters__<br>`ZOOM_LENS_EFFECT_NONE` [None] • `ZOOM_LENS_EFFECT_BLACK_AND_WHITE` [Grayscale] • `ZOOM_LENS_EFFECT_BLACK_AND_WHITE_INVERTED` [Grayscale Inverted] • `ZOOM_LENS_EFFECT_HUE_ADJUST` [not present in Settings] • `ZOOM_LENS_EFFECT_LOW_LIGHT` [Low Light]</sup>
 
 <br>
 
-[FaceTime Silence Unknown Callers](https://www.icloud.com/shortcuts/83e6c26612be43f1a8aa7fa7c0a08eea) <sup>${\color{DeepSkyBlue} iOS}$</sup><p>Toggle “Silence Unknown Callers” (Apps > FaceTime)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
+[FaceTime Silence Unknown Callers](https://www.icloud.com/shortcuts/83e6c26612be43f1a8aa7fa7c0a08eea) <sup>${\color{DeepSkyBlue} iOS}$</sup><p>Toggle “Silence Unknown Callers” (Apps › FaceTime)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
 
 <br>
 
-[AirDrop Bring Devices Together](https://www.icloud.com/shortcuts/adda1b4a5e6c49d6b8faa5512dc0fc09) <sup>${\color{DeepSkyBlue} iOS}$</sup><p>Toggle the AirDrop setting “(Start Sharing By) Bringing Devices Together” (General > AirDrop)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
+[AirDrop Bring Devices Together](https://www.icloud.com/shortcuts/adda1b4a5e6c49d6b8faa5512dc0fc09) <sup>${\color{DeepSkyBlue} iOS}$</sup><p>Toggle the AirDrop setting “(Start Sharing By) Bringing Devices Together” (General › AirDrop)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
 
 <br>
 
-[AirDrop Use Cellular Data](https://www.icloud.com/shortcuts/752d07f7888b4de8878e3a12fee1021e) <sup>${\color{DeepSkyBlue} iOS}$</sup><p>Toggle the AirDrop setting “(Out of Range) Use Cellular Data” (General > AirDrop)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
+[AirDrop Use Cellular Data](https://www.icloud.com/shortcuts/752d07f7888b4de8878e3a12fee1021e) <sup>${\color{DeepSkyBlue} iOS}$</sup><p>Toggle the AirDrop setting “(Out of Range) Use Cellular Data” (General › AirDrop)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
 
 <br>
 <br>
 
 > __macOS Settings__
 ###
-[Sidebar Icon Size](https://www.icloud.com/shortcuts/acef10e5216e4309846544eea4895fa3) <sup>${\color{DeepSkyBlue} macOS}$</sup><p>Change “Sidebar Icon Size” (Appearance > Windows)<p><sup>__Parameters__<br>Small • Medium • Large</sup>
+[Battery › Charge Limit](https://www.icloud.com/shortcuts/ea454a3ff046436b82e56b18932009ca) <sup>${\color{DeepSkyBlue} macOS}$</sup><p>Change “Charge Limit” (Battery › Charging)<p><sup>__Parameters__<br>80% • 85% • 90% • 95% • 100%</sup>
 
 <br>
 
-[Tint Window Background With Wallpaper Color](https://www.icloud.com/shortcuts/b25b9dd7de0049c7a1795b018b1ffa96) <sup>${\color{DeepSkyBlue} macOS}$</sup><p>Toggle “Tint window background with wallpaper color” (Appearance > Windows)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
+[Appearance › Sidebar Icon Size](https://www.icloud.com/shortcuts/acef10e5216e4309846544eea4895fa3) <sup>${\color{DeepSkyBlue} macOS}$</sup><p>Change “Sidebar Icon Size” (Appearance › Windows)<p><sup>__Parameters__<br>Small • Medium • Large</sup>
 
 <br>
 
-[Show Scroll Bars When](https://www.icloud.com/shortcuts/cbc83684138647239140196e76a500c4) <sup>${\color{DeepSkyBlue} macOS}$</sup><p>Change “Show scroll bars” (Appearance > Windows)<p><sup>__Parameters__<br>Automatically based on mouse or trackpad • When scrolling • Always</sup>
+[Appearance › Tint Window Background With Wallpaper Color](https://www.icloud.com/shortcuts/b25b9dd7de0049c7a1795b018b1ffa96) <sup>${\color{DeepSkyBlue} macOS}$</sup><p>Toggle “Tint window background with wallpaper color” (Appearance › Windows)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
 
 <br>
 
-[Click in Scroll Bar To](https://www.icloud.com/shortcuts/94b30eeab6104e9282f964d18e6764e8) <sup>${\color{DeepSkyBlue} macOS}$</sup><p>Change “Click in the scroll bar to” (Appearance > Windows)<p><sup>__Parameters__<br>Jump to the next page • Jump to the spot that’s clicked</sup>
+[Appearance › Show Scroll Bars When](https://www.icloud.com/shortcuts/cbc83684138647239140196e76a500c4) <sup>${\color{DeepSkyBlue} macOS}$</sup><p>Change “Show scroll bars” (Appearance › Windows)<p><sup>__Parameters__<br>Automatically based on mouse or trackpad • When scrolling • Always</sup>
 
 <br>
 
-[Desktop & Dock Settings](https://www.icloud.com/shortcuts/55a45fe74e8742728c0aa959f8cf923e) <sup>${\color{DeepSkyBlue} macOS}$</sup><p>Change one or more Desktop or Dock settings (Desktop & Dock)<p><sup>__Parameters__<br>Animate opening applications • Automatically hide and show the Dock • Window title bar double-click action • Magnification • Minimize windows into application icon • Minimized window animation • Dock position on screen • Show indicators for open applications • Show suggested and recent apps in Dock • Size</sup>
+[Appearance › Click in Scroll Bar To](https://www.icloud.com/shortcuts/94b30eeab6104e9282f964d18e6764e8) <sup>${\color{DeepSkyBlue} macOS}$</sup><p>Change “Click in the scroll bar to” (Appearance › Windows)<p><sup>__Parameters__<br>Jump to the next page • Jump to the spot that’s clicked</sup>
 
 <br>
 
-[Automatically Adjust Brightness](https://www.icloud.com/shortcuts/142abd3279bf4c26b5caa18c4f43341b) <sup>${\color{DeepSkyBlue} macOS}$</sup><br><sub>_The toggle won’t reflect the changed state until System Settings is restarted_</sub><p>Toggle “Automatically adjust brightness” (Displays)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
-
-[Automatically Hide and Show the Menu Bar](https://www.icloud.com/shortcuts/16c6bfc7fcb14ef889a0a73c71423816) <sup>${\color{DeepSkyBlue} macOS}$</sup><p>Change “Automatically hide and show the menu bar” (Menu Bar)<p><sup>__Parameters__<br>Always • On Desktop Only • In Full Screen Only • Never</sup>
+[Desktop & Dock](https://www.icloud.com/shortcuts/55a45fe74e8742728c0aa959f8cf923e) <sup>${\color{DeepSkyBlue} macOS}$</sup><p>Change one or more Desktop & Dock settings<p><sup>__Parameters__<br>Animate opening applications • Automatically hide and show the Dock • Window title bar double-click action • Magnification • Minimize windows into application icon • Minimized window animation • Dock position on screen • Show indicators for open applications • Show suggested and recent apps in Dock • Size</sup>
 
 <br>
 
-[Show Menu Bar Background](https://www.icloud.com/shortcuts/4b013a82a9ba49fda5f579d91341c7fb) <sup>${\color{DeepSkyBlue} macOS}$</sup><p>Change “Show menu bar background” (Menu Bar)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
+[Desktop & Dock › Desktop & Stage Manager](https://www.icloud.com/shortcuts/6ac72fbd32f04154aadb0f7787759f77) <sup>${\color{DeepSkyBlue} macOS}$</sup><p>Change one or more “Desktop & Stage Manager” settings (Desktop & Dock › Desktop & Stage Manager)<p><sup>__Parameters__<br>Click wallpaper to show desktop • Visible Items In Stage Manager • Visible Items On Desktop • Show recent apps in Stage Manager • Show windows from an application • Stage Manager</sup>
 
 <br>
 
-[Menu Bar Clock Settings](https://www.icloud.com/shortcuts/ec220408957b47ab9ad46a6d26f5d493) <sup>${\color{DeepSkyBlue} macOS}$</sup><p>Change one or more Clock settings (Menu Bar > Menu Bar Controls)<p><sup>__Parameters__<br>Announce the time • Style • Flash the time separators • Show AM/PM • Show date • Show the day of the week • Display the time with seconds • Interval</sup>
+[Desktop & Dock › Widgets](https://www.icloud.com/shortcuts/6aa49bbca57541a78cc2e17f3925d51f) <sup>${\color{DeepSkyBlue} macOS}$</sup><p>Change one or more “Widgets” settings (Desktop & Dock › Widgets)<p><sup>__Parameters__<br>Show Widgets In Stage Manager • Show Widgets On Desktop • Dim widgets on desktop</sup>
 
 <br>
 
-[Menu Bar User Switching Appearance](https://www.icloud.com/shortcuts/7f8b7313b3be4f34bf8683bbaa865c2f) <sup>${\color{DeepSkyBlue} macOS}$</sup><p>Change “Fast User Switching” (Menu Bar > Menu Bar Comtrols)<p><sup>__Parameters__<br>Full Name • Account Name • Icon</sup>
+[Desktop & Dock › Windows](https://www.icloud.com/shortcuts/a5f3efb31ef1489dbbaafd76d4b7600c) <sup>${\color{DeepSkyBlue} macOS}$</sup><p>Change one or more “Windows” settings (Desktop & Dock › Windows)<p><sup>__Parameters__<br>Ask to keep changes when closing documents • Close windows when quitting an application • Prefer tabs when opening documents</sup>
 
 <br>
 
-[Notification Center Settings](https://www.icloud.com/shortcuts/c578638d141a425f89fa9bf144474c4c) <sup>${\color{DeepSkyBlue} macOS}$</sup><p>Change one or more Notification Center settings (Notifications > Notification Center)<p><sup>__Parameters__<br>Allow notifications when the screen is locked • Allow notifications when mirroring or sharing the display • Allow notifications when the display is sleeping • Show previews • Summarize notifications</sup>
+[Desktop & Dock › Mission Contorl](https://www.icloud.com/shortcuts/30d6a3e2fcfc4753971edcf9bf8631cd) <sup>${\color{DeepSkyBlue} macOS}$</sup><p>Change one or more “Mission Control” settings (Desktop & Dock › Mission Control)<p><sup>__Parameters__<br>Automatically rearrange Spaces based on most recent use • Displays have separate Spaces • Drag windows to top of screen to enter Mission Control • Group windows by application • When switching to an application, switch to a Space with open windows for the application</sup>
 
 <br>
 
-[Application Notification Settings](https://www.icloud.com/shortcuts/1f9c0e6c26ed4b3ba2833f5c7042e30b) <sup>${\color{DeepSkyBlue} macOS}$</sup><p>Change one or more notification settings for a specific application (Notifications > Application Notifications)<p><sup>__Parameters__<br>Alert style • Critical notifications • Allow notifications • Time sensitive notifications • Badge application icon • Notification grouping • Play sound for notification • Show in Notification Center • Show notifications on lock screen • Show previews</sup>
+[Displays › Automatically Adjust Brightness](https://www.icloud.com/shortcuts/142abd3279bf4c26b5caa18c4f43341b) <sup>${\color{DeepSkyBlue} macOS}$</sup><br><sub>_The toggle won’t reflect the changed state until System Settings is restarted_</sub><p>Toggle “Automatically adjust brightness” (Displays)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
 
 <br>
 
-[Play User Interface Sound Effects](https://www.icloud.com/shortcuts/01f69b58ce0c4bf1a47ffd7bf79af2df) <sup>${\color{DeepSkyBlue} macOS}$</sup><p>Toggle “Play user interface sound effects” (Sound > Sound Effects)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
+[Menu Bar › Automatically Hide and Show the Menu Bar](https://www.icloud.com/shortcuts/16c6bfc7fcb14ef889a0a73c71423816) <sup>${\color{DeepSkyBlue} macOS}$</sup><p>Change “Automatically hide and show the menu bar” (Menu Bar)<p><sup>__Parameters__<br>Always • On Desktop Only • In Full Screen Only • Never</sup>
 
 <br>
 
-[Play Feedback When Volume is Changed](https://www.icloud.com/shortcuts/29c18f5b9b194cbf91543b860443609f) <sup>${\color{DeepSkyBlue} macOS}$</sup><p>Toggle “Play feedback when volume is changed” (Sound > Sound Effects)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
+[Menu Bar › Show Menu Bar Background](https://www.icloud.com/shortcuts/4b013a82a9ba49fda5f579d91341c7fb) <sup>${\color{DeepSkyBlue} macOS}$</sup><p>Change “Show menu bar background” (Menu Bar)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
 
 <br>
 
-[Play Sound on Startup](https://www.icloud.com/shortcuts/e34d752371b644e08e4e66b8846957b0) <sup>${\color{DeepSkyBlue} macOS}$</sup><p>Toggle “Play sound on startup” (Sound > Sound Effects)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
+[Menu Bar › Menu Bar Clock](https://www.icloud.com/shortcuts/ec220408957b47ab9ad46a6d26f5d493) <sup>${\color{DeepSkyBlue} macOS}$</sup><p>Change one or more Clock settings (Menu Bar › Menu Bar Controls)<p><sup>__Parameters__<br>Announce the time • Style • Flash the time separators • Show AM/PM • Show date • Show the day of the week • Display the time with seconds • Interval</sup>
 
 <br>
 
-[Flash the Screen When an Alert Sound Occurs](https://www.icloud.com/shortcuts/7f9e4a28d262482883e39a6a5e4cc2f6) <sup>${\color{DeepSkyBlue} macOS}$</sup><p>Toggle “Flash the screen when an alert sound occurs” (Accessibility > Audio)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
+[Menu Bar › Fast User Switching](https://www.icloud.com/shortcuts/7f8b7313b3be4f34bf8683bbaa865c2f) <sup>${\color{DeepSkyBlue} macOS}$</sup><p>Change “Fast User Switching” (Menu Bar › Menu Bar Comtrols)<p><sup>__Parameters__<br>Full Name • Account Name • Icon</sup>
 
 <br>
 
-[Trackpad Tracking Speed](https://www.icloud.com/shortcuts/ccd1705b6c2a4999aa81a30b1e228eb0) <sup>${\color{DeepSkyBlue} macOS}$</sup><p>Change “Tracking speed” (Trackpad > Point & Click)<p><sup>__Parameters__<br>`0.0` • `0.125` • `0.5` • `0.6875` • `0.875` • `1.0` • `1.5` • `2.0` • `2.5` • `3.0`</sup>
+[Notifications › Notification Center](https://www.icloud.com/shortcuts/c578638d141a425f89fa9bf144474c4c) <sup>${\color{DeepSkyBlue} macOS}$</sup><p>Change one or more Notification Center settings (Notifications › Notification Center)<p><sup>__Parameters__<br>Allow notifications when the screen is locked • Allow notifications when mirroring or sharing the display • Allow notifications when the display is sleeping • Show previews • Summarize notifications</sup>
 
 <br>
 
-[Trackpad Click Pressure](https://www.icloud.com/shortcuts/d933ee204a384e19962c7a8e9dcb2337) <sup>${\color{DeepSkyBlue} macOS}$</sup><p>Change “Click” (Trackpad > Point & Click)<p><sup>__Parameters__<br>Light • Medium • Firm</sup>
+[Notifications › Application Notifications](https://www.icloud.com/shortcuts/1f9c0e6c26ed4b3ba2833f5c7042e30b) <sup>${\color{DeepSkyBlue} macOS}$</sup><p>Change one or more notification settings for a specific application (Notifications › Application Notifications)<p><sup>__Parameters__<br>Alert style • Critical notifications • Allow notifications • Time sensitive notifications • Badge application icon • Notification grouping • Play sound for notification • Show in Notification Center • Show notifications on lock screen • Show previews</sup>
 
 <br>
 
-[Trackpad Force Click And Haptic Feedback](https://www.icloud.com/shortcuts/65e95291b1c04e0897fe23defbc784a6) <sup>${\color{DeepSkyBlue} macOS}$</sup><p>Toggle “Force Click and haptic feedback” (Trackpad > Point & Click)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
+[Sound › Play User Interface Sound Effects](https://www.icloud.com/shortcuts/01f69b58ce0c4bf1a47ffd7bf79af2df) <sup>${\color{DeepSkyBlue} macOS}$</sup><p>Toggle “Play user interface sound effects” (Sound › Sound Effects)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
 
 <br>
 
-[Trackpad Look Up & Data Detectors](https://www.icloud.com/shortcuts/32c3f02492c74f13a11a7df765e2132e) <sup>${\color{DeepSkyBlue} macOS}$</sup><br><sub>_Wrongly called “Force Click and haptic feedback” in the action_</sub><p>Change “Look up & data detectors” (Trackpad > Point & Click)<p><sup>__Parameters__<br>Off • Force Click with One Finger • Tap with Three Fingers</sup>
+[Sound › Play Feedback When Volume is Changed](https://www.icloud.com/shortcuts/29c18f5b9b194cbf91543b860443609f) <sup>${\color{DeepSkyBlue} macOS}$</sup><p>Toggle “Play feedback when volume is changed” (Sound › Sound Effects)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
 
 <br>
 
-[Trackpad Secondary Click](https://www.icloud.com/shortcuts/5db14aa8c7ec46c79b503fa348ff48d1) <sup>${\color{DeepSkyBlue} macOS}$</sup><p>Change “Secondary click” (Trackpad > Point & Click)<p><sup>__Parameters__<br>Off • Click with Two Fingers • Click in Bottom Right Corner • Click in Bottom Left Corner</sup>
+[Sound › Play Sound on Startup](https://www.icloud.com/shortcuts/e34d752371b644e08e4e66b8846957b0) <sup>${\color{DeepSkyBlue} macOS}$</sup><p>Toggle “Play sound on startup” (Sound › Sound Effects)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
 
 <br>
 
-[Trackpad Tap to Click](https://www.icloud.com/shortcuts/e31537fdbd4b4047b8a0315affe3bfb8) <sup>${\color{DeepSkyBlue} macOS}$</sup><p>Toggle “Tap to click” (Trackpad > Point & Click)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
+[Trackpad › Tracking Speed](https://www.icloud.com/shortcuts/ccd1705b6c2a4999aa81a30b1e228eb0) <sup>${\color{DeepSkyBlue} macOS}$</sup><p>Change “Tracking speed” (Trackpad › Point & Click)<p><sup>__Parameters__<br>`0.0` • `0.125` • `0.5` • `0.6875` • `0.875` • `1.0` • `1.5` • `2.0` • `2.5` • `3.0`</sup>
 
 <br>
 
-[Trackpad Natural Scrolling](https://www.icloud.com/shortcuts/3090805fb7514726928df7d4eac59c05) <sup>${\color{DeepSkyBlue} macOS}$</sup><p>Toggle “Natural Scrolling” (Trackpad > Scroll & Zoom)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
+[Trackpad › Click Pressure](https://www.icloud.com/shortcuts/d933ee204a384e19962c7a8e9dcb2337) <sup>${\color{DeepSkyBlue} macOS}$</sup><p>Change “Click” (Trackpad › Point & Click)<p><sup>__Parameters__<br>Light • Medium • Firm</sup>
 
 <br>
 
-[Trackpad Zoom In or Out](https://www.icloud.com/shortcuts/fe8a470135694186b1c1bf21911333b3) <sup>${\color{DeepSkyBlue} macOS}$</sup><p>Toggle “Zoom in or out” (Trackpad > Scroll & Zoom)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
+[Trackpad › Force Click And Haptic Feedback](https://www.icloud.com/shortcuts/65e95291b1c04e0897fe23defbc784a6) <sup>${\color{DeepSkyBlue} macOS}$</sup><p>Toggle “Force Click and haptic feedback” (Trackpad › Point & Click)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
 
 <br>
 
-[Trackpad Smart Zoom](https://www.icloud.com/shortcuts/983acd1dca2d4cb59368cdf44f431dc9) <sup>${\color{DeepSkyBlue} macOS}$</sup><p>Toggle “Smart zoom” (Trackpad > Scroll & Zoom)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
+[Trackpad › Look Up & Data Detectors](https://www.icloud.com/shortcuts/32c3f02492c74f13a11a7df765e2132e) <sup>${\color{DeepSkyBlue} macOS}$</sup><br><sub>_Wrongly called “Force Click and haptic feedback” in the action_</sub><p>Change “Look up & data detectors” (Trackpad › Point & Click)<p><sup>__Parameters__<br>Off • Force Click with One Finger • Tap with Three Fingers</sup>
 
 <br>
 
-[Trackpad Rotate](https://www.icloud.com/shortcuts/7c7f2a060caa47359d6da959321cf495) <sup>${\color{DeepSkyBlue} macOS}$</sup><p>Toggle “Rotate” (Trackpad > Scroll & Zoom)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
+[Trackpad › Secondary Click](https://www.icloud.com/shortcuts/5db14aa8c7ec46c79b503fa348ff48d1) <sup>${\color{DeepSkyBlue} macOS}$</sup><p>Change “Secondary click” (Trackpad › Point & Click)<p><sup>__Parameters__<br>Off • Click with Two Fingers • Click in Bottom Right Corner • Click in Bottom Left Corner</sup>
 
 <br>
 
-[Trackpad Swipe Between Pages](https://www.icloud.com/shortcuts/68f1446300c0442593da362f77d7429c) <sup>${\color{DeepSkyBlue} macOS}$</sup><p>Change “Swipe between pages” (Trackpad > More Gestures)<p><sup>__Parameters__<br>Off • Swipe Left or Right with One Finger • Swipe with Two Fingers • Swipe with One or Two Fingers</sup>
+[Trackpad › Tap to Click](https://www.icloud.com/shortcuts/e31537fdbd4b4047b8a0315affe3bfb8) <sup>${\color{DeepSkyBlue} macOS}$</sup><p>Toggle “Tap to click” (Trackpad › Point & Click)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
 
 <br>
 
-[Trackpad Swipe Between Full-Screen Applications](https://www.icloud.com/shortcuts/3ec27345793e4a708a443aabee9434e1) <sup>${\color{DeepSkyBlue} macOS}$</sup><br><sub>_Wrongly called “Swipe between pages” in the action_</sub><p>Change “Swipe between full-screen applications” (Trackpad > More Gestures)<p><sup>__Parameters__<br>Off • Swipe Left or Right with Three Fingers • Swipe Left or Right with Four Fingers</sup>
+[Trackpad › Natural Scrolling](https://www.icloud.com/shortcuts/3090805fb7514726928df7d4eac59c05) <sup>${\color{DeepSkyBlue} macOS}$</sup><p>Toggle “Natural Scrolling” (Trackpad › Scroll & Zoom)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
 
 <br>
 
-[Trackpad Notification Center Gesture](https://www.icloud.com/shortcuts/50f67a1cd28541cabaef6f7fe23d6611) <sup>${\color{DeepSkyBlue} macOS}$</sup><p>Toggle “Notification Center” (Trackpad > More Gestures)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
+[Trackpad › Zoom In or Out](https://www.icloud.com/shortcuts/fe8a470135694186b1c1bf21911333b3) <sup>${\color{DeepSkyBlue} macOS}$</sup><p>Toggle “Zoom in or out” (Trackpad › Scroll & Zoom)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
 
 <br>
 
-[Trackpad Mission Control Gesture](https://www.icloud.com/shortcuts/42dcb8713fde485486d2de0a44719758) <sup>${\color{DeepSkyBlue} macOS}$</sup><p>Change “Mission Control” (Trackpad > More Gestures)<p><sup>__Parameters__<br>Off • Swipe Up with Three Fingers • Swipe Up with Four Fingers</sup>
+[Trackpad › Smart Zoom](https://www.icloud.com/shortcuts/983acd1dca2d4cb59368cdf44f431dc9) <sup>${\color{DeepSkyBlue} macOS}$</sup><p>Toggle “Smart zoom” (Trackpad › Scroll & Zoom)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
 
 <br>
 
-[Trackpad App Exposé Gesture](https://www.icloud.com/shortcuts/65a7d64f87f44c69b2ec85d61f1527f1) <sup>${\color{DeepSkyBlue} macOS}$</sup><p>Change “App Exposé” (Trackpad > More Gestures)<p><sup>__Parameters__<br>Off • Swipe Down with Three Fingers • Swipe Down with Four Fingers</sup>
+[Trackpad › Rotate](https://www.icloud.com/shortcuts/7c7f2a060caa47359d6da959321cf495) <sup>${\color{DeepSkyBlue} macOS}$</sup><p>Toggle “Rotate” (Trackpad › Scroll & Zoom)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
 
 <br>
 
-[Trackpad Show Desktop Gesture](https://www.icloud.com/shortcuts/bd818fb595e9468ab3655bb3bfdeb6c9) <sup>${\color{DeepSkyBlue} macOS}$</sup><br><sub>_The toggle won’t reflect the changed state until System Settings is restarted_</sub><p>Toggle “Show Desktop” (Trackpad > More Gestures)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
+[Trackpad › Swipe Between Pages](https://www.icloud.com/shortcuts/68f1446300c0442593da362f77d7429c) <sup>${\color{DeepSkyBlue} macOS}$</sup><p>Change “Swipe between pages” (Trackpad › More Gestures)<p><sup>__Parameters__<br>Off • Swipe Left or Right with One Finger • Swipe with Two Fingers • Swipe with One or Two Fingers</sup>
 
 <br>
 
-[Use Scroll Gesture With Modifier Keys to Zoom](https://www.icloud.com/shortcuts/0833b7dbdd7a4cf98fa67cdc858b78bf) <sup>${\color{DeepSkyBlue} macOS}$</sup><p>Toggle “Use scroll gesture with modifier keys to zoom” (Accessibility > Zoom)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
+[Trackpad › Swipe Between Full-Screen Applications](https://www.icloud.com/shortcuts/3ec27345793e4a708a443aabee9434e1) <sup>${\color{DeepSkyBlue} macOS}$</sup><br><sub>_Wrongly called “Swipe between pages” in the action_</sub><p>Change “Swipe between full-screen applications” (Trackpad › More Gestures)<p><sup>__Parameters__<br>Off • Swipe Left or Right with Three Fingers • Swipe Left or Right with Four Fingers</sup>
 
 <br>
 
-[Differentiate Without Colors](https://www.icloud.com/shortcuts/f29ea258a80540efb0b148a778da150f) <sup>${\color{DeepSkyBlue} macOS}$</sup><p>Toggle “Differentiate without color” (Accessibility > Display)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
+[Trackpad › Notification Center Gesture](https://www.icloud.com/shortcuts/50f67a1cd28541cabaef6f7fe23d6611) <sup>${\color{DeepSkyBlue} macOS}$</sup><p>Toggle “Notification Center” (Trackpad › More Gestures)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
 
 <br>
 
-[Dim Flashing Lights](https://www.icloud.com/shortcuts/fbe73ad3a49d4543a494b60500aa7d7c) <sup>${\color{DeepSkyBlue} macOS}$</sup><p>Toggle “Dim flashing lights” (Accessibility > Display)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
+[Trackpad › Mission Control Gesture](https://www.icloud.com/shortcuts/42dcb8713fde485486d2de0a44719758) <sup>${\color{DeepSkyBlue} macOS}$</sup><p>Change “Mission Control” (Trackpad › More Gestures)<p><sup>__Parameters__<br>Off • Swipe Up with Three Fingers • Swipe Up with Four Fingers</sup>
 
 <br>
 
-[Show Window Title Icons](https://www.icloud.com/shortcuts/28c9a1c4eab34893a8ae4cb4372b44c4) <sup>${\color{DeepSkyBlue} macOS}$</sup><p>Toggle “Show window title icons” (Accessibility > Display)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
+[Trackpad › App Exposé Gesture](https://www.icloud.com/shortcuts/65a7d64f87f44c69b2ec85d61f1527f1) <sup>${\color{DeepSkyBlue} macOS}$</sup><p>Change “App Exposé” (Trackpad › More Gestures)<p><sup>__Parameters__<br>Off • Swipe Down with Three Fingers • Swipe Down with Four Fingers</sup>
 
 <br>
 
-[Show Toolbar Button Shapes](https://www.icloud.com/shortcuts/203c0068de784d4d8bf9eb20aeb64e03) <sup>${\color{DeepSkyBlue} macOS}$</sup><p>Toggle “Show toolbar button shapes” (Accessibility > Display)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
+[Trackpad › Show Desktop Gesture](https://www.icloud.com/shortcuts/bd818fb595e9468ab3655bb3bfdeb6c9) <sup>${\color{DeepSkyBlue} macOS}$</sup><br><sub>_The toggle won’t reflect the changed state until System Settings is restarted_</sub><p>Toggle “Show Desktop” (Trackpad › More Gestures)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
 
 <br>
 
-[Prefer horizontal text](https://www.icloud.com/shortcuts/80fe1ad89eaa4661a8ca76260659ec8a) <sup>${\color{DeepSkyBlue} macOS}$</sup><p>Toggle “Prefer horizontal text” (Accessibility > Display)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
+[Acessibility › Flash the screen when an alert sound occurs](https://www.icloud.com/shortcuts/7f9e4a28d262482883e39a6a5e4cc2f6) <sup>${\color{DeepSkyBlue} macOS}$</sup><p>Toggle “Flash the screen when an alert sound occurs” (Accessibility › Audio)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
 
 <br>
 
-[Shake Mouse Pointer to Locate](https://www.icloud.com/shortcuts/bce6bf3eccee4cae933fdf439cfca6fb) <sup>${\color{DeepSkyBlue} macOS}$</sup><p>Toggle “Shake mouse pointer to locate” (Accessibility > Display)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
+[Accessibility › Use scroll gesture with modifier keys to zoom](https://www.icloud.com/shortcuts/0833b7dbdd7a4cf98fa67cdc858b78bf) <sup>${\color{DeepSkyBlue} macOS}$</sup><p>Toggle “Use scroll gesture with modifier keys to zoom” (Accessibility › Zoom)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
 
 <br>
 
-[Color Filter Type](https://www.icloud.com/shortcuts/f982e3422d7142279168767fd4d6c6b8) <sup>${\color{DeepSkyBlue} macOS}$</sup><br><sub>_You need to have Color Filters enabled to see any changes_</sub><p>Change filter type for “Color filters” (Accessibility > Display > Color Filters)<p><sup>__Parameters__<br>Grayscale • Red/Green filter (Protanopia) • Green/Red filter (Deuteranopia) • Blue/Yellow filter (Tritanopia) • Color Tint</sup>
+[Accessibility › Differentiate without color](https://www.icloud.com/shortcuts/f29ea258a80540efb0b148a778da150f) <sup>${\color{DeepSkyBlue} macOS}$</sup><p>Toggle “Differentiate without color” (Accessibility › Display)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
+
+<br>
+
+[Accessibility › Dim flashing lights](https://www.icloud.com/shortcuts/fbe73ad3a49d4543a494b60500aa7d7c) <sup>${\color{DeepSkyBlue} macOS}$</sup><p>Toggle “Dim flashing lights” (Accessibility › Display)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
+
+<br>
+
+[Accessibility › Show window title icons](https://www.icloud.com/shortcuts/28c9a1c4eab34893a8ae4cb4372b44c4) <sup>${\color{DeepSkyBlue} macOS}$</sup><p>Toggle “Show window title icons” (Accessibility › Display)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
+
+<br>
+
+[Accessibility › Show toolbar button shapes](https://www.icloud.com/shortcuts/203c0068de784d4d8bf9eb20aeb64e03) <sup>${\color{DeepSkyBlue} macOS}$</sup><p>Toggle “Show toolbar button shapes” (Accessibility › Display)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
+
+<br>
+
+[Accessibility › prefer horizontal text](https://www.icloud.com/shortcuts/80fe1ad89eaa4661a8ca76260659ec8a) <sup>${\color{DeepSkyBlue} macOS}$</sup><p>Toggle “Prefer horizontal text” (Accessibility › Display)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
+
+<br>
+
+[Accessibility › Shake mouse pointer to locate](https://www.icloud.com/shortcuts/bce6bf3eccee4cae933fdf439cfca6fb) <sup>${\color{DeepSkyBlue} macOS}$</sup><p>Toggle “Shake mouse pointer to locate” (Accessibility › Display)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
+
+<br>
+
+[Accessibility › Color filter type](https://www.icloud.com/shortcuts/f982e3422d7142279168767fd4d6c6b8) <sup>${\color{DeepSkyBlue} macOS}$</sup><br><sub>_You need to have Color Filters enabled to see any changes_</sub><p>Change filter type for “Color filters” (Accessibility › Display › Color Filters)<p><sup>__Parameters__<br>Grayscale • Red/Green filter (Protanopia) • Green/Red filter (Deuteranopia) • Blue/Yellow filter (Tritanopia) • Color Tint</sup>
 
 <br>
 <br>
@@ -375,7 +397,7 @@ __Usage__
 
 <br>
 
-[Family Member Details](https://www.icloud.com/shortcuts/6a578a3c9e054f8d8d4d2afcf5fc79cf)<p>Open the details page for a specific member in (System) Settings > Family
+[Family Member Details](https://www.icloud.com/shortcuts/6a578a3c9e054f8d8d4d2afcf5fc79cf)<p>Open the details page for a specific member in (System) Settings › Family
 
 <br>
 
