@@ -14,22 +14,12 @@ __Usage__
 > [!TIP]
 > It's possible to extract some useful information from the output of the actions, for example the updated value of a parameter – by selecting a different detail for the output type <sup>[[iOS guide]](https://support.apple.com/guide/shortcuts/adjust-variables-apda36b9018b/ios) [[macOS guide]](https://support.apple.com/guide/shortcuts-mac/adjust-variables-apda36b9018b/mac)
 
-<br>
-
-<i>
-<sub>
-
 > [!NOTE]
-> These actions likely won't work on iOS <26 and macOS <26
-
-</sub>
-</i>
+> Unlikely to work on iOS <26 and macOS <26
 
 <br>
 
 <sup>_Disclaimer: This collection is built on a [shortcut](https://www.reddit.com/r/shortcuts/comments/1nwdlva/32_hidden_shortcuts_actions/) I posted in October 2025, and only includes actions I have been able to reverse engineer myself using data extracted from local system files, and not actions that have been copied from outside sources_</sup>
-
-<sup>_Credit: https://ariweinstein.com • https://conradkramer.com • https://www.apple.com_</sup>
 
 <br>
 <br>
