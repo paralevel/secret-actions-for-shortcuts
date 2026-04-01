@@ -119,10 +119,6 @@ __Usage__
 
 > __macOS Settings__
 ###
-[Battery › Charge Limit](https://www.icloud.com/shortcuts/ea454a3ff046436b82e56b18932009ca) <sup>${\color{DeepSkyBlue} macOS}$</sup><p>Change “Charge Limit” (Battery › Charging)<p><sup>__Parameters__<br>80% • 85% • 90% • 95% • 100%</sup>
-
-<br>
-
 [Appearance › Sidebar Icon Size](https://www.icloud.com/shortcuts/acef10e5216e4309846544eea4895fa3) <sup>${\color{DeepSkyBlue} macOS}$</sup><p>Change “Sidebar Icon Size” (Appearance › Windows)<p><sup>__Parameters__<br>Small • Medium • Large</sup>
 
 <br>
