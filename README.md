@@ -1,4 +1,4 @@
-# $\color{rgb(224, 0, 0)}\huge\frak S \frak e \frak c \frak r \frak e \frak t \ \frak A \frak c \frak t \frak i \frak o \frak n \frak s$
+# $\color{rgb(224, 0, 0)}\huge\frak Secret\ Actions$
 
 Collection of hidden actions in Shortcuts app on iOS 26 and macOS 26
 <br>
