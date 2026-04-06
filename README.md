@@ -15,7 +15,7 @@ __Usage__
 > It's possible to extract some useful information from the output of the actions, for example the updated value of a parameter – by selecting a different detail for the output type <sup>[[iOS guide]](https://support.apple.com/guide/shortcuts/adjust-variables-apda36b9018b/ios) [[macOS guide]](https://support.apple.com/guide/shortcuts-mac/adjust-variables-apda36b9018b/mac)
 
 > [!NOTE]
-> Only tested to work on iOS 26 and macOS 26
+> Only confirmed to work on iOS 26 and macOS 26
 
 <br>
 
@@ -26,7 +26,15 @@ __Usage__
 
 > __iOS Settings__
 ###
+[Get Wi-Fi Power State](https://www.icloud.com/shortcuts/0eede8df51c14ffeaed1cf23d0efb7b6) ${\sf\small\color{DeepSkyBlue} iOS}$<br><sub>_Change the output type [detail](https://support.apple.com/guide/shortcuts/adjust-variables-apda36b9018b/ios) to extract the value_</sub><p>Get the Wi-Fi power state (Wi-Fi)
+
+<br>
+
 [Show Battery Percentage In Status Bar](https://www.icloud.com/shortcuts/fb45c3d68f274b96a9ec8197ca5e03d0) ${\sf\small\color{DeepSkyBlue} iOS}$<p>Toggle “Show Percentage” (Battery)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup><br>
+
+<br>
+
+[Get Low Power Mode State](https://www.icloud.com/shortcuts/4e4831a68bc44d1386398a96bbc0b37d) ${\sf\small\color{DeepSkyBlue} iOS}$<br><sub>_Change the output type [detail](https://support.apple.com/guide/shortcuts/adjust-variables-apda36b9018b/ios) to extract the value_</sub><p>Get the Low Power Mode state (Battery)
 
 <br>
 
@@ -34,11 +42,23 @@ __Usage__
 
 <br>
 
+[Get Silent Mode State](https://www.icloud.com/shortcuts/7588f95ab06e4d81ae18647ae23b7baf) ${\sf\small\color{DeepSkyBlue} iOS}$<br><sub>_Change the output type [detail](https://support.apple.com/guide/shortcuts/adjust-variables-apda36b9018b/ios) to extract the value_</sub><p>Get the Silent Mode state (Sounds & Haptics › Silent Mode)
+
+<br>
+
 [Vibration](https://www.icloud.com/shortcuts/1b61d7c6ea6e4e76a303af565e7ebdd9) ${\sf\small\color{DeepSkyBlue} iOS}$<p>Toggle “Vibration” (Accessibility › Touch)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
 
 <br>
 
+[Get Vibration State](https://www.icloud.com/shortcuts/6e674594a17c459bac5d9682dd6e0c48) ${\sf\small\color{DeepSkyBlue} iOS}$<br><sub>_Change the output type [detail](https://support.apple.com/guide/shortcuts/adjust-variables-apda36b9018b/ios) to extract the value_</sub><p>Get the Vibration state (Accessibility › Touch)
+
+<br>
+
 [Alert Haptics](https://www.icloud.com/shortcuts/da466ed63c784c17a35d29ffa5c45289) ${\sf\small\color{DeepSkyBlue} iOS}$<p>Change “Alert Haptics” (Sounds & Haptics)<p><sup>__Parameters__<br>Always Play • Play in Silent Mode • Don”t Play in Silent Mode • Never</sup>
+
+<br>
+
+[Get Mono Audio State](https://www.icloud.com/shortcuts/09064156a69244db8746ce50831e3efe) ${\sf\small\color{DeepSkyBlue} iOS}$<br><sub>_Change the output type [detail](https://support.apple.com/guide/shortcuts/adjust-variables-apda36b9018b/ios) to extract the value_</sub><p>Get the Mono Audio state (Accessibility › Audio & Visual)
 
 <br>
 
