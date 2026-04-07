@@ -129,6 +129,58 @@ __Usage__
 
 > __macOS Settings__
 ###
+[General › iPhone Widgets](https://www.icloud.com/shortcuts/b2f0d04dac3c481a9b397f852bb4698b) ${\sf\small\color{DeepSkyBlue} macOS}$<p>Toggle “iPhone Widgets” (General › AirDrop & Continuity)<p><sup>__Parameters__<br>Off • On • Toggle</sup>
+
+<br>
+
+[Accessibility › Use Scroll Gesture With Modifier Keys To Zoom](https://www.icloud.com/shortcuts/0833b7dbdd7a4cf98fa67cdc858b78bf) ${\sf\small\color{DeepSkyBlue} macOS}$<p>Toggle “Use scroll gesture with modifier keys to zoom” (Accessibility › Zoom)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
+
+<br>
+
+[Accessibility › Differentiate Without Color](https://www.icloud.com/shortcuts/f29ea258a80540efb0b148a778da150f) ${\sf\small\color{DeepSkyBlue} macOS}$<p>Toggle “Differentiate without color” (Accessibility › Display)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
+
+<br>
+
+[Accessibility › Dim Flashing Lights](https://www.icloud.com/shortcuts/fbe73ad3a49d4543a494b60500aa7d7c) ${\sf\small\color{DeepSkyBlue} macOS}$<p>Toggle “Dim flashing lights” (Accessibility › Display)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
+
+<br>
+
+[Accessibility › Show Window Title Icons](https://www.icloud.com/shortcuts/28c9a1c4eab34893a8ae4cb4372b44c4) ${\sf\small\color{DeepSkyBlue} macOS}$<p>Toggle “Show window title icons” (Accessibility › Display)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
+
+<br>
+
+[Accessibility › Show Toolbar Button Shapes](https://www.icloud.com/shortcuts/203c0068de784d4d8bf9eb20aeb64e03) ${\sf\small\color{DeepSkyBlue} macOS}$<p>Toggle “Show toolbar button shapes” (Accessibility › Display)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
+
+<br>
+
+[Accessibility › Prefer Horizontal Text](https://www.icloud.com/shortcuts/80fe1ad89eaa4661a8ca76260659ec8a) ${\sf\small\color{DeepSkyBlue} macOS}$<p>Toggle “Prefer horizontal text” (Accessibility › Display)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
+
+<br>
+
+[Accessibility › Shake Mouse Pointer To Locate](https://www.icloud.com/shortcuts/bce6bf3eccee4cae933fdf439cfca6fb) ${\sf\small\color{DeepSkyBlue} macOS}$<p>Toggle “Shake mouse pointer to locate” (Accessibility › Display)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
+
+<br>
+
+[Accessibility › Color Filters › Filter Type](https://www.icloud.com/shortcuts/f982e3422d7142279168767fd4d6c6b8) ${\sf\small\color{DeepSkyBlue} macOS}$<br><sub>_You need to have Color Filters enabled to see any changes_</sub><p>Change “Filter type” (Accessibility › Display › Color Filters)<p><sup>__Parameters__<br>Grayscale • Red/Green filter (Protanopia) • Green/Red filter (Deuteranopia) • Blue/Yellow filter (Tritanopia) • Color Tint</sup>
+
+<br>
+
+[Accessibility › Vehicle Motion Cues](https://www.icloud.com/shortcuts/f0573f3582f74ab8a1334d0725e84c5c) ${\sf\small\color{DeepSkyBlue} macOS}$<p>Toggle “Vehicle Motion Cues” (Accessibility › Motion)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
+
+<br>
+
+[Accessibility › Mono Audio State]() ${\sf\small\color{DeepSkyBlue} macOS}$<br><sub>_To extract the value, change the output type [detail](https://support.apple.com/guide/shortcuts-mac/adjust-variables-apda36b9018b/mac)_</sub><p>Get the “Play stereo audio as mono” state (Accessibility › Audio)
+
+<br>
+
+[Accessibility › Flash The Screen When An Alert Sound Occurs](https://www.icloud.com/shortcuts/7f9e4a28d262482883e39a6a5e4cc2f6) ${\sf\small\color{DeepSkyBlue} macOS}$<p>Toggle “Flash the screen when an alert sound occurs” (Accessibility › Audio)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
+
+<br>
+
+[Accessibility › Spatial Audio Follows Head Movements](https://www.icloud.com/shortcuts/e0b343a71b00497eb665e8dc250b84d0) ${\sf\small\color{DeepSkyBlue} macOS}$<br><sub>_The toggle won't reflect the changed state until System Settings is restarted_</sub><p>Toggle “Spatial audio follows head movements” (Accessibility › Audio)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
+
+<br>
+
 [Appearance › Sidebar Icon Size](https://www.icloud.com/shortcuts/acef10e5216e4309846544eea4895fa3) ${\sf\small\color{DeepSkyBlue} macOS}$<p>Change “Sidebar Icon Size” (Appearance › Windows)<p><sup>__Parameters__<br>Small • Medium • Large</sup>
 
 <br>
@@ -178,6 +230,10 @@ __Usage__
 <br>
 
 [Menu Bar › Clock](https://www.icloud.com/shortcuts/ec220408957b47ab9ad46a6d26f5d493) ${\sf\small\color{DeepSkyBlue} macOS}$<p>Change one or more Clock settings (Menu Bar › Menu Bar Controls)<p><sup>__Parameters__<br>Announce the time • Style • Flash the time separators • Show AM/PM • Show date • Show the day of the week • Display the time with seconds • Interval</sup>
+
+<br>
+
+[Menu Bar › Show Battery Percentage](https://www.icloud.com/shortcuts/25fbc990cd244b5ebdf9bbee14bab7af) ${\sf\small\color{DeepSkyBlue} macOS}$<p>Toggle “Show Percentage” (Menu Bar › Menu Bar Comtrols › Battery › Options)<p><sup>__Parameters__<br>Off • On • Toggle</sup>
 
 <br>
 
@@ -266,50 +322,6 @@ __Usage__
 <br>
 
 [Trackpad › Show Desktop Gesture](https://www.icloud.com/shortcuts/bd818fb595e9468ab3655bb3bfdeb6c9) ${\sf\small\color{DeepSkyBlue} macOS}$<br><sub>_The toggle won’t reflect the changed state until System Settings is restarted_</sub><p>Toggle “Show Desktop” (Trackpad › More Gestures)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
-
-<br>
-
-[Accessibility › Use Scroll Gesture With Modifier Keys To Zoom](https://www.icloud.com/shortcuts/0833b7dbdd7a4cf98fa67cdc858b78bf) ${\sf\small\color{DeepSkyBlue} macOS}$<p>Toggle “Use scroll gesture with modifier keys to zoom” (Accessibility › Zoom)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
-
-<br>
-
-[Accessibility › Differentiate Without Color](https://www.icloud.com/shortcuts/f29ea258a80540efb0b148a778da150f) ${\sf\small\color{DeepSkyBlue} macOS}$<p>Toggle “Differentiate without color” (Accessibility › Display)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
-
-<br>
-
-[Accessibility › Dim Flashing Lights](https://www.icloud.com/shortcuts/fbe73ad3a49d4543a494b60500aa7d7c) ${\sf\small\color{DeepSkyBlue} macOS}$<p>Toggle “Dim flashing lights” (Accessibility › Display)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
-
-<br>
-
-[Accessibility › Show Window Title Icons](https://www.icloud.com/shortcuts/28c9a1c4eab34893a8ae4cb4372b44c4) ${\sf\small\color{DeepSkyBlue} macOS}$<p>Toggle “Show window title icons” (Accessibility › Display)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
-
-<br>
-
-[Accessibility › Show Toolbar Button Shapes](https://www.icloud.com/shortcuts/203c0068de784d4d8bf9eb20aeb64e03) ${\sf\small\color{DeepSkyBlue} macOS}$<p>Toggle “Show toolbar button shapes” (Accessibility › Display)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
-
-<br>
-
-[Accessibility › Prefer Horizontal Text](https://www.icloud.com/shortcuts/80fe1ad89eaa4661a8ca76260659ec8a) ${\sf\small\color{DeepSkyBlue} macOS}$<p>Toggle “Prefer horizontal text” (Accessibility › Display)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
-
-<br>
-
-[Accessibility › Shake Mouse Pointer To Locate](https://www.icloud.com/shortcuts/bce6bf3eccee4cae933fdf439cfca6fb) ${\sf\small\color{DeepSkyBlue} macOS}$<p>Toggle “Shake mouse pointer to locate” (Accessibility › Display)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
-
-<br>
-
-[Accessibility › Color Filters › Filter Type](https://www.icloud.com/shortcuts/f982e3422d7142279168767fd4d6c6b8) ${\sf\small\color{DeepSkyBlue} macOS}$<br><sub>_You need to have Color Filters enabled to see any changes_</sub><p>Change “Filter type” (Accessibility › Display › Color Filters)<p><sup>__Parameters__<br>Grayscale • Red/Green filter (Protanopia) • Green/Red filter (Deuteranopia) • Blue/Yellow filter (Tritanopia) • Color Tint</sup>
-
-<br>
-
-[Accessibility › Vehicle Motion Cues](https://www.icloud.com/shortcuts/f0573f3582f74ab8a1334d0725e84c5c) ${\sf\small\color{DeepSkyBlue} macOS}$<p>Toggle “Vehicle Motion Cues” (Accessibility › Motion)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
-
-<br>
-
-[Acessibility › Flash The Screen When An Alert Sound Occurs](https://www.icloud.com/shortcuts/7f9e4a28d262482883e39a6a5e4cc2f6) ${\sf\small\color{DeepSkyBlue} macOS}$<p>Toggle “Flash the screen when an alert sound occurs” (Accessibility › Audio)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
-
-<br>
-
-[Accessibility › Spatial Audio Follows Head Movements](https://www.icloud.com/shortcuts/e0b343a71b00497eb665e8dc250b84d0) ${\sf\small\color{DeepSkyBlue} macOS}$<br><sub>_The toggle won't reflect the changed state until System Settings is restarted_</sub><p>Toggle “Spatial audio follows head movements” (Accessibility › Audio)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
 
 <br>
 <br>
