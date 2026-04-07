@@ -38,11 +38,11 @@ __Usage__
 
 <br>
 
-[General › AirDrop Bringing Devices Together](https://www.icloud.com/shortcuts/adda1b4a5e6c49d6b8faa5512dc0fc09) ${\sf\small\color{DeepSkyBlue} iOS}$<p>Toggle the AirDrop setting “(Start Sharing By) Bringing Devices Together” (General › AirDrop)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
+[General › AirDrop By Bringing Devices Together](https://www.icloud.com/shortcuts/adda1b4a5e6c49d6b8faa5512dc0fc09) ${\sf\small\color{DeepSkyBlue} iOS}$<p>Toggle the AirDrop setting “(Start Sharing By) Bringing Devices Together” (General › AirDrop)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
 
 <br>
 
-[General › AirDrop Cellular Data](https://www.icloud.com/shortcuts/752d07f7888b4de8878e3a12fee1021e) ${\sf\small\color{DeepSkyBlue} iOS}$<p>Toggle the AirDrop setting “(Out of Range) Use Cellular Data” (General › AirDrop)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
+[General › AirDrop Use Cellular Data](https://www.icloud.com/shortcuts/752d07f7888b4de8878e3a12fee1021e) ${\sf\small\color{DeepSkyBlue} iOS}$<p>Toggle the AirDrop setting “(Out of Range) Use Cellular Data” (General › AirDrop)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
 
 <br>
 
