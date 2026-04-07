@@ -26,103 +26,103 @@ __Usage__
 
 > __iOS Settings__
 ###
-[Wi-Fi Power State](https://www.icloud.com/shortcuts/0eede8df51c14ffeaed1cf23d0efb7b6) ${\sf\small\color{DeepSkyBlue} iOS}$<br><sub>_To extract the value, change the output type [detail](https://support.apple.com/guide/shortcuts/adjust-variables-apda36b9018b/ios)_</sub><p>Get the Wi-Fi power state (Wi-Fi)
+[Wi-Fi › Power State](https://www.icloud.com/shortcuts/0eede8df51c14ffeaed1cf23d0efb7b6) ${\sf\small\color{DeepSkyBlue} iOS}$<br><sub>_To extract the value, change the output type [detail](https://support.apple.com/guide/shortcuts/adjust-variables-apda36b9018b/ios)_</sub><p>Get the Wi-Fi power state (Wi-Fi)
 
 <br>
 
-[Show Battery Percentage In Status Bar](https://www.icloud.com/shortcuts/fb45c3d68f274b96a9ec8197ca5e03d0) ${\sf\small\color{DeepSkyBlue} iOS}$<p>Toggle “Show Percentage” (Battery)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup><br>
+[Battery › Show Percentage](https://www.icloud.com/shortcuts/fb45c3d68f274b96a9ec8197ca5e03d0) ${\sf\small\color{DeepSkyBlue} iOS}$<p>Toggle “Battery Percentage” (Battery)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup><br>
 
 <br>
 
-[Low Power Mode State](https://www.icloud.com/shortcuts/4e4831a68bc44d1386398a96bbc0b37d) ${\sf\small\color{DeepSkyBlue} iOS}$<br><sub>_To extract the value, change the output type [detail](https://support.apple.com/guide/shortcuts/adjust-variables-apda36b9018b/ios)_</sub><p>Get the Low Power Mode state (Battery)
+[Battery › Low Power Mode State](https://www.icloud.com/shortcuts/4e4831a68bc44d1386398a96bbc0b37d) ${\sf\small\color{DeepSkyBlue} iOS}$<br><sub>_To extract the value, change the output type [detail](https://support.apple.com/guide/shortcuts/adjust-variables-apda36b9018b/ios)_</sub><p>Get the Low Power Mode state (Battery)
 
 <br>
 
-[Show Silent Mode In Status Bar](https://www.icloud.com/shortcuts/cb6d50f0fe8d414391cea66e6ef129d8) ${\sf\small\color{DeepSkyBlue} iOS}$<p>Toggle “Show in Status Bar” (Sounds & Haptics › Silent Mode)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
+[General › AirDrop Bringing Devices Together](https://www.icloud.com/shortcuts/adda1b4a5e6c49d6b8faa5512dc0fc09) ${\sf\small\color{DeepSkyBlue} iOS}$<p>Toggle the AirDrop setting “(Start Sharing By) Bringing Devices Together” (General › AirDrop)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
 
 <br>
 
-[Silent Mode State](https://www.icloud.com/shortcuts/7588f95ab06e4d81ae18647ae23b7baf) ${\sf\small\color{DeepSkyBlue} iOS}$<br><sub>_To extract the value, change the output type [detail](https://support.apple.com/guide/shortcuts/adjust-variables-apda36b9018b/ios)_</sub><p>Get the Silent Mode state (Sounds & Haptics › Silent Mode)
+[General › AirDrop Cellular Data](https://www.icloud.com/shortcuts/752d07f7888b4de8878e3a12fee1021e) ${\sf\small\color{DeepSkyBlue} iOS}$<p>Toggle the AirDrop setting “(Out of Range) Use Cellular Data” (General › AirDrop)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
 
 <br>
 
-[Vibration](https://www.icloud.com/shortcuts/1b61d7c6ea6e4e76a303af565e7ebdd9) ${\sf\small\color{DeepSkyBlue} iOS}$<p>Toggle “Vibration” (Accessibility › Touch)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
+[Accessibility › Zoom Filter Type](https://www.icloud.com/shortcuts/ded5de5e0e924cd9a5df2c879c91c4a7) ${\sf\small\color{DeepSkyBlue} iOS}$<br><sub>_You need to have Zoom enabled to see any changes_</sub><p>Change filter type for “Zoom Filter” (Accessibility › Zoom › Zoom Filter)<p><sup>__Parameters__<br>`ZOOM_LENS_EFFECT_NONE` [None] • `ZOOM_LENS_EFFECT_BLACK_AND_WHITE` [Grayscale] • `ZOOM_LENS_EFFECT_BLACK_AND_WHITE_INVERTED` [Grayscale Inverted] • `ZOOM_LENS_EFFECT_HUE_ADJUST` [not present in Settings] • `ZOOM_LENS_EFFECT_LOW_LIGHT` [Low Light]</sup>
 
 <br>
 
-[Vibration State](https://www.icloud.com/shortcuts/6e674594a17c459bac5d9682dd6e0c48) ${\sf\small\color{DeepSkyBlue} iOS}$<br><sub>_To extract the value, change the output type [detail](https://support.apple.com/guide/shortcuts/adjust-variables-apda36b9018b/ios)_</sub><p>Get the Vibration state (Accessibility › Touch)
+[Accessibility › Bold Text](https://www.icloud.com/shortcuts/28c297e31aa44a57ade8a538c5ffb0b9) ${\sf\small\color{DeepSkyBlue} iOS}$<p>Toggle “Bold Text” (Accessibility › Display & Text Size)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
 
 <br>
 
-[Alert Haptics](https://www.icloud.com/shortcuts/da466ed63c784c17a35d29ffa5c45289) ${\sf\small\color{DeepSkyBlue} iOS}$<p>Change “Alert Haptics” (Sounds & Haptics)<p><sup>__Parameters__<br>Always Play • Play in Silent Mode • Don”t Play in Silent Mode • Never</sup>
+[Accessibility › Show Borders](https://www.icloud.com/shortcuts/d8068de66bb0456ab47abae46f3168a4) ${\sf\small\color{DeepSkyBlue} iOS}$<p>Toggle “Show Borders” (Accessibility › Display & Text Size)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
 
 <br>
 
-[Mono Audio State](https://www.icloud.com/shortcuts/09064156a69244db8746ce50831e3efe) ${\sf\small\color{DeepSkyBlue} iOS}$<br><sub>_To extract the value, change the output type [detail](https://support.apple.com/guide/shortcuts/adjust-variables-apda36b9018b/ios)_</sub><p>Get the Mono Audio state (Accessibility › Audio & Visual)
+[Accessibility › On/Off Labels](https://www.icloud.com/shortcuts/e45bce4643f84226a6f65c19485f5b89) ${\sf\small\color{DeepSkyBlue} iOS}$<p>Toggle “On/Off Labels” (Accessibility › Display & Text Size)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
 
 <br>
 
-[Flash For Alerts In Silent Mode](https://www.icloud.com/shortcuts/e1800c743b92455aab52297e12aaf998) ${\sf\small\color{DeepSkyBlue} iOS}$<br><sub>_You need to have Flash for Alerts enabled to see any changes_</sub><p>Toggle “Flash in Silent Mode” (Accessibility › Audio & Visual › Flash for Alerts)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
+[Accessibility › Differentiate Without Color](https://www.icloud.com/shortcuts/44d17ef4b0ca4e8ca02b5ceeb0a251e3) ${\sf\small\color{DeepSkyBlue} iOS}$<p>Toggle “Differentiate Without Colors” (Accessibility › Display & Text Size)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
 
 <br>
 
-[Flash For Alerts While Unlocked](https://www.icloud.com/shortcuts/919ef5ee6ddd42f894408cc416598417) ${\sf\small\color{DeepSkyBlue} iOS}$<br><sub>_You need to have Flash for Alerts enabled to see any changes_</sub><p>Toggle “Flash While Unlocked” (Accessibility › Audio & Visual › Flash for Alerts)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
+[Accessibility › Color Filter Type](https://www.icloud.com/shortcuts/f203b0c45a8a41a4b16418fd9e94e85a) ${\sf\small\color{DeepSkyBlue} iOS}$<br><sub>_Automatically also enables Color Filters; no Color Tint parameter_</sub><p>Change filter type for “Color Filters” (Accessibility › Display & Text Size › Color Filters)<p><sup>__Parameters__<br>`OFF` [Off] • `RED_ADJUST` [Red/Green filter (Protanopia)] • `GREEN_ADJUST` [Green/Red filter (Deuteranopia)] • `BLUE_ADJUST` [Blue/Yellow filter (Tritanopia)] • `GRAYSCALE` [Grayscale]</sup>
 
 <br>
 
-[Reachability](https://www.icloud.com/shortcuts/627c03553f9346a08a3450879b09b51d) ${\sf\small\color{DeepSkyBlue} iOS}$<p>Toggle “Reachability” (Accessibility › Touch)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
+[Accessibility › Reduce Bright Effects](https://www.icloud.com/shortcuts/9702f5b4a5684b5f9e46f8b25776f4b5) ${\sf\small\color{DeepSkyBlue} iOS}$<p>Toggle “Reduce Bright Effects” (Accessibility › Display & Text Size)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
 
 <br>
 
-[Shake To Undo](https://www.icloud.com/shortcuts/85fe6428b7eb4f468521347603017ef3) ${\sf\small\color{DeepSkyBlue} iOS}$<p>Toggle “Shake to Undo” (Accessibility › Touch)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
+[Accessibility › Dim Flashing Lights](https://www.icloud.com/shortcuts/6d7a0035987849d2a8d1a0bd4b2df36f) ${\sf\small\color{DeepSkyBlue} iOS}$<p>Toggle “Dim Flashing Lights” (Accessibility › Display & Text Size)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
 
 <br>
 
-[Auto-Brightness](https://www.icloud.com/shortcuts/88b6505076d4414f8acdde41b20ba741) ${\sf\small\color{DeepSkyBlue} iOS}$<br><sub>_Only Turn Off or Turn On should be used and not Toggle, since toggling to On currently doesn't work_</sub><p>Toggle “Auto-Brightness” (Accessibility › Display & Text Size)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
+[Accessibility › Auto-Brightness](https://www.icloud.com/shortcuts/88b6505076d4414f8acdde41b20ba741) ${\sf\small\color{DeepSkyBlue} iOS}$<br><sub>_Only Turn Off or Turn On should be used and not Toggle, since toggling to On currently doesn't work_</sub><p>Toggle “Auto-Brightness” (Accessibility › Display & Text Size)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
 
 <br>
 
-[Bold Text](https://www.icloud.com/shortcuts/28c297e31aa44a57ade8a538c5ffb0b9) ${\sf\small\color{DeepSkyBlue} iOS}$<p>Toggle “Bold Text” (Accessibility › Display & Text Size)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
+[Accessibility › Reachability](https://www.icloud.com/shortcuts/627c03553f9346a08a3450879b09b51d) ${\sf\small\color{DeepSkyBlue} iOS}$<p>Toggle “Reachability” (Accessibility › Touch)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
 
 <br>
 
-[Show Borders](https://www.icloud.com/shortcuts/d8068de66bb0456ab47abae46f3168a4) ${\sf\small\color{DeepSkyBlue} iOS}$<p>Toggle “Show Borders” (Accessibility › Display & Text Size)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
+[Accessibility › Shake To Undo](https://www.icloud.com/shortcuts/85fe6428b7eb4f468521347603017ef3) ${\sf\small\color{DeepSkyBlue} iOS}$<p>Toggle “Shake to Undo” (Accessibility › Touch)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
 
 <br>
 
-[Differentiate Without Color](https://www.icloud.com/shortcuts/44d17ef4b0ca4e8ca02b5ceeb0a251e3) ${\sf\small\color{DeepSkyBlue} iOS}$<p>Toggle “Differentiate Without Colors” (Accessibility › Display & Text Size)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
+[Accessibility › Vibration](https://www.icloud.com/shortcuts/1b61d7c6ea6e4e76a303af565e7ebdd9) ${\sf\small\color{DeepSkyBlue} iOS}$<p>Toggle “Vibration” (Accessibility › Touch)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
 
 <br>
 
-[On/Off Labels](https://www.icloud.com/shortcuts/e45bce4643f84226a6f65c19485f5b89) ${\sf\small\color{DeepSkyBlue} iOS}$<p>Toggle “On/Off Labels” (Accessibility › Display & Text Size)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
+[Accessibility › Vibration State](https://www.icloud.com/shortcuts/6e674594a17c459bac5d9682dd6e0c48) ${\sf\small\color{DeepSkyBlue} iOS}$<br><sub>_To extract the value, change the output type [detail](https://support.apple.com/guide/shortcuts/adjust-variables-apda36b9018b/ios)_</sub><p>Get the Vibration state (Accessibility › Touch)
 
 <br>
 
-[Color Filter Type](https://www.icloud.com/shortcuts/f203b0c45a8a41a4b16418fd9e94e85a) ${\sf\small\color{DeepSkyBlue} iOS}$<br><sub>_Automatically also enables Color Filters; no Color Tint parameter_</sub><p>Change filter type for “Color Filters” (Accessibility › Display & Text Size › Color Filters)<p><sup>__Parameters__<br>`OFF` [Off] • `RED_ADJUST` [Red/Green filter (Protanopia)] • `GREEN_ADJUST` [Green/Red filter (Deuteranopia)] • `BLUE_ADJUST` [Blue/Yellow filter (Tritanopia)] • `GRAYSCALE` [Grayscale]</sup>
+[Accessibility › Mono Audio State](https://www.icloud.com/shortcuts/09064156a69244db8746ce50831e3efe) ${\sf\small\color{DeepSkyBlue} iOS}$<br><sub>_To extract the value, change the output type [detail](https://support.apple.com/guide/shortcuts/adjust-variables-apda36b9018b/ios)_</sub><p>Get the Mono Audio state (Accessibility › Audio & Visual)
 
 <br>
 
-[Reduce Bright Effects](https://www.icloud.com/shortcuts/9702f5b4a5684b5f9e46f8b25776f4b5) ${\sf\small\color{DeepSkyBlue} iOS}$<p>Toggle “Reduce Bright Effects” (Accessibility › Display & Text Size)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
+[Accessibility › Flash For Alerts In Silent Mode](https://www.icloud.com/shortcuts/e1800c743b92455aab52297e12aaf998) ${\sf\small\color{DeepSkyBlue} iOS}$<br><sub>_You need to have Flash for Alerts enabled to see any changes_</sub><p>Toggle “Flash in Silent Mode” (Accessibility › Audio & Visual › Flash for Alerts)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
 
 <br>
 
-[Dim Flashing Lights](https://www.icloud.com/shortcuts/6d7a0035987849d2a8d1a0bd4b2df36f) ${\sf\small\color{DeepSkyBlue} iOS}$<p>Toggle “Dim Flashing Lights” (Accessibility › Display & Text Size)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
+[Accessibility › Flash For Alerts While Unlocked](https://www.icloud.com/shortcuts/919ef5ee6ddd42f894408cc416598417) ${\sf\small\color{DeepSkyBlue} iOS}$<br><sub>_You need to have Flash for Alerts enabled to see any changes_</sub><p>Toggle “Flash While Unlocked” (Accessibility › Audio & Visual › Flash for Alerts)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
 
 <br>
 
-[Zoom Filter Type](https://www.icloud.com/shortcuts/ded5de5e0e924cd9a5df2c879c91c4a7) ${\sf\small\color{DeepSkyBlue} iOS}$<br><sub>_You need to have Zoom enabled to see any changes_</sub><p>Change filter type for “Zoom Filter” (Accessibility › Zoom › Zoom Filter)<p><sup>__Parameters__<br>`ZOOM_LENS_EFFECT_NONE` [None] • `ZOOM_LENS_EFFECT_BLACK_AND_WHITE` [Grayscale] • `ZOOM_LENS_EFFECT_BLACK_AND_WHITE_INVERTED` [Grayscale Inverted] • `ZOOM_LENS_EFFECT_HUE_ADJUST` [not present in Settings] • `ZOOM_LENS_EFFECT_LOW_LIGHT` [Low Light]</sup>
+[Sounds & Haptics › Haptics](https://www.icloud.com/shortcuts/da466ed63c784c17a35d29ffa5c45289) ${\sf\small\color{DeepSkyBlue} iOS}$<p>Change “Haptics” (Sounds & Haptics)<p><sup>__Parameters__<br>Always Play • Play in Silent Mode • Don”t Play in Silent Mode • Never</sup>
 
 <br>
 
-[AirDrop Bringing Devices Together](https://www.icloud.com/shortcuts/adda1b4a5e6c49d6b8faa5512dc0fc09) ${\sf\small\color{DeepSkyBlue} iOS}$<p>Toggle the AirDrop setting “(Start Sharing By) Bringing Devices Together” (General › AirDrop)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
+[Sounds & Haptics › Show Silent Mode In Status Bar](https://www.icloud.com/shortcuts/cb6d50f0fe8d414391cea66e6ef129d8) ${\sf\small\color{DeepSkyBlue} iOS}$<p>Toggle “Show in Status Bar” (Sounds & Haptics › Silent Mode)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
 
 <br>
 
-[AirDrop Use Cellular Data](https://www.icloud.com/shortcuts/752d07f7888b4de8878e3a12fee1021e) ${\sf\small\color{DeepSkyBlue} iOS}$<p>Toggle the AirDrop setting “(Out of Range) Use Cellular Data” (General › AirDrop)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
+[Sounds & Haptics › Silent Mode State](https://www.icloud.com/shortcuts/7588f95ab06e4d81ae18647ae23b7baf) ${\sf\small\color{DeepSkyBlue} iOS}$<br><sub>_To extract the value, change the output type [detail](https://support.apple.com/guide/shortcuts/adjust-variables-apda36b9018b/ios)_</sub><p>Get the Silent Mode state (Sounds & Haptics › Silent Mode)
 
 <br>
 
-[FaceTime Silence Unknown Callers](https://www.icloud.com/shortcuts/83e6c26612be43f1a8aa7fa7c0a08eea) ${\sf\small\color{DeepSkyBlue} iOS}$<p>Toggle “Silence Unknown Callers” (Apps › FaceTime)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
+[FaceTime › Silence Unknown Callers](https://www.icloud.com/shortcuts/83e6c26612be43f1a8aa7fa7c0a08eea) ${\sf\small\color{DeepSkyBlue} iOS}$<p>Toggle “Silence Unknown Callers” (Apps › FaceTime)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
 
 <br>
 <br>
