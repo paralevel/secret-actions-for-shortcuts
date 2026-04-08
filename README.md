@@ -12,8 +12,7 @@ __Usage__
 <br>
 
 > [!NOTE]
-> - These actions are all built into Shortcuts app, only that they’re not selectable in the user interface
-> - There’s no guarantee about the safety of the actions – many of them appear to be unfinished
+> - These actions are all built into Shortcuts app, only that they’re for various reasons not selectable in the user interface
 > - Confirmed to work on iOS 26 and macOS 26 only
 
 <br>
