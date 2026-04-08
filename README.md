@@ -1,4 +1,4 @@
-# $\color{rgb(224, 0, 0)}\huge\frak Secret\ Actions$
+# $\color{rgb(160, 80, 160)}\huge\frak Secret\ Actions$
 
 Collection of hidden actions in Shortcuts app on iOS 26 and macOS 26
 <br>
@@ -114,11 +114,11 @@ __Usage__
 
 <br>
 
-[Sounds & Haptics › Show Silent Mode In Status Bar](https://www.icloud.com/shortcuts/cb6d50f0fe8d414391cea66e6ef129d8) ${\sf\small\color{DeepSkyBlue} iOS}$<p>Toggle “Show in Status Bar” (Sounds & Haptics › Silent Mode)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
+[Sounds & Haptics › Show Silent Mode In Status Bar](https://www.icloud.com/shortcuts/cb6d50f0fe8d414391cea66e6ef129d8) ${\sf\small\color{DeepSkyBlue} iOS}$<br><sub>_Unavailable on devices with a physical silent switch_</sub><p>Toggle “Show in Status Bar” (Sounds & Haptics › Silent Mode)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
 
 <br>
 
-[Sounds & Haptics › Silent Mode State](https://www.icloud.com/shortcuts/7588f95ab06e4d81ae18647ae23b7baf) ${\sf\small\color{DeepSkyBlue} iOS}$<br><sub>_To extract the value, change the output type [detail](https://support.apple.com/guide/shortcuts/adjust-variables-apda36b9018b/ios)_</sub><p>Get the Silent Mode state (Sounds & Haptics › Silent Mode)
+[Sounds & Haptics › Silent Mode State](https://www.icloud.com/shortcuts/7588f95ab06e4d81ae18647ae23b7baf) ${\sf\small\color{DeepSkyBlue} iOS}$<br><sub>_To extract the value, change the output type [detail](https://support.apple.com/guide/shortcuts/adjust-variables-apda36b9018b/ios) – doesn't work on devices with a physical silent switch_</sub><p>Get the Silent Mode state (Sounds & Haptics › Silent Mode)
 
 <br>
 
