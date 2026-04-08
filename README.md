@@ -1,4 +1,4 @@
-# $\color{rgb(224, 0, 48)}\huge\frak Secret\ Actions$
+# $\huge\frak Secret\ Actions$
 
 Collection of hidden actions in Shortcuts app on iOS 26 and macOS 26
 <br>
@@ -12,7 +12,8 @@ __Usage__
 <br>
 
 > [!NOTE]
-> - These actions are all built into Shortcuts app, only that they’re for various reasons not selectable in the user interface
+> - These actions are all built into Shortcuts app, only that they are, for various reasons, not selectable in the user interface
+> - No guarantee they are 100% safe – proceed at your own risk
 > - Confirmed to work on iOS 26 and macOS 26 only
 
 <br>
@@ -22,7 +23,7 @@ __Usage__
 
 <br>
 
-<sup>_Disclaimer: This collection is built on a [shortcut](https://www.reddit.com/r/shortcuts/comments/1nwdlva/32_hidden_shortcuts_actions/) I posted in October 2025, and consists only of actions I personally have been able to reverse engineer using data extracted from local system files_</sup>
+<sup>_Disclaimer: This collection is built on a [shortcut](https://www.reddit.com/r/shortcuts/comments/1nwdlva/32_hidden_shortcuts_actions/) I posted in October 2025, and consists only of actions I personally have been able to [reverse engineer](https://www.reddit.com/r/shortcuts/comments/1s26sjl/comment/oc6e8vp/) using data extracted from local system files_</sup>
 
 <br>
 <br>
