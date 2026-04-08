@@ -1,4 +1,4 @@
-# $\color{rgb(160, 80, 160)}\huge\frak Secret\ Actions$
+# $\color{rgb(224, 32, 0)}\huge\frak Secret\ Actions$
 
 Collection of hidden actions in Shortcuts app on iOS 26 and macOS 26
 <br>
@@ -15,7 +15,9 @@ __Usage__
 > It's possible to extract some useful information from the output of the actions, for example the updated value of a parameter – by selecting a different detail for the output type <sup>[[iOS guide]](https://support.apple.com/guide/shortcuts/adjust-variables-apda36b9018b/ios) [[macOS guide]](https://support.apple.com/guide/shortcuts-mac/adjust-variables-apda36b9018b/mac)
 
 > [!NOTE]
-> Only confirmed to work on iOS 26 and macOS 26
+> - These actions are all built into Shortcuts app, only that they're not choosable in the user interface
+> - There's no guarantee about the safety of these actions – many of them appear to be unfinished
+> - Confirmed to work on iOS 26 and macOS 26 only
 
 <br>
 
