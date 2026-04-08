@@ -1,10 +1,10 @@
-# $\color{rgb(224, 32, 0)}\huge\frak Secret\ Actions$
+# $\color{rgb(224, 0, 48)}\huge\frak Secret\ Actions$
 
 Collection of hidden actions in Shortcuts app on iOS 26 and macOS 26
 <br>
 <br>
 __Usage__
-1. Click the action's title to install a shortcut that contains only this action
+1. Click the action’s title to install a shortcut that contains only this action
 2. Open the shortcut
 3. Copy the action
 4. Paste it into your own shortcut
@@ -12,11 +12,11 @@ __Usage__
 <br>
 
 > [!TIP]
-> It's possible to extract some useful information from the output of the actions, for example the updated value of a parameter – by selecting a different detail for the output type <sup>[[iOS guide]](https://support.apple.com/guide/shortcuts/adjust-variables-apda36b9018b/ios) [[macOS guide]](https://support.apple.com/guide/shortcuts-mac/adjust-variables-apda36b9018b/mac)
+> It’s possible to extract some useful information from the output of the actions, for example the updated value of a parameter – by selecting a different detail for the output type <sup>[[iOS guide]](https://support.apple.com/guide/shortcuts/adjust-variables-apda36b9018b/ios) [[macOS guide]](https://support.apple.com/guide/shortcuts-mac/adjust-variables-apda36b9018b/mac)
 
 > [!NOTE]
-> - These actions are all built into Shortcuts app, only that they're not choosable in the user interface
-> - There's no guarantee about the safety of these actions – many of them appear to be unfinished
+> - These actions are all built into Shortcuts app, only that they’re not choosable in the user interface
+> - There’s no guarantee about the safety of the actions – many of them appear to be unfinished
 > - Confirmed to work on iOS 26 and macOS 26 only
 
 <br>
