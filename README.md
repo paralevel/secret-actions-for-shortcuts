@@ -12,8 +12,8 @@ __Usage__
 <br>
 
 > [!NOTE]
-> - These actions are all built into Shortcuts app, only that they are, for various reasons, not selectable in the user interface
-> - No guarantee they are 100% safe – proceed at your own risk
+> - These extraced actions are all built into Shortcuts app, only that they are, for various reasons, not selectable in the user interface
+> - Probably no risk in using them, but no guarantee
 > - Confirmed to work on iOS 26 and macOS 26 only
 
 <br>
