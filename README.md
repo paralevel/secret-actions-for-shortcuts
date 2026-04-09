@@ -12,7 +12,7 @@ __Usage__
 <br>
 
 > [!NOTE]
-> - These actions are part extracted and part reverse engineered copies of built in actions in Shortcuts app – that are for various reasons not selectable in the user interface
+> - These actions are part extracted, part reverse engineered, copies of built in actions in Shortcuts app, which are for various reasons not selectable in the user interface
 > - Probably nothing risky about them, but no guarantee
 > - Confirmed to work on iOS 26 and macOS 26 only
 
