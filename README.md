@@ -23,7 +23,7 @@ __Usage__
 
 <br>
 
-<sup>_Disclaimer: This collection is built on a [shortcut](https://www.reddit.com/r/shortcuts/comments/1nwdlva/32_hidden_shortcuts_actions/) I posted in October 2025, and consists only of actions I personally have been able to [reverse engineer](https://www.reddit.com/r/shortcuts/comments/1s26sjl/comment/oc6e8vp/) using data extracted from local system files_</sup>
+<sup>_Disclaimer: This collection is built on a [shortcut](https://www.icloud.com/shortcuts/fa750e73f3df47c3a0483d050effb015) I posted in October 2025, and consists only of actions I personally have been able to reverse engineer using data extracted from local system files_</sup>
 
 <br>
 <br>
