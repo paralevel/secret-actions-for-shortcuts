@@ -336,7 +336,7 @@ __Usage__
 
 <br>
 
-[Open View](https://www.icloud.com/shortcuts/3d900f08e71e46da92513ef276025e09) $\small\color{DeepSkyBlue}\(hidden\ on\ macOS\ only\)$<p>Opens the given View in Safari<p><sup>__Parameters__<br>Bookmarks • History • Reading List • Start Page • Tab Overview • Default Tab Group • Private Tab Group • Sidebar • Shared with You</sup>
+[Open View](https://www.icloud.com/shortcuts/3d900f08e71e46da92513ef276025e09) $\sf\small\color{DeepSkyBlue}\(hidden\ on\ macOS\ only\)$<p>Opens the given View in Safari<p><sup>__Parameters__<br>Bookmarks • History • Reading List • Start Page • Tab Overview • Default Tab Group • Private Tab Group • Sidebar • Shared with You</sup>
 
 <br>
 
@@ -352,11 +352,11 @@ __Usage__
 
 <br>
 
-[Find Bookmarks](https://www.icloud.com/shortcuts/f1bac8b295be482bbca14f6be591ff84) $\small\color{DeepSkyBlue}\(hidden\ on\ macOS\ only\)$<p>Finds Safari bookmarks<p><sup>__Options__<br>Add Filter • Sort by • Limit</sup><br>
+[Find Bookmarks](https://www.icloud.com/shortcuts/f1bac8b295be482bbca14f6be591ff84) $\sf\small\color{DeepSkyBlue}\(hidden\ on\ macOS\ only\)$<p>Finds Safari bookmarks<p><sup>__Options__<br>Add Filter • Sort by • Limit</sup><br>
 
 <br>
 
-[Open Bookmark](https://www.icloud.com/shortcuts/656c86427f9d435fb416bd287f207c4b) $\small\color{DeepSkyBlue}\(hidden\ on\ macOS\ only\)$<p>Opens the given bookmark in a new tab in the current tab group
+[Open Bookmark](https://www.icloud.com/shortcuts/656c86427f9d435fb416bd287f207c4b) $\sf\small\color{DeepSkyBlue}\(hidden\ on\ macOS\ only\)$<p>Opens the given bookmark in a new tab in the current tab group
 
 <br>
 
@@ -368,11 +368,11 @@ __Usage__
 
 <br>
 
-[Create New Tab](https://www.icloud.com/shortcuts/65a7ba0a4cb54084a46744c4948407b3) $\small\color{DeepSkyBlue}\(hidden\ on\ macOS\ only\)$<p>Opens Safari and creates a new blank tab – in the current tab group on macOS – in the default tab group on iOS
+[Create New Tab](https://www.icloud.com/shortcuts/65a7ba0a4cb54084a46744c4948407b3) $\sf\small\color{DeepSkyBlue}\(hidden\ on\ macOS\ only\)$<p>Opens Safari and creates a new blank tab – in the current tab group on macOS – in the default tab group on iOS
 
 <br>
 
-[Find Tabs](https://www.icloud.com/shortcuts/ce0ec1db3e7a4d60928af67ad6e21f2c) $\small\color{DeepSkyBlue}\(hidden\ on\ macOS\ only\)$<p>Finds Safari tabs – doesn't work in the Private Tab Group<p><sup>__Options__<br>Add Filter • Sort by • Limit</sup><br>
+[Find Tabs](https://www.icloud.com/shortcuts/ce0ec1db3e7a4d60928af67ad6e21f2c) $\sf\small\color{DeepSkyBlue}\(hidden\ on\ macOS\ only\)$<p>Finds Safari tabs – doesn't work in the Private Tab Group<p><sup>__Options__<br>Add Filter • Sort by • Limit</sup><br>
 
 <br>
 
@@ -380,23 +380,23 @@ __Usage__
 
 <br>
 
-[Switch Tab](https://www.icloud.com/shortcuts/79960341e47a40c7a7246bc2a0f45280) $\small\color{DeepSkyBlue}\(hidden\ on\ macOS\ only\)$<p>Opens Safari and switches to the given tab<p><sup>__Parameters__<br>Tab</sup>
+[Switch Tab](https://www.icloud.com/shortcuts/79960341e47a40c7a7246bc2a0f45280) $\sf\small\color{DeepSkyBlue}\(hidden\ on\ macOS\ only\)$<p>Opens Safari and switches to the given tab<p><sup>__Parameters__<br>Tab</sup>
 
 <br>
 
-[Close Tab](https://www.icloud.com/shortcuts/8b07de524c214f859a32366905b9cc32) $\small\color{DeepSkyBlue}\(hidden\ on\ macOS\ only\)$<p>Opens Safari and closes the given tab<p><sup>__Parameters__<br>Tab</sup>
+[Close Tab](https://www.icloud.com/shortcuts/8b07de524c214f859a32366905b9cc32) $\sf\small\color{DeepSkyBlue}\(hidden\ on\ macOS\ only\)$<p>Opens Safari and closes the given tab<p><sup>__Parameters__<br>Tab</sup>
 
 <br>
 
-[Open Tab Group](https://www.icloud.com/shortcuts/a03c00999a574a8a9c0a78b92aa6282f) $\small\color{DeepSkyBlue}\(hidden\ on\ macOS\ only\)$<p>Opens the given tab group in Safari<p><sup>__Parameters__<br>Tab Group</sup>
+[Open Tab Group](https://www.icloud.com/shortcuts/a03c00999a574a8a9c0a78b92aa6282f) $\sf\small\color{DeepSkyBlue}\(hidden\ on\ macOS\ only\)$<p>Opens the given tab group in Safari<p><sup>__Parameters__<br>Tab Group</sup>
 
 <br>
 
-[Create Tab Group](https://www.icloud.com/shortcuts/45a42efecf8f4c03b6de081e6a7667b8) $\small\color{DeepSkyBlue}\(hidden\ on\ macOS\ only\)$<p>Opens Safari and creates a new tab group with the given name (or “Untitled” if no name is given)<p><sup>__Options__<br>Tab Group Name</sup>
+[Create Tab Group](https://www.icloud.com/shortcuts/45a42efecf8f4c03b6de081e6a7667b8) $\sf\small\color{DeepSkyBlue}\(hidden\ on\ macOS\ only\)$<p>Opens Safari and creates a new tab group with the given name (or “Untitled” if no name is given)<p><sup>__Options__<br>Tab Group Name</sup>
 
 <br>
 
-[Find Tab Groups](https://www.icloud.com/shortcuts/675a0799c41943fe85ecb51bb3984e7d) $\small\color{DeepSkyBlue}\(hidden\ on\ macOS\ only\)$<p>Finds Safari tab groups<p><sup>__Options__<br>Add Filter • Sort by • Limit</sup><br>
+[Find Tab Groups](https://www.icloud.com/shortcuts/675a0799c41943fe85ecb51bb3984e7d) $\sf\small\color{DeepSkyBlue}\(hidden\ on\ macOS\ only\)$<p>Finds Safari tab groups<p><sup>__Options__<br>Add Filter • Sort by • Limit</sup><br>
 
 <br>
 <br>
@@ -419,11 +419,23 @@ __Usage__
 
 <br>
 
+[Mission Control](https://www.icloud.com/shortcuts/e428567e72b444cf85f2b10e143a43b0) ${\sf\small\color{DeepSkyBlue} macOS}$<p>Open Mission Control
+
+<br>
+
+[App Exposé](https://www.icloud.com/shortcuts/5522317ec06848f1a2b8ae727c49c60d) ${\sf\small\color{DeepSkyBlue} macOS}$<p>Open App Exposé
+
+<br>
+
+[Show Desktop](https://www.icloud.com/shortcuts/21af2ce93344418f8b3345a4509a7ffe) ${\sf\small\color{DeepSkyBlue} macOS}$<p>Show Desktop
+
+<br>
+
 [Delete Contact](https://www.icloud.com/shortcuts/f66e6cccfb0f4cebb9aca0d4da3f4a2f)<p>Deletes one or more contacts<p><sup>__Parameters__<br>Contact</sup>
 
 <br>
 
-[Find Focus](https://www.icloud.com/shortcuts/71375f2726c140beb4352ba9653479fd) ${\sf\small\color{DeepSkyBlue} iOS}$<p>Get a list of all Focus modes<p><sup>__Options__<br>Limit</sup><br>
+[Find Focus](https://www.icloud.com/shortcuts/71375f2726c140beb4352ba9653479fd) ${\sf\small\color{DeepSkyBlue} iOS}$<p>Get a list of all Focus modes<p><sup>__Options__<br>Limit</sup>
 
 <br>
 
