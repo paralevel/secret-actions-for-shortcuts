@@ -1,6 +1,6 @@
 # $\huge\frak Secret\ Actions$
 
-Collection of hidden actions in Shortcuts app on iOS 26 and macOS 26
+Collection of hidden actions in Shortcuts app on iOS 26 and macOS Tahoe 26
 <br>
 <br>
 __Usage__
@@ -14,7 +14,7 @@ __Usage__
 > [!NOTE]
 > - These actions are part extracted, part reverse engineered, copies of built in actions in Shortcuts app, which are for various reasons not selectable in the user interface
 > - Probably nothing risky about them, but no guarantee
-> - Confirmed to work on iOS 26 and macOS 26 only
+> - Confirmed to work on iOS 26 and macOS Tahoe 26 only
 
 <br>
 
