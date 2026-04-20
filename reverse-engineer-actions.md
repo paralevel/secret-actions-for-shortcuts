@@ -1,10 +1,10 @@
 # How to reverse engineer hidden Shortcuts actions
 
-Look for action identifiers in system files (using e.g. the strings and grep shell commands),  especially in the Tools-prod sqlite file, which can be found in /private/var/mobile/Library/Shortcuts/ToolKit/ on iOS (but because of denied read permissions, you have to access it from iOS backup files, where it's in HomeDomain/Library/Shortcuts/ToolKit/), and on macOS it's in ~/Library/Shortcuts/ToolKit/ ([see here](https://github.com/paralevel/unfull-disk-access-for-terminal) if you get `Operation not permitted` when trying to access the directory from Terminal) – the iOS one contains mostly iOS action ids, the macOS one mostly macOS action ids
+Look for action identifiers in system files (using e.g. the strings and grep shell commands),  especially in the Tools-prod sqlite file, which can be found in /private/var/mobile/Library/Shortcuts/ToolKit/ on iOS (but because of denied read permissions, you have to access it from iOS backup files, where it's in HomeDomain/Library/Shortcuts/ToolKit/), and on macOS it's in ~/Library/Shortcuts/ToolKit/ ([see here](https://github.com/paralevel/unfull-disk-access-for-terminal) if you get `Operation not permitted` when trying to access the directory from Terminal) – the iOS one contains mostly iOS action IDs, the macOS one mostly macOS action IDs
 
-You can find examples of action ids by copying a random action in Shortcuts app and then run the following shortcut which converts the action in clipboard to source: https://www.icloud.com/shortcuts/65d36be39c5a49cc8121e4ea652b606e
+You can find examples of action IDs by copying some random action in Shortcuts app and then run the following shortcut which converts the action in clipboard to source: https://www.icloud.com/shortcuts/65d36be39c5a49cc8121e4ea652b606e
 
-When you have an action id you want to try, insert it between the string tags in the following template plist:
+To check if a string is a valid action ID, insert it between the string tags in the following template plist:
 ~~~xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
