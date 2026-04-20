@@ -1,4 +1,4 @@
-# $\huge\frak Secret\ Actions$
+# Hidden Shortcuts actions
 
 Collection of hidden actions in Shortcuts app on iOS 26 and macOS Tahoe 26
 <br>
