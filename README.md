@@ -173,7 +173,7 @@ __Usage__
 
 <br>
 
-[Accessibility › Mono Audio State]() ${\sf\small\color{DeepSkyBlue} macOS}$<br><sub>_To extract the value, change the output type [detail](https://support.apple.com/guide/shortcuts-mac/adjust-variables-apda36b9018b/mac)_</sub><p>Get the “Play stereo audio as mono” state (Accessibility › Audio)
+[Accessibility › Mono Audio State]() ${\sf\small\color{DeepSkyBlue} macOS}$<br><sub>_To extract the value, change the output type [detail](https://support.apple.com/guide/shortcuts-mac/adjust-variables-apda36b9018b/mac)_</sub><p>Get the state of “Play stereo audio as mono” (Accessibility › Audio)
 
 <br>
 
@@ -452,29 +452,6 @@ __Usage__
 <br>
 
 [Get Firewall State](https://www.icloud.com/shortcuts/5f3227380135451d873feb9afa00436a) ${\sf\small\color{DeepSkyBlue} macOS}$<p>Get the current Firewall policy
-
-<br>
-<br>
-
-> __Third Party Services__
-###
-[Add to Pinboard](https://www.icloud.com/shortcuts/018a1ed6474448f1a40ad90795952804)<p>Adds the URL passed into the action to your Pinboard – requires access to your Pinboard account<p>
-
-<br>
-
-[Get Pinboard Bookmarks](https://www.icloud.com/shortcuts/c77470ba888c4f11bb90369b7d94663b)<p>Gets bookmarks in your Pinboard account – requires access to your Pinboard account<p>
-
-<br>
-
-[Upload to Imgur](https://www.icloud.com/shortcuts/be15bed49b5c4b9393548d7d8fa38168)<p>Uploads the input to Imgur<p><sup>__Options__<br>Upload Anonymously • Direct Link • Create Album • Title • Description</sup>
-
-<br>
-
-[Post to WordPress](https://www.icloud.com/shortcuts/4fcf8fafba874096b36b888d8e3a9097)<p>Posts the input to a WordPress blog as a new post or page – requires access to your WordPress account<p>
-
-<br>
-
-[Post to Tumblr](https://www.icloud.com/shortcuts/b61947a637a94192b120158a695f20d2)<p>Posts the content passed into the action to Tumblr – requires access to your Tumblr account<p>
 
 <br>
 <br>
