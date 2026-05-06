@@ -17,7 +17,7 @@ __Usage__
 <br>
 
 > [!CAUTION]
-> It’s unknown whether they’re in an experimental state or not
+> It’s unknown whether the actions are in an experimental state or not
 
 <br>
 
