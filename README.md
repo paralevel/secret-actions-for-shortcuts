@@ -12,9 +12,12 @@ __Usage__
 <br>
 
 > [!NOTE]
-> - These actions are reverse engineered copies of built in Shortcuts actions that for various reasons are hidden in the app’s user interface
-> - Probably nothing risky about them, but no guarantee
-> - Confirmed to work on iOS 26 and macOS Tahoe 26 only
+> These actions are reverse engineered copies of built in Shortcuts actions that for various reasons are hidden in the app’s user interface
+
+<br>
+
+> [!CAUTION]
+> It’s unknown whether they’re in an experimental state or not
 
 <br>
 
