@@ -1,6 +1,6 @@
 # How to reverse engineer hidden Shortcuts actions
 
-Look for action identifiers in system files (using e.g. the strings and grep shell commands),  especially in the Tools-prod sqlite file, which can be found in /private/var/mobile/Library/Shortcuts/ToolKit/ on iOS (but because of denied read permissions, you have to access it from iOS backup files ([see here](https://github.com/paralevel/extract-ios-backups-from-terminal)), where it's in HomeDomain/Library/Shortcuts/ToolKit/), and on macOS it's in ~/Library/Shortcuts/ToolKit/ – the iOS one contains mostly iOS action IDs, the macOS one mostly macOS action IDs
+Look for action identifiers in system files (using e.g. the strings and grep shell commands),  especially in the Tools-prod sqlite file, which can be found in /private/var/mobile/Library/Shortcuts/ToolKit/ on iOS (but because of denied read permissions, you have to access it from iOS backup files (also [see here](https://github.com/paralevel/extract-ios-backups-from-terminal)), where it's in HomeDomain/Library/Shortcuts/ToolKit/), and on macOS it's in ~/Library/Shortcuts/ToolKit/ – the iOS one contains mostly iOS action IDs, the macOS one mostly macOS action IDs
 
 You can find examples of action IDs by copying some random action in Shortcuts app and then run the following shortcut which converts the action in clipboard to source: https://www.icloud.com/shortcuts/65d36be39c5a49cc8121e4ea652b606e
 
