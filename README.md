@@ -17,7 +17,7 @@ __Usage__
 <br>
 
 > [!IMPORTANT]
-> It’s impossible to know what state the actions are in, so caution should be used – the code could be unfinished
+> Since it’s unknown what state the actions are in, use with caution – the code could be unfinished
 
 <br>
 
