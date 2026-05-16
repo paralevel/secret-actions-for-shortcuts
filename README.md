@@ -17,7 +17,7 @@ __Usage__
 <br>
 
 > [!IMPORTANT]
-> It’s unknown whether the actions are in an experimental state or not
+> It’s impossible to know what state the actions are in, so caution should be used – the code could be unfinished
 
 <br>
 
