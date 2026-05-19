@@ -17,7 +17,7 @@ __Usage__
 <br>
 
 > [!IMPORTANT]
-> Since it’s unknown what state the actions are in, use with caution – the code could be unfinished
+> Some of the actions should probably be used with caution, for example “Delete Bookmarks”, since it’s unknown whether the code is in a finished state or not
 
 <br>
 
