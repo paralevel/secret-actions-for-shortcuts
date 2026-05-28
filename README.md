@@ -1,4 +1,7 @@
 # Hidden Shortcuts actions
+<sup>_System Requirements: iOS 26 or macOS Tahoe 26_</sup>
+<br>
+<br>
 Collection of hidden actions in Shortcuts app on iOS and macOS
 <br>
 <br>
@@ -22,14 +25,9 @@ __Usage__
 <br>
 
 <sup>_Disclaimer: This collection is built on a shortcut I posted here on [October 1 2025](https://github.com/paralevel/secret-actions-for-shortcuts/blob/4ef59fd3fc4b8bce28cfeb4a67e8d3c5d5f1b8ce/src/Secret%20Actions.unsigned.shortcut) (last updated [signed release](https://www.icloud.com/shortcuts/fa750e73f3df47c3a0483d050effb015)), and consists only of actions I personally have have been able to [reverse engineer](https://github.com/paralevel/secret-actions-for-shortcuts/blob/main/reverse-engineer-actions.md) using data extracted from local system files_</sup>
-
-<br>
-
-<sup>_System Requirements: iOS 26 or macOS Tahoe 26_</sup>
-
 <br>
 <br>
-
+<br>
 > __iOS Settings__
 ###
 [Wi-Fi › Power State](https://www.icloud.com/shortcuts/0eede8df51c14ffeaed1cf23d0efb7b6) ${\sf\small\color{DeepSkyBlue} iOS}$<br><sub>_To extract the value, change the output type [detail](https://support.apple.com/guide/shortcuts/adjust-variables-apda36b9018b/ios)_</sub><p>Get the Wi-Fi power state (Wi-Fi)
