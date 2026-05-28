@@ -1,4 +1,4 @@
-# Hidden Shortcuts actions
+# Hidden Shortcuts Actions
 <sup>_System Requirements: iOS 26 or macOS Tahoe 26_</sup>
 <br>
 <br>
