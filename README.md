@@ -1,5 +1,4 @@
 # Hidden Shortcuts actions
-
 Collection of hidden actions in Shortcuts app on iOS 26 and macOS Tahoe 26
 <br>
 <br>
@@ -27,6 +26,8 @@ __Usage__
 <br>
 
 <sup>_Disclaimer: This collection is built on a shortcut I posted here on [October 1 2025](https://github.com/paralevel/secret-actions-for-shortcuts/blob/4ef59fd3fc4b8bce28cfeb4a67e8d3c5d5f1b8ce/src/Secret%20Actions.unsigned.shortcut) (last updated [signed release](https://www.icloud.com/shortcuts/fa750e73f3df47c3a0483d050effb015)), and consists only of actions I personally have have been able to [reverse engineer](https://github.com/paralevel/secret-actions-for-shortcuts/blob/main/reverse-engineer-actions.md) using data extracted from local system files_</sup>
+
+<sup>_System Requirements: iOS 26 or macOS Tahoe 26_</sup>
 
 <br>
 <br>
