@@ -13,12 +13,8 @@ __Usage__
 > [!NOTE]
 > These actions are reverse engineered copies of built in Shortcuts actions that for various reasons are hidden in the app’s user interface
 
-<br>
-
 > [!IMPORTANT]
 > Some of the actions should probably be used with caution, for example “Delete Bookmarks”, since it’s unknown whether the code is in a finished state or not
-
-<br>
 
 > [!TIP]
 > It’s possible to extract some useful information from the output of the actions, for example the updated value of a parameter – by selecting a different detail for the output type <sup>[[iOS guide]](https://support.apple.com/guide/shortcuts/adjust-variables-apda36b9018b/ios) [[macOS guide]](https://support.apple.com/guide/shortcuts-mac/adjust-variables-apda36b9018b/mac)
@@ -26,6 +22,8 @@ __Usage__
 <br>
 
 <sup>_Disclaimer: This collection is built on a shortcut I posted here on [October 1 2025](https://github.com/paralevel/secret-actions-for-shortcuts/blob/4ef59fd3fc4b8bce28cfeb4a67e8d3c5d5f1b8ce/src/Secret%20Actions.unsigned.shortcut) (last updated [signed release](https://www.icloud.com/shortcuts/fa750e73f3df47c3a0483d050effb015)), and consists only of actions I personally have have been able to [reverse engineer](https://github.com/paralevel/secret-actions-for-shortcuts/blob/main/reverse-engineer-actions.md) using data extracted from local system files_</sup>
+
+<br>
 
 <sup>_System Requirements: iOS 26 or macOS Tahoe 26_</sup>
 
