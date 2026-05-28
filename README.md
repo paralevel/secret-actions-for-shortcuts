@@ -1,5 +1,5 @@
 # Hidden Shortcuts actions
-Collection of hidden actions in Shortcuts app on iOS 26 and macOS Tahoe 26
+Collection of hidden actions in Shortcuts app on iOS and macOS
 <br>
 <br>
 __Usage__
