@@ -1,5 +1,7 @@
 # Security Policy
 
-Supported versions: The `main` branch
+### Supported Versions
+The `main` branch
 
-How to report a vulnerability: Contact me by [email](mailto:paralevel@duck.com)
+### How to Report a Vulnerability
+Contact me by [email](mailto:paralevel@duck.com)
