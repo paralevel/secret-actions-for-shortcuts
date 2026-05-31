@@ -30,7 +30,7 @@ __Usage__
 <br>
 > __iOS Settings__
 ###
-[Wi-Fi › Power State](https://www.icloud.com/shortcuts/0eede8df51c14ffeaed1cf23d0efb7b6) ${\sf\small\color{DeepSkyBlue} iOS}$<br><sub>_To extract the value, change the output type [detail](https://support.apple.com/guide/shortcuts/adjust-variables-apda36b9018b/ios)_</sub><p>Get the Wi-Fi power state (Wi-Fi)
+[Wi-Fi › Power State](https://www.icloud.com/shortcuts/0eede8df51c14ffeaed1cf23d0efb7b6) ${\sf\small\color{DeepSkyBlue} iOS}$<p>Get the Wi-Fi power state (Wi-Fi)<p><sup>___Note:__ To extract the value, change the output type [detail](https://support.apple.com/guide/shortcuts/adjust-variables-apda36b9018b/ios)_</sup>
 
 <br>
 
@@ -38,7 +38,7 @@ __Usage__
 
 <br>
 
-[Battery › Low Power Mode State](https://www.icloud.com/shortcuts/4e4831a68bc44d1386398a96bbc0b37d) ${\sf\small\color{DeepSkyBlue} iOS}$<br><sub>_To extract the value, change the output type [detail](https://support.apple.com/guide/shortcuts/adjust-variables-apda36b9018b/ios)_</sub><p>Get the Low Power Mode state (Battery)
+[Battery › Low Power Mode State](https://www.icloud.com/shortcuts/4e4831a68bc44d1386398a96bbc0b37d) ${\sf\small\color{DeepSkyBlue} iOS}$<p>Get the Low Power Mode state (Battery)<p><sup>___Note:__ To extract the value, change the output type [detail](https://support.apple.com/guide/shortcuts/adjust-variables-apda36b9018b/ios)_</sup>
 
 <br>
 
@@ -50,7 +50,7 @@ __Usage__
 
 <br>
 
-[Accessibility › Zoom Filter Type](https://www.icloud.com/shortcuts/ded5de5e0e924cd9a5df2c879c91c4a7) ${\sf\small\color{DeepSkyBlue} iOS}$<br><sub>_You need to have Zoom enabled to see any changes_</sub><p>Change filter type for “Zoom Filter” (Accessibility › Zoom › Zoom Filter)<p><sup>__Parameters__<br>`ZOOM_LENS_EFFECT_NONE` [None] • `ZOOM_LENS_EFFECT_BLACK_AND_WHITE` [Grayscale] • `ZOOM_LENS_EFFECT_BLACK_AND_WHITE_INVERTED` [Grayscale Inverted] • `ZOOM_LENS_EFFECT_HUE_ADJUST` [not present in Settings] • `ZOOM_LENS_EFFECT_LOW_LIGHT` [Low Light]</sup>
+[Accessibility › Zoom Filter Type](https://www.icloud.com/shortcuts/ded5de5e0e924cd9a5df2c879c91c4a7) ${\sf\small\color{DeepSkyBlue} iOS}$<p>Change filter type for “Zoom Filter” (Accessibility › Zoom › Zoom Filter)<p><sup>___Note:__ You need to have Zoom enabled to see any changes_</sup><br><sub>__Parameters__<br>`ZOOM_LENS_EFFECT_NONE` [None] • `ZOOM_LENS_EFFECT_BLACK_AND_WHITE` [Grayscale] • `ZOOM_LENS_EFFECT_BLACK_AND_WHITE_INVERTED` [Grayscale Inverted] • `ZOOM_LENS_EFFECT_HUE_ADJUST` [not present in Settings] • `ZOOM_LENS_EFFECT_LOW_LIGHT` [Low Light]</sub>
 
 <br>
 
@@ -70,7 +70,7 @@ __Usage__
 
 <br>
 
-[Accessibility › Color Filter Type](https://www.icloud.com/shortcuts/f203b0c45a8a41a4b16418fd9e94e85a) ${\sf\small\color{DeepSkyBlue} iOS}$<br><sub>_Automatically also enables Color Filters; no Color Tint parameter_</sub><p>Change filter type for “Color Filters” (Accessibility › Display & Text Size › Color Filters)<p><sup>__Parameters__<br>`OFF` [Off] • `RED_ADJUST` [Red/Green filter (Protanopia)] • `GREEN_ADJUST` [Green/Red filter (Deuteranopia)] • `BLUE_ADJUST` [Blue/Yellow filter (Tritanopia)] • `GRAYSCALE` [Grayscale]</sup>
+[Accessibility › Color Filter Type](https://www.icloud.com/shortcuts/f203b0c45a8a41a4b16418fd9e94e85a) ${\sf\small\color{DeepSkyBlue} iOS}$<p>Change filter type for “Color Filters” (Accessibility › Display & Text Size › Color Filters)<p><sup>___Note:__ Automatically also enables Color Filters; no Color Tint parameter_</sup><br><sub>__Parameters__<br>`OFF` [Off] • `RED_ADJUST` [Red/Green filter (Protanopia)] • `GREEN_ADJUST` [Green/Red filter (Deuteranopia)] • `BLUE_ADJUST` [Blue/Yellow filter (Tritanopia)] • `GRAYSCALE` [Grayscale]</sub>
 
 <br>
 
@@ -82,7 +82,7 @@ __Usage__
 
 <br>
 
-[Accessibility › Auto-Brightness](https://www.icloud.com/shortcuts/88b6505076d4414f8acdde41b20ba741) ${\sf\small\color{DeepSkyBlue} iOS}$<br><sub>_Only Turn Off or Turn On should be used and not Toggle, since toggling to On currently doesn't work_</sub><p>Toggle “Auto-Brightness” (Accessibility › Display & Text Size)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
+[Accessibility › Auto-Brightness](https://www.icloud.com/shortcuts/88b6505076d4414f8acdde41b20ba741) ${\sf\small\color{DeepSkyBlue} iOS}$<p>Toggle “Auto-Brightness” (Accessibility › Display & Text Size)<p><sup>___Note:__ Only “Turn Off” or ”Turn On” should be used and not “Toggle”, since toggling to “On” currently doesn’t work_</sup><br><sub>__Parameters__<br>Turn Off • Turn On • Toggle</sub>
 
 <br>
 
@@ -102,19 +102,19 @@ __Usage__
 
 <br>
 
-[Accessibility › Vibration State](https://www.icloud.com/shortcuts/6e674594a17c459bac5d9682dd6e0c48) ${\sf\small\color{DeepSkyBlue} iOS}$<br><sub>_To extract the value, change the output type [detail](https://support.apple.com/guide/shortcuts/adjust-variables-apda36b9018b/ios)_</sub><p>Get the Vibration state (Accessibility › Touch)
+[Accessibility › Vibration State](https://www.icloud.com/shortcuts/6e674594a17c459bac5d9682dd6e0c48) ${\sf\small\color{DeepSkyBlue} iOS}$<p>Get the Vibration state (Accessibility › Touch)<p><sup>___Note:__ To extract the value, change the output type [detail](https://support.apple.com/guide/shortcuts/adjust-variables-apda36b9018b/ios)_</sup>
 
 <br>
 
-[Accessibility › Mono Audio State](https://www.icloud.com/shortcuts/09064156a69244db8746ce50831e3efe) ${\sf\small\color{DeepSkyBlue} iOS}$<br><sub>_To extract the value, change the output type [detail](https://support.apple.com/guide/shortcuts/adjust-variables-apda36b9018b/ios)_</sub><p>Get the Mono Audio state (Accessibility › Audio & Visual)
+[Accessibility › Mono Audio State](https://www.icloud.com/shortcuts/09064156a69244db8746ce50831e3efe) ${\sf\small\color{DeepSkyBlue} iOS}$<p>Get the Mono Audio state (Accessibility › Audio & Visual)<p><sup>___Note:__ To extract the value, change the output type [detail](https://support.apple.com/guide/shortcuts/adjust-variables-apda36b9018b/ios)_</sup>
 
 <br>
 
-[Accessibility › Flash For Alerts In Silent Mode](https://www.icloud.com/shortcuts/e1800c743b92455aab52297e12aaf998) ${\sf\small\color{DeepSkyBlue} iOS}$<br><sub>_You need to have Flash for Alerts enabled to see any changes_</sub><p>Toggle “Flash in Silent Mode” (Accessibility › Audio & Visual › Flash for Alerts)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
+[Accessibility › Flash For Alerts In Silent Mode](https://www.icloud.com/shortcuts/e1800c743b92455aab52297e12aaf998) ${\sf\small\color{DeepSkyBlue} iOS}$<p>Toggle “Flash in Silent Mode” (Accessibility › Audio & Visual › Flash for Alerts)<p><sup>___Note:__ You need to have Flash for Alerts enabled to see any changes_</sup><br><sub>__Parameters__<br>Turn Off • Turn On • Toggle</sub>
 
 <br>
 
-[Accessibility › Flash For Alerts While Unlocked](https://www.icloud.com/shortcuts/919ef5ee6ddd42f894408cc416598417) ${\sf\small\color{DeepSkyBlue} iOS}$<br><sub>_You need to have Flash for Alerts enabled to see any changes_</sub><p>Toggle “Flash While Unlocked” (Accessibility › Audio & Visual › Flash for Alerts)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
+[Accessibility › Flash For Alerts While Unlocked](https://www.icloud.com/shortcuts/919ef5ee6ddd42f894408cc416598417) ${\sf\small\color{DeepSkyBlue} iOS}$<p>Toggle “Flash While Unlocked” (Accessibility › Audio & Visual › Flash for Alerts)<p><sup>___Note:__ You need to have Flash for Alerts enabled to see any changes_</sup><br><sub>__Parameters__<br>Turn Off • Turn On • Toggle</sub>
 
 <br>
 
@@ -122,11 +122,11 @@ __Usage__
 
 <br>
 
-[Sounds & Haptics › Show Silent Mode In Status Bar](https://www.icloud.com/shortcuts/cb6d50f0fe8d414391cea66e6ef129d8) ${\sf\small\color{DeepSkyBlue} iOS}$<br><sub>_Unavailable on devices with a physical silent switch_</sub><p>Toggle “Show in Status Bar” (Sounds & Haptics › Silent Mode)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
+[Sounds & Haptics › Show Silent Mode In Status Bar](https://www.icloud.com/shortcuts/cb6d50f0fe8d414391cea66e6ef129d8) ${\sf\small\color{DeepSkyBlue} iOS}$<p>Toggle “Show in Status Bar” (Sounds & Haptics › Silent Mode)<p><sup>___Note:__ Unavailable on devices with a physical silent switch_</sup><br><sub>__Parameters__<br>Turn Off • Turn On • Toggle</sub>
 
 <br>
 
-[Sounds & Haptics › Silent Mode State](https://www.icloud.com/shortcuts/7588f95ab06e4d81ae18647ae23b7baf) ${\sf\small\color{DeepSkyBlue} iOS}$<br><sub>_To extract the value, change the output type [detail](https://support.apple.com/guide/shortcuts/adjust-variables-apda36b9018b/ios) – doesn't work on devices with a physical silent switch_</sub><p>Get the Silent Mode state (Sounds & Haptics › Silent Mode)
+[Sounds & Haptics › Silent Mode State](https://www.icloud.com/shortcuts/7588f95ab06e4d81ae18647ae23b7baf) ${\sf\small\color{DeepSkyBlue} iOS}$<p>Get the Silent Mode state (Sounds & Haptics › Silent Mode)<p><sup>___Note:__ To extract the value, change the output type [detail](https://support.apple.com/guide/shortcuts/adjust-variables-apda36b9018b/ios) – doesn’t work on devices with a physical silent switch_</sup>
 
 <br>
 
@@ -336,19 +336,19 @@ __Usage__
 
 > __Safari__
 ###
-[Clear History](https://www.icloud.com/shortcuts/fbf7dc393a4f44479da72291b7504f62) ${\sf\small\color{DeepSkyBlue} iOS}$<p>Opens the “Clear History” dialog in Safari<p><sup>__Parameters__<br>Last Hour • Today • Today and Yesterday • All History</sup>
+[Clear History](https://www.icloud.com/shortcuts/fbf7dc393a4f44479da72291b7504f62) ${\sf\small\color{DeepSkyBlue} iOS}$<p>Switches to Safari and opens the “Clear History” dialog<p><sup>__Parameters__<br>Last Hour • Today • Today and Yesterday • All History</sup>
 
 <br>
 
-[Open View](https://www.icloud.com/shortcuts/3d900f08e71e46da92513ef276025e09) ${\sf\small\color{DeepSkyBlue} macOS;\ already\ present\ on\ iOS}$<br><sub>_“Private Tab Group” translates to “the most recent Private window” on macOS_</sub><p>Opens the given View in Safari<p><sup>__Parameters__<br>Bookmarks • History • Reading List • Start Page • Tab Overview • Default Tab Group • Private Tab Group • Sidebar • Shared with You</sup>
+[Open View](https://www.icloud.com/shortcuts/3d900f08e71e46da92513ef276025e09) ${\sf\small\color{DeepSkyBlue} macOS;\ already\ present\ on\ iOS}$<p>Switches to Safari and opens a specific feature<p><sup>__Parameters__<br>Bookmarks • History • Reading List • Start Page • Tab Overview • Default Tab Group • Private Tab Group [macOS: the most recent Private window] • Sidebar • Shared with You</sup>
 
 <br>
 
-[Close View](https://www.icloud.com/shortcuts/66b3186530fd492eaa4808c1f5cf3931)<p>Opens Safari and closes the given View<p><sup>__Parameters__<br>Bookmarks • History • Reading List • Start Page • Tab Overview • Sidebar • Shared with You</sup>
+[Close View](https://www.icloud.com/shortcuts/66b3186530fd492eaa4808c1f5cf3931)<p>Switches to Safari and closes a spcecific feature<p><sup>__Parameters__<br>Bookmarks • History • Reading List • Start Page • Tab Overview • Sidebar • Shared with You</sup>
 
 <br>
 
-[Bookmark Current Page](https://www.icloud.com/shortcuts/03fd3d58b356445dbd2b60362302e922)<p>Opens the “Add Bookmark” dialog for the current Safari web page<p><sup>__Options__<br>Title</sup>
+[Bookmark Current Page](https://www.icloud.com/shortcuts/03fd3d58b356445dbd2b60362302e922)<p>Switches to Safari and opens the “Add Bookmark” dialog in the current tab<p><sup>__Options__<br>Title</sup>
 
 <br>
 
@@ -360,23 +360,23 @@ __Usage__
 
 <br>
 
-[Open Bookmark](https://www.icloud.com/shortcuts/656c86427f9d435fb416bd287f207c4b) ${\sf\small\color{DeepSkyBlue} macOS;\ already\ present\ on\ iOS}$<p>Opens the given bookmark in a new tab in the current tab group
+[Open Bookmark](https://www.icloud.com/shortcuts/656c86427f9d435fb416bd287f207c4b) ${\sf\small\color{DeepSkyBlue} macOS;\ already\ present\ on\ iOS}$<p>Switches to Safari and opens specific a bookmark in a new tab in the current tab group
 
 <br>
 
-[Delete Bookmarks](https://www.icloud.com/shortcuts/8f645d98155b4f469e27ef782c440b9b)<p>Delete one or more Safari bookmarks – use in combination with the Find Bookmarks action
+[Delete Bookmarks](https://www.icloud.com/shortcuts/8f645d98155b4f469e27ef782c440b9b)<p>Deletes one or more Safari bookmarks – use in combination with the Find Bookmarks action
 
 <br>
 
-[Open URL/Create Tab in Current Tab Group](https://www.icloud.com/shortcuts/781a72027b634c8c8963b6aad2a38dd6)<br><sub>_Actual title: “Create Tab for URL“_</sub><p>Opens an optional URL or a blank tab – in the current tab group – unlike any of the official actions<p><sup>__Options__<br>URL</sup>
+[Open URL/Create Tab in Current Tab Group](https://www.icloud.com/shortcuts/781a72027b634c8c8963b6aad2a38dd6)<br><sub>_Actual title: “Create Tab for URL“_</sub><p>Switches to Safari and opens an optional URL or a blank tab, in the current tab group, something that isn’t possible with stock actions<p><sup>__Options__<br>URL</sup>
 
 <br>
 
-[Create New Tab](https://www.icloud.com/shortcuts/65a7ba0a4cb54084a46744c4948407b3) ${\sf\small\color{DeepSkyBlue} macOS;\ already\ present\ on\ iOS}$<p>Opens Safari and creates a new blank tab, in the currently open tab group on macOS, and in the default tab group on iOS
+[Create New Tab](https://www.icloud.com/shortcuts/65a7ba0a4cb54084a46744c4948407b3) ${\sf\small\color{DeepSkyBlue} macOS;\ already\ present\ on\ iOS}$<p>Switches to Safari and creates a new blank tab, in the currently open tab group on macOS, and in the default tab group on iOS
 
 <br>
 
-[Create New Window](https://www.icloud.com/shortcuts/6121f0ffc8724428a8812c788eaee9b2) ${\sf\small\color{DeepSkyBlue} macOS}$<p>Opens a new Safari window, optionally in Private Browsing mode<p><sup>__Options__<br>Private Browsing</sup>
+[Create New Window](https://www.icloud.com/shortcuts/6121f0ffc8724428a8812c788eaee9b2) ${\sf\small\color{DeepSkyBlue} macOS}$<p>Switches to Safari and opens a new window, optionally in Private Browsing mode<p><sup>__Options__<br>Private Browsing</sup>
 
 <br>
 
@@ -384,23 +384,23 @@ __Usage__
 
 <br>
 
-[Search Tabs](https://www.icloud.com/shortcuts/33017293f6c04ec798cd73f1dca2a16f)<p>Opens Safari and searches for tabs in the current tab group's Tab Overview<p><sup>__Parameters__<br>Keyword</sup>
+[Search Tabs](https://www.icloud.com/shortcuts/33017293f6c04ec798cd73f1dca2a16f)<p>Switches to Safari and searches for tabs in the current tab group's Tab Overview<p><sup>__Parameters__<br>Keyword</sup>
 
 <br>
 
-[Switch Tab](https://www.icloud.com/shortcuts/79960341e47a40c7a7246bc2a0f45280) ${\sf\small\color{DeepSkyBlue} macOS;\ already\ present\ on\ iOS}$<p>Opens Safari and switches to the given tab<p><sup>__Parameters__<br>Tab</sup>
+[Switch Tab](https://www.icloud.com/shortcuts/79960341e47a40c7a7246bc2a0f45280) ${\sf\small\color{DeepSkyBlue} macOS;\ already\ present\ on\ iOS}$<p>Switches to Safari and the given tab<p><sup>__Parameters__<br>Tab</sup>
 
 <br>
 
-[Close Tab](https://www.icloud.com/shortcuts/8b07de524c214f859a32366905b9cc32) ${\sf\small\color{DeepSkyBlue} macOS;\ already\ present\ on\ iOS}$<p>Opens Safari and closes the given tab<p><sup>__Parameters__<br>Tab</sup>
+[Close Tab](https://www.icloud.com/shortcuts/8b07de524c214f859a32366905b9cc32) ${\sf\small\color{DeepSkyBlue} macOS;\ already\ present\ on\ iOS}$<p>Switches to Safari and closes the given tab<p><sup>__Parameters__<br>Tab</sup>
 
 <br>
 
-[Open Tab Group](https://www.icloud.com/shortcuts/a03c00999a574a8a9c0a78b92aa6282f) ${\sf\small\color{DeepSkyBlue} macOS;\ already\ present\ on\ iOS}$<p>Opens the given tab group in Safari<p><sup>__Parameters__<br>Tab Group</sup>
+[Open Tab Group](https://www.icloud.com/shortcuts/a03c00999a574a8a9c0a78b92aa6282f) ${\sf\small\color{DeepSkyBlue} macOS;\ already\ present\ on\ iOS}$<br><sub>_Use the “Open View” action instead to open the Private tab group or the most recent Private window on macOS_</sub><p>Switches to Safari and opens the given tab group<p><sup>__Parameters__<br>Tab Group</sup>
 
 <br>
 
-[Create Tab Group](https://www.icloud.com/shortcuts/45a42efecf8f4c03b6de081e6a7667b8) ${\sf\small\color{DeepSkyBlue} macOS;\ already\ present\ on\ iOS}$<p>Opens Safari and creates a new tab group with the given name (or “Untitled” if no name is given)<p><sup>__Options__<br>Tab Group Name</sup>
+[Create Tab Group](https://www.icloud.com/shortcuts/45a42efecf8f4c03b6de081e6a7667b8) ${\sf\small\color{DeepSkyBlue} macOS;\ already\ present\ on\ iOS}$<p>Switches to Safari and creates a new tab group with the given name (or “Untitled” if no name is given)<p><sup>__Options__<br>Tab Group Name</sup>
 
 <br>
 
@@ -415,7 +415,7 @@ __Usage__
 
 <br>
 
-[Get Details of Shortcut](https://www.icloud.com/shortcuts/770cfe1d75b246b5adae1da01ea8b550)<p>Get a specific detail about one or more shortcuts – use in combination with the Get My Shortcuts and Filter Files actions<p><sup>__Parameters__<br>Folder • Icon • Action Count • File Size • File Extension • Date Created • Last Modified Date • Name</sup>
+[Get Details of Shortcut](https://www.icloud.com/shortcuts/770cfe1d75b246b5adae1da01ea8b550)<p>Get a specific detail about one or more shortcuts<p><sup>_Use in combination with the “Get My Shortcuts” and “Filter Files” actions_</sup><br><sub>__Parameters__<br>Folder • Icon • Action Count • File Size • File Extension • Date Created • Last Modified Date • Name</sub>
 
 <br>
 
