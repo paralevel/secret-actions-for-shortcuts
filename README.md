@@ -86,6 +86,10 @@ __Usage__
 
 <br>
 
+[Accessibility › Reduce Moition](https://www.icloud.com/shortcuts/5814d24532e043d293ba56bead5a28ac) ${\sf\small\color{DeepSkyBlue} iOS}$<p>Toggle “Reduce Motion” (Accessibility › Motion)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
+
+<br>
+
 [Accessibility › Reachability](https://www.icloud.com/shortcuts/627c03553f9346a08a3450879b09b51d) ${\sf\small\color{DeepSkyBlue} iOS}$<p>Toggle “Reachability” (Accessibility › Touch)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
 
 <br>
@@ -336,7 +340,7 @@ __Usage__
 
 <br>
 
-[Open View](https://www.icloud.com/shortcuts/3d900f08e71e46da92513ef276025e09) $\sf\small\color{DeepSkyBlue}\(hidden\ on\ macOS\ only\)$<p>Opens the given View in Safari<p><sup>__Parameters__<br>Bookmarks • History • Reading List • Start Page • Tab Overview • Default Tab Group • Private Tab Group • Sidebar • Shared with You</sup>
+[Open View](https://www.icloud.com/shortcuts/3d900f08e71e46da92513ef276025e09) ${\sf\small\color{DeepSkyBlue} macOS\ \(already\ available\ on\ iOS\)}$<br><sub>_Also useful for opening the Private tab group on iOS, or the most recent Private window on macOS_</sub><p>Opens the given View in Safari<p><sup>__Parameters__<br>Bookmarks • History • Reading List • Start Page • Tab Overview • Default Tab Group • Private Tab Group • Sidebar • Shared with You</sup>
 
 <br>
 
@@ -352,11 +356,11 @@ __Usage__
 
 <br>
 
-[Find Bookmarks](https://www.icloud.com/shortcuts/f1bac8b295be482bbca14f6be591ff84) $\sf\small\color{DeepSkyBlue}\(hidden\ on\ macOS\ only\)$<p>Finds Safari bookmarks<p><sup>__Options__<br>Add Filter • Sort by • Limit</sup><br>
+[Find Bookmarks](https://www.icloud.com/shortcuts/f1bac8b295be482bbca14f6be591ff84) ${\sf\small\color{DeepSkyBlue} macOS\ \(already\ available\ on\ iOS\)}$<p>Finds Safari bookmarks<p><sup>__Options__<br>Add Filter • Sort by • Limit</sup><br>
 
 <br>
 
-[Open Bookmark](https://www.icloud.com/shortcuts/656c86427f9d435fb416bd287f207c4b) $\sf\small\color{DeepSkyBlue}\(hidden\ on\ macOS\ only\)$<p>Opens the given bookmark in a new tab in the current tab group
+[Open Bookmark](https://www.icloud.com/shortcuts/656c86427f9d435fb416bd287f207c4b) ${\sf\small\color{DeepSkyBlue} macOS\ \(already\ available\ on\ iOS\)}$<p>Opens the given bookmark in a new tab in the current tab group
 
 <br>
 
@@ -368,11 +372,15 @@ __Usage__
 
 <br>
 
-[Create New Tab](https://www.icloud.com/shortcuts/65a7ba0a4cb54084a46744c4948407b3) $\sf\small\color{DeepSkyBlue}\(hidden\ on\ macOS\ only\)$<p>Opens Safari and creates a new blank tab – in the current tab group on macOS – in the default tab group on iOS
+[Create New Tab](https://www.icloud.com/shortcuts/65a7ba0a4cb54084a46744c4948407b3) ${\sf\small\color{DeepSkyBlue} macOS\ \(already\ available\ on\ iOS\)}$<p>Opens Safari and creates a new blank tab, in the currently open tab group on macOS, and in the default tab group on iOS
 
 <br>
 
-[Find Tabs](https://www.icloud.com/shortcuts/ce0ec1db3e7a4d60928af67ad6e21f2c) $\sf\small\color{DeepSkyBlue}\(hidden\ on\ macOS\ only\)$<p>Finds Safari tabs – doesn't work in the Private Tab Group<p><sup>__Options__<br>Add Filter • Sort by • Limit</sup><br>
+[Create New Window](https://www.icloud.com/shortcuts/6121f0ffc8724428a8812c788eaee9b2) ${\sf\small\color{DeepSkyBlue} macOS}$<p>Opens a new Safari window, optionally in Private Browsing mode<p><sup>__Options__<br>Private Browsing</sup>
+
+<br>
+
+[Find Tabs](https://www.icloud.com/shortcuts/ce0ec1db3e7a4d60928af67ad6e21f2c) ${\sf\small\color{DeepSkyBlue} macOS\ \(already\ available\ on\ iOS\)}$<p>Finds Safari tabs – doesn't work in the Private Tab Group<p><sup>__Options__<br>Add Filter • Sort by • Limit</sup>
 
 <br>
 
@@ -380,23 +388,23 @@ __Usage__
 
 <br>
 
-[Switch Tab](https://www.icloud.com/shortcuts/79960341e47a40c7a7246bc2a0f45280) $\sf\small\color{DeepSkyBlue}\(hidden\ on\ macOS\ only\)$<p>Opens Safari and switches to the given tab<p><sup>__Parameters__<br>Tab</sup>
+[Switch Tab](https://www.icloud.com/shortcuts/79960341e47a40c7a7246bc2a0f45280) ${\sf\small\color{DeepSkyBlue} macOS\ \(already\ available\ on\ iOS\)}$<p>Opens Safari and switches to the given tab<p><sup>__Parameters__<br>Tab</sup>
 
 <br>
 
-[Close Tab](https://www.icloud.com/shortcuts/8b07de524c214f859a32366905b9cc32) $\sf\small\color{DeepSkyBlue}\(hidden\ on\ macOS\ only\)$<p>Opens Safari and closes the given tab<p><sup>__Parameters__<br>Tab</sup>
+[Close Tab](https://www.icloud.com/shortcuts/8b07de524c214f859a32366905b9cc32) ${\sf\small\color{DeepSkyBlue} macOS\ \(already\ available\ on\ iOS\)}$<p>Opens Safari and closes the given tab<p><sup>__Parameters__<br>Tab</sup>
 
 <br>
 
-[Open Tab Group](https://www.icloud.com/shortcuts/a03c00999a574a8a9c0a78b92aa6282f) $\sf\small\color{DeepSkyBlue}\(hidden\ on\ macOS\ only\)$<p>Opens the given tab group in Safari<p><sup>__Parameters__<br>Tab Group</sup>
+[Open Tab Group](https://www.icloud.com/shortcuts/a03c00999a574a8a9c0a78b92aa6282f) ${\sf\small\color{DeepSkyBlue} macOS\ \(already\ available\ on\ iOS\)}$<p>Opens the given tab group in Safari<p><sup>__Parameters__<br>Tab Group</sup>
 
 <br>
 
-[Create Tab Group](https://www.icloud.com/shortcuts/45a42efecf8f4c03b6de081e6a7667b8) $\sf\small\color{DeepSkyBlue}\(hidden\ on\ macOS\ only\)$<p>Opens Safari and creates a new tab group with the given name (or “Untitled” if no name is given)<p><sup>__Options__<br>Tab Group Name</sup>
+[Create Tab Group](https://www.icloud.com/shortcuts/45a42efecf8f4c03b6de081e6a7667b8) ${\sf\small\color{DeepSkyBlue} macOS\ \(already\ available\ on\ iOS\)}$<p>Opens Safari and creates a new tab group with the given name (or “Untitled” if no name is given)<p><sup>__Options__<br>Tab Group Name</sup>
 
 <br>
 
-[Find Tab Groups](https://www.icloud.com/shortcuts/675a0799c41943fe85ecb51bb3984e7d) $\sf\small\color{DeepSkyBlue}\(hidden\ on\ macOS\ only\)$<p>Finds Safari tab groups<p><sup>__Options__<br>Add Filter • Sort by • Limit</sup><br>
+[Find Tab Groups](https://www.icloud.com/shortcuts/675a0799c41943fe85ecb51bb3984e7d) ${\sf\small\color{DeepSkyBlue} macOS\ \(already\ available\ on\ iOS\)}$<p>Finds Safari tab groups<p><sup>__Options__<br>Add Filter • Sort by • Limit</sup><br>
 
 <br>
 <br>
