@@ -70,7 +70,7 @@ __Usage__
 
 <br>
 
-[Accessibility › Color Filter Type](https://www.icloud.com/shortcuts/f203b0c45a8a41a4b16418fd9e94e85a) ${\sf\small\color{DeepSkyBlue} iOS}$<p>Change filter type for “Color Filters” (Accessibility › Display & Text Size › Color Filters)<p><sup>___Note:__ Automatically also enables Color Filters; no Color Tint parameter_</sup><br><sub>__Parameters__<br>`OFF` [Off] • `RED_ADJUST` [Red/Green filter (Protanopia)] • `GREEN_ADJUST` [Green/Red filter (Deuteranopia)] • `BLUE_ADJUST` [Blue/Yellow filter (Tritanopia)] • `GRAYSCALE` [Grayscale]</sub>
+[Accessibility › Color Filter Type](https://www.icloud.com/shortcuts/f203b0c45a8a41a4b16418fd9e94e85a) ${\sf\small\color{DeepSkyBlue} iOS}$<p>Change filter type for “Color Filters” (Accessibility › Display & Text Size › Color Filters)<p><sup>___Note:__ Automatically also enables Color Filters; no “Color Tint” parameter_</sup><br><sub>__Parameters__<br>`OFF` [Off] • `RED_ADJUST` [Red/Green filter (Protanopia)] • `GREEN_ADJUST` [Green/Red filter (Deuteranopia)] • `BLUE_ADJUST` [Blue/Yellow filter (Tritanopia)] • `GRAYSCALE` [Grayscale]</sub>
 
 <br>
 
@@ -169,7 +169,7 @@ __Usage__
 
 <br>
 
-[Accessibility › Color Filters › Filter Type](https://www.icloud.com/shortcuts/f982e3422d7142279168767fd4d6c6b8) ${\sf\small\color{DeepSkyBlue} macOS}$<br><sub>_You need to have Color Filters enabled to see any changes_</sub><p>Change “Filter type” (Accessibility › Display › Color Filters)<p><sup>__Parameters__<br>Grayscale • Red/Green filter (Protanopia) • Green/Red filter (Deuteranopia) • Blue/Yellow filter (Tritanopia) • Color Tint</sup>
+[Accessibility › Color Filters › Filter Type](https://www.icloud.com/shortcuts/f982e3422d7142279168767fd4d6c6b8) ${\sf\small\color{DeepSkyBlue} macOS}$<p>Change “Filter type” (Accessibility › Display › Color Filters)<p><sup>___Note:__ You need to have Color Filters enabled to see any changes_</sup><br><sub>__Parameters__<br>Grayscale • Red/Green filter (Protanopia) • Green/Red filter (Deuteranopia) • Blue/Yellow filter (Tritanopia) • Color Tint</sub>
 
 <br>
 
@@ -177,7 +177,7 @@ __Usage__
 
 <br>
 
-[Accessibility › Mono Audio State]() ${\sf\small\color{DeepSkyBlue} macOS}$<br><sub>_To extract the value, change the output type [detail](https://support.apple.com/guide/shortcuts-mac/adjust-variables-apda36b9018b/mac)_</sub><p>Get the state of “Play stereo audio as mono” (Accessibility › Audio)
+[Accessibility › Mono Audio State]() ${\sf\small\color{DeepSkyBlue} macOS}$<p>Get the state of “Play stereo audio as mono” (Accessibility › Audio)<p><sup>___Note:__ To extract the value, change the output type [detail](https://support.apple.com/guide/shortcuts-mac/adjust-variables-apda36b9018b/mac)_</sub>
 
 <br>
 
@@ -185,7 +185,7 @@ __Usage__
 
 <br>
 
-[Accessibility › Spatial Audio Follows Head Movements](https://www.icloud.com/shortcuts/e0b343a71b00497eb665e8dc250b84d0) ${\sf\small\color{DeepSkyBlue} macOS}$<br><sub>_The toggle won't reflect the changed state until System Settings is restarted_</sub><p>Toggle “Spatial audio follows head movements” (Accessibility › Audio)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
+[Accessibility › Spatial Audio Follows Head Movements](https://www.icloud.com/shortcuts/e0b343a71b00497eb665e8dc250b84d0) ${\sf\small\color{DeepSkyBlue} macOS}$<p>Toggle “Spatial audio follows head movements” (Accessibility › Audio)<p><sup>___Note:__ The toggle won't reflect the changed state until System Settings is restarted_</sup><br><sub>__Parameters__<br>Turn Off • Turn On • Toggle</sub>
 
 <br>
 
@@ -225,7 +225,7 @@ __Usage__
 
 <br>
 
-[Displays › Automatically Adjust Brightness](https://www.icloud.com/shortcuts/142abd3279bf4c26b5caa18c4f43341b) ${\sf\small\color{DeepSkyBlue} macOS}$<br><sub>_The toggle won’t reflect the changed state until System Settings is restarted_</sub><p>Toggle “Automatically adjust brightness” (Displays)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
+[Displays › Automatically Adjust Brightness](https://www.icloud.com/shortcuts/142abd3279bf4c26b5caa18c4f43341b) ${\sf\small\color{DeepSkyBlue} macOS}$<p>Toggle “Automatically adjust brightness” (Displays)<p><sup>___Note:__ The toggle won’t reflect the changed state until System Settings is restarted_</sup><br><sub>__Parameters__<br>Turn Off • Turn On • Toggle</sub>
 
 <br>
 
@@ -281,7 +281,7 @@ __Usage__
 
 <br>
 
-[Trackpad › Look Up & Data Detectors](https://www.icloud.com/shortcuts/32c3f02492c74f13a11a7df765e2132e) ${\sf\small\color{DeepSkyBlue} macOS}$<br><sub>_Wrongly called “Force Click and haptic feedback” in the action_</sub><p>Change “Look up & data detectors” (Trackpad › Point & Click)<p><sup>__Parameters__<br>Off • Force Click with One Finger • Tap with Three Fingers</sup>
+[Trackpad › Look Up & Data Detectors](https://www.icloud.com/shortcuts/32c3f02492c74f13a11a7df765e2132e) ${\sf\small\color{DeepSkyBlue} macOS}$<p>Change “Look up & data detectors” (Trackpad › Point & Click)<p><sup>___Note:__ Wrongly called “Force Click and haptic feedback” in the action_</sup><br><sub>__Parameters__<br>Off • Force Click with One Finger • Tap with Three Fingers</sub>
 
 <br>
 
@@ -313,7 +313,7 @@ __Usage__
 
 <br>
 
-[Trackpad › Swipe Between Full-Screen Applications](https://www.icloud.com/shortcuts/3ec27345793e4a708a443aabee9434e1) ${\sf\small\color{DeepSkyBlue} macOS}$<br><sub>_Wrongly called “Swipe between pages” in the action_</sub><p>Change “Swipe between full-screen applications” (Trackpad › More Gestures)<p><sup>__Parameters__<br>Off • Swipe Left or Right with Three Fingers • Swipe Left or Right with Four Fingers</sup>
+[Trackpad › Swipe Between Full-Screen Applications](https://www.icloud.com/shortcuts/3ec27345793e4a708a443aabee9434e1) ${\sf\small\color{DeepSkyBlue} macOS}$<p>Change “Swipe between full-screen applications” (Trackpad › More Gestures)<p><sup>___Note:__ Wrongly called “Swipe between pages” in the action_</sup><br><sub>__Parameters__<br>Off • Swipe Left or Right with Three Fingers • Swipe Left or Right with Four Fingers</sub>
 
 <br>
 
@@ -329,7 +329,7 @@ __Usage__
 
 <br>
 
-[Trackpad › Show Desktop Gesture](https://www.icloud.com/shortcuts/bd818fb595e9468ab3655bb3bfdeb6c9) ${\sf\small\color{DeepSkyBlue} macOS}$<br><sub>_The toggle won’t reflect the changed state until System Settings is restarted_</sub><p>Toggle “Show Desktop” (Trackpad › More Gestures)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup>
+[Trackpad › Show Desktop Gesture](https://www.icloud.com/shortcuts/bd818fb595e9468ab3655bb3bfdeb6c9) ${\sf\small\color{DeepSkyBlue} macOS}$<p>Toggle “Show Desktop” (Trackpad › More Gestures)<p><sup>__Parameters__<br>Turn Off • Turn On • Toggle</sup><p><sup>___Note:__ The toggle won’t reflect the changed state until System Settings is restarted_</sup>
 
 <br>
 <br>
@@ -368,7 +368,7 @@ __Usage__
 
 <br>
 
-[Open URL/Create Tab in Current Tab Group](https://www.icloud.com/shortcuts/781a72027b634c8c8963b6aad2a38dd6)<br><sub>_Actual title: “Create Tab for URL“_</sub><p>Switches to Safari and opens an optional URL or a blank tab, in the current tab group, something that isn’t possible with stock actions<p><sup>__Options__<br>URL</sup>
+[Open URL/Create Tab in Current Tab Group](https://www.icloud.com/shortcuts/781a72027b634c8c8963b6aad2a38dd6)<p>Switches to Safari and opens an optional URL or a blank tab, in the current tab group<p><sup>__Options__<br>URL</sup>
 
 <br>
 
@@ -396,7 +396,7 @@ __Usage__
 
 <br>
 
-[Open Tab Group](https://www.icloud.com/shortcuts/a03c00999a574a8a9c0a78b92aa6282f) ${\sf\small\color{DeepSkyBlue} macOS;\ already\ present\ on\ iOS}$<br><sub>_Use the “Open View” action instead to open the Private tab group or the most recent Private window on macOS_</sub><p>Switches to Safari and opens the given tab group<p><sup>__Parameters__<br>Tab Group</sup>
+[Open Tab Group](https://www.icloud.com/shortcuts/a03c00999a574a8a9c0a78b92aa6282f) ${\sf\small\color{DeepSkyBlue} macOS;\ already\ present\ on\ iOS}$<p>Switches to Safari and opens the given tab group<p><sup>___Note:__ Use the “Open View” action instead to open the Private tab group or the most recent Private window on macOS_</sup><br><sub>__Parameters__<br>Tab Group</sub>
 
 <br>
 
@@ -419,7 +419,7 @@ __Usage__
 
 <br>
 
-[Installed Apps Settings URLs](https://www.icloud.com/shortcuts/00b53bd9ab7b49e1b4b568d6f2faa9fd) ${\sf\small\color{DeepSkyBlue} iOS}$<br><sub>_Use with e.g. Open URL or Get URLs from Input_</sub><p>Get the settings URL scheme for every app installed<p><sup>__Options__<br>Limit</sup>
+[Installed Apps Settings URLs](https://www.icloud.com/shortcuts/00b53bd9ab7b49e1b4b568d6f2faa9fd) ${\sf\small\color{DeepSkyBlue} iOS}$<p>Get the settings URL scheme for every app installed<p><sup>___Note:__ Use with e.g. Open URL or Get URLs from Input_</sup><br><sub>__Options__<br>Limit</sub>
 
 <br>
 
