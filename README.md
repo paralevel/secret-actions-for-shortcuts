@@ -340,7 +340,7 @@ __Usage__
 
 <br>
 
-[Open View](https://www.icloud.com/shortcuts/3d900f08e71e46da92513ef276025e09) ${\sf\small\color{DeepSkyBlue} macOS;\ already\ present\ on\ iOS}$<br><sub>_Also useful for opening the Private tab group on iOS, or the most recent Private window on macOS_</sub><p>Opens the given View in Safari<p><sup>__Parameters__<br>Bookmarks • History • Reading List • Start Page • Tab Overview • Default Tab Group • Private Tab Group • Sidebar • Shared with You</sup>
+[Open View](https://www.icloud.com/shortcuts/3d900f08e71e46da92513ef276025e09) ${\sf\small\color{DeepSkyBlue} macOS;\ already\ present\ on\ iOS}$<br><sub>_“Private Tab Group” translates to “the most recent Private window” on macOS_</sub><p>Opens the given View in Safari<p><sup>__Parameters__<br>Bookmarks • History • Reading List • Start Page • Tab Overview • Default Tab Group • Private Tab Group • Sidebar • Shared with You</sup>
 
 <br>
 
