@@ -368,11 +368,11 @@ __Usage__
 
 <br>
 
-[Create New Tab](https://www.icloud.com/shortcuts/65a7ba0a4cb54084a46744c4948407b3) ${\sf\small\color{DeepSkyBlue} macOS;\ already\ present\ on\ iOS}$<p>Switches to Safari and creates a new blank tab, in the nameless non-private “Default” tab group on iOS, but in the current tab group on macOS
+[Create New Tab](https://www.icloud.com/shortcuts/65a7ba0a4cb54084a46744c4948407b3) ${\sf\small\color{DeepSkyBlue} macOS;\ already\ present\ on\ iOS}$<p>Switches to Safari and creates a new blank tab, in the unnamed non-private “Default” tab group on iOS, but in the current tab group on macOS
 
 <br>
 
-[Create New Tab With Options](https://www.icloud.com/shortcuts/781a72027b634c8c8963b6aad2a38dd6)<p>Switches to Safari, creates a new tab in the most recent *non-private* (named or unnamed) tab group – the “Private” tab group (iOS) or most recent “Private” window (macOS) when Private Browsing is checked – and optionally also opens a URL if supplied<p><sup>**Parameters**<br>URL</sup><br><sub>**Options**<br>Private Browsing</sub>
+[Create New Tab With Options](https://www.icloud.com/shortcuts/781a72027b634c8c8963b6aad2a38dd6)<p>Switches to Safari, creates a new tab in the most recent *non-private* tab group – the “Private” tab group (iOS) or most recent “Private” window (macOS) when Private Browsing is checked – and also opens a URL when supplied<p><sup>**Parameters**<br>URL</sup><br><sub>**Options**<br>Private Browsing</sub>
 
 <br>
 
