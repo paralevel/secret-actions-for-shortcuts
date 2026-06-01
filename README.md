@@ -329,7 +329,7 @@ __Usage__
 
 <br>
 
-[Trackpad › Show Desktop Gesture](https://www.icloud.com/shortcuts/bd818fb595e9468ab3655bb3bfdeb6c9) ${\sf\small\color{DeepSkyBlue} macOS}$<p>Toggle “Show Desktop” (Trackpad › More Gestures)<p><sup>**Parameters**<br>Turn Off • Turn On • Toggle</sup><p><sup>***Note:** The toggle won’t reflect the changed state until System Settings is restarted*</sup>
+[Trackpad › Show Desktop Gesture](https://www.icloud.com/shortcuts/bd818fb595e9468ab3655bb3bfdeb6c9) ${\sf\small\color{DeepSkyBlue} macOS}$<p>Toggle “Show Desktop” (Trackpad › More Gestures)<p><sup>***Note:** The toggle won’t reflect the changed state until System Settings is restarted*</sup><br><sub>**Parameters**<br>Turn Off • Turn On • Toggle</sub>
 
 <br>
 <br>
