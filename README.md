@@ -30,7 +30,7 @@ __Usage__
 <br>
 > __iOS Settings__
 ###
-[Wi-Fi › Power State](https://www.icloud.com/shortcuts/0eede8df51c14ffeaed1cf23d0efb7b6) ${\sf\small\color{DeepSkyBlue} iOS}$<p>Get the Wi-Fi power state (Wi-Fi)<p><sup>*__Note:__ To extract the value, change the output type [detail](https://support.apple.com/guide/shortcuts/adjust-variables-apda36b9018b/ios)*</sup>
+[Wi-Fi › Power State](https://www.icloud.com/shortcuts/0eede8df51c14ffeaed1cf23d0efb7b6) ${\sf\small\color{DeepSkyBlue} iOS}$<p>Get the Wi-Fi power state (Wi-Fi)<p><sup>***Note:** To extract the value, change the output type [detail](https://support.apple.com/guide/shortcuts/adjust-variables-apda36b9018b/ios)*</sup>
 
 <br>
 
@@ -38,7 +38,7 @@ __Usage__
 
 <br>
 
-[Battery › Low Power Mode State](https://www.icloud.com/shortcuts/4e4831a68bc44d1386398a96bbc0b37d) ${\sf\small\color{DeepSkyBlue} iOS}$<p>Get the Low Power Mode state (Battery)<p><sup>*__Note:__ To extract the value, change the output type [detail](https://support.apple.com/guide/shortcuts/adjust-variables-apda36b9018b/ios)*</sup>
+[Battery › Low Power Mode State](https://www.icloud.com/shortcuts/4e4831a68bc44d1386398a96bbc0b37d) ${\sf\small\color{DeepSkyBlue} iOS}$<p>Get the Low Power Mode state (Battery)<p><sup>***Note:** To extract the value, change the output type [detail](https://support.apple.com/guide/shortcuts/adjust-variables-apda36b9018b/ios)*</sup>
 
 <br>
 
@@ -50,7 +50,7 @@ __Usage__
 
 <br>
 
-[Accessibility › Zoom Filter Type](https://www.icloud.com/shortcuts/ded5de5e0e924cd9a5df2c879c91c4a7) ${\sf\small\color{DeepSkyBlue} iOS}$<p>Change filter type for “Zoom Filter” (Accessibility › Zoom › Zoom Filter)<p><sup>*__Note:__ You need to have Zoom enabled to see any changes*</sup><br><sub>**Parameters**<br>`ZOOM_LENS_EFFECT_NONE` [None] • `ZOOM_LENS_EFFECT_BLACK_AND_WHITE` [Grayscale] • `ZOOM_LENS_EFFECT_BLACK_AND_WHITE_INVERTED` [Grayscale Inverted] • `ZOOM_LENS_EFFECT_HUE_ADJUST` [not present in Settings] • `ZOOM_LENS_EFFECT_LOW_LIGHT` [Low Light]</sub>
+[Accessibility › Zoom Filter Type](https://www.icloud.com/shortcuts/ded5de5e0e924cd9a5df2c879c91c4a7) ${\sf\small\color{DeepSkyBlue} iOS}$<p>Change filter type for “Zoom Filter” (Accessibility › Zoom › Zoom Filter)<p><sup>***Note:** You need to have Zoom enabled to see any changes*</sup><br><sub>**Parameters**<br>`ZOOM_LENS_EFFECT_NONE` [None] • `ZOOM_LENS_EFFECT_BLACK_AND_WHITE` [Grayscale] • `ZOOM_LENS_EFFECT_BLACK_AND_WHITE_INVERTED` [Grayscale Inverted] • `ZOOM_LENS_EFFECT_HUE_ADJUST` [not present in Settings] • `ZOOM_LENS_EFFECT_LOW_LIGHT` [Low Light]</sub>
 
 <br>
 
@@ -70,7 +70,7 @@ __Usage__
 
 <br>
 
-[Accessibility › Color Filter Type](https://www.icloud.com/shortcuts/f203b0c45a8a41a4b16418fd9e94e85a) ${\sf\small\color{DeepSkyBlue} iOS}$<p>Change filter type for “Color Filters” (Accessibility › Display & Text Size › Color Filters)<p><sup>*__Note:__ Automatically also enables Color Filters; no “Color Tint” parameter*</sup><br><sub>**Parameters**<br>`OFF` [Off] • `RED_ADJUST` [Red/Green filter (Protanopia)] • `GREEN_ADJUST` [Green/Red filter (Deuteranopia)] • `BLUE_ADJUST` [Blue/Yellow filter (Tritanopia)] • `GRAYSCALE` [Grayscale]</sub>
+[Accessibility › Color Filter Type](https://www.icloud.com/shortcuts/f203b0c45a8a41a4b16418fd9e94e85a) ${\sf\small\color{DeepSkyBlue} iOS}$<p>Change filter type for “Color Filters” (Accessibility › Display & Text Size › Color Filters)<p><sup>***Note:** Automatically also enables Color Filters; no “Color Tint” parameter*</sup><br><sub>**Parameters**<br>`OFF` [Off] • `RED_ADJUST` [Red/Green filter (Protanopia)] • `GREEN_ADJUST` [Green/Red filter (Deuteranopia)] • `BLUE_ADJUST` [Blue/Yellow filter (Tritanopia)] • `GRAYSCALE` [Grayscale]</sub>
 
 <br>
 
@@ -82,7 +82,7 @@ __Usage__
 
 <br>
 
-[Accessibility › Auto-Brightness](https://www.icloud.com/shortcuts/88b6505076d4414f8acdde41b20ba741) ${\sf\small\color{DeepSkyBlue} iOS}$<p>Toggle “Auto-Brightness” (Accessibility › Display & Text Size)<p><sup>*__Note:__ Only “Turn Off” or ”Turn On” should be used and not “Toggle”, since toggling to “On” currently doesn’t work*</sup><br><sub>**Parameters**<br>Turn Off • Turn On • Toggle</sub>
+[Accessibility › Auto-Brightness](https://www.icloud.com/shortcuts/88b6505076d4414f8acdde41b20ba741) ${\sf\small\color{DeepSkyBlue} iOS}$<p>Toggle “Auto-Brightness” (Accessibility › Display & Text Size)<p><sup>***Note:** Only “Turn Off” or ”Turn On” should be used and not “Toggle”, since toggling to “On” currently doesn’t work*</sup><br><sub>**Parameters**<br>Turn Off • Turn On • Toggle</sub>
 
 <br>
 
@@ -102,19 +102,19 @@ __Usage__
 
 <br>
 
-[Accessibility › Vibration State](https://www.icloud.com/shortcuts/6e674594a17c459bac5d9682dd6e0c48) ${\sf\small\color{DeepSkyBlue} iOS}$<p>Get the Vibration state (Accessibility › Touch)<p><sup>*__Note:__ To extract the value, change the output type [detail](https://support.apple.com/guide/shortcuts/adjust-variables-apda36b9018b/ios)*</sup>
+[Accessibility › Vibration State](https://www.icloud.com/shortcuts/6e674594a17c459bac5d9682dd6e0c48) ${\sf\small\color{DeepSkyBlue} iOS}$<p>Get the Vibration state (Accessibility › Touch)<p><sup>***Note:** To extract the value, change the output type [detail](https://support.apple.com/guide/shortcuts/adjust-variables-apda36b9018b/ios)*</sup>
 
 <br>
 
-[Accessibility › Mono Audio State](https://www.icloud.com/shortcuts/09064156a69244db8746ce50831e3efe) ${\sf\small\color{DeepSkyBlue} iOS}$<p>Get the Mono Audio state (Accessibility › Audio & Visual)<p><sup>*__Note:__ To extract the value, change the output type [detail](https://support.apple.com/guide/shortcuts/adjust-variables-apda36b9018b/ios)*</sup>
+[Accessibility › Mono Audio State](https://www.icloud.com/shortcuts/09064156a69244db8746ce50831e3efe) ${\sf\small\color{DeepSkyBlue} iOS}$<p>Get the Mono Audio state (Accessibility › Audio & Visual)<p><sup>***Note:** To extract the value, change the output type [detail](https://support.apple.com/guide/shortcuts/adjust-variables-apda36b9018b/ios)*</sup>
 
 <br>
 
-[Accessibility › Flash For Alerts In Silent Mode](https://www.icloud.com/shortcuts/e1800c743b92455aab52297e12aaf998) ${\sf\small\color{DeepSkyBlue} iOS}$<p>Toggle “Flash in Silent Mode” (Accessibility › Audio & Visual › Flash for Alerts)<p><sup>*__Note:__ You need to have Flash for Alerts enabled to see any changes*</sup><br><sub>**Parameters**<br>Turn Off • Turn On • Toggle</sub>
+[Accessibility › Flash For Alerts In Silent Mode](https://www.icloud.com/shortcuts/e1800c743b92455aab52297e12aaf998) ${\sf\small\color{DeepSkyBlue} iOS}$<p>Toggle “Flash in Silent Mode” (Accessibility › Audio & Visual › Flash for Alerts)<p><sup>***Note:** You need to have Flash for Alerts enabled to see any changes*</sup><br><sub>**Parameters**<br>Turn Off • Turn On • Toggle</sub>
 
 <br>
 
-[Accessibility › Flash For Alerts While Unlocked](https://www.icloud.com/shortcuts/919ef5ee6ddd42f894408cc416598417) ${\sf\small\color{DeepSkyBlue} iOS}$<p>Toggle “Flash While Unlocked” (Accessibility › Audio & Visual › Flash for Alerts)<p><sup>*__Note:__ You need to have Flash for Alerts enabled to see any changes*</sup><br><sub>**Parameters**<br>Turn Off • Turn On • Toggle</sub>
+[Accessibility › Flash For Alerts While Unlocked](https://www.icloud.com/shortcuts/919ef5ee6ddd42f894408cc416598417) ${\sf\small\color{DeepSkyBlue} iOS}$<p>Toggle “Flash While Unlocked” (Accessibility › Audio & Visual › Flash for Alerts)<p><sup>***Note:** You need to have Flash for Alerts enabled to see any changes*</sup><br><sub>**Parameters**<br>Turn Off • Turn On • Toggle</sub>
 
 <br>
 
@@ -122,11 +122,11 @@ __Usage__
 
 <br>
 
-[Sounds & Haptics › Show Silent Mode In Status Bar](https://www.icloud.com/shortcuts/cb6d50f0fe8d414391cea66e6ef129d8) ${\sf\small\color{DeepSkyBlue} iOS}$<p>Toggle “Show in Status Bar” (Sounds & Haptics › Silent Mode)<p><sup>*__Note:__ Unavailable on devices with a physical silent switch*</sup><br><sub>**Parameters**<br>Turn Off • Turn On • Toggle</sub>
+[Sounds & Haptics › Show Silent Mode In Status Bar](https://www.icloud.com/shortcuts/cb6d50f0fe8d414391cea66e6ef129d8) ${\sf\small\color{DeepSkyBlue} iOS}$<p>Toggle “Show in Status Bar” (Sounds & Haptics › Silent Mode)<p><sup>***Note:** Unavailable on devices with a physical silent switch*</sup><br><sub>**Parameters**<br>Turn Off • Turn On • Toggle</sub>
 
 <br>
 
-[Sounds & Haptics › Silent Mode State](https://www.icloud.com/shortcuts/7588f95ab06e4d81ae18647ae23b7baf) ${\sf\small\color{DeepSkyBlue} iOS}$<p>Get the Silent Mode state (Sounds & Haptics › Silent Mode)<p><sup>*__Note:__ To extract the value, change the output type [detail](https://support.apple.com/guide/shortcuts/adjust-variables-apda36b9018b/ios) – doesn’t work on devices with a physical silent switch*</sup>
+[Sounds & Haptics › Silent Mode State](https://www.icloud.com/shortcuts/7588f95ab06e4d81ae18647ae23b7baf) ${\sf\small\color{DeepSkyBlue} iOS}$<p>Get the Silent Mode state (Sounds & Haptics › Silent Mode)<p><sup>***Note:** To extract the value, change the output type [detail](https://support.apple.com/guide/shortcuts/adjust-variables-apda36b9018b/ios) – doesn’t work on devices with a physical silent switch*</sup>
 
 <br>
 
@@ -169,7 +169,7 @@ __Usage__
 
 <br>
 
-[Accessibility › Color Filters › Filter Type](https://www.icloud.com/shortcuts/f982e3422d7142279168767fd4d6c6b8) ${\sf\small\color{DeepSkyBlue} macOS}$<p>Change “Filter type” (Accessibility › Display › Color Filters)<p><sup>*__Note:__ You need to have Color Filters enabled to see any changes*</sup><br><sub>**Parameters**<br>Grayscale • Red/Green filter (Protanopia) • Green/Red filter (Deuteranopia) • Blue/Yellow filter (Tritanopia) • Color Tint</sub>
+[Accessibility › Color Filters › Filter Type](https://www.icloud.com/shortcuts/f982e3422d7142279168767fd4d6c6b8) ${\sf\small\color{DeepSkyBlue} macOS}$<p>Change “Filter type” (Accessibility › Display › Color Filters)<p><sup>***Note:** You need to have Color Filters enabled to see any changes*</sup><br><sub>**Parameters**<br>Grayscale • Red/Green filter (Protanopia) • Green/Red filter (Deuteranopia) • Blue/Yellow filter (Tritanopia) • Color Tint</sub>
 
 <br>
 
@@ -177,7 +177,7 @@ __Usage__
 
 <br>
 
-[Accessibility › Mono Audio State]() ${\sf\small\color{DeepSkyBlue} macOS}$<p>Get the state of “Play stereo audio as mono” (Accessibility › Audio)<p><sup>*__Note:__ To extract the value, change the output type [detail](https://support.apple.com/guide/shortcuts-mac/adjust-variables-apda36b9018b/mac)*</sub>
+[Accessibility › Mono Audio State]() ${\sf\small\color{DeepSkyBlue} macOS}$<p>Get the state of “Play stereo audio as mono” (Accessibility › Audio)<p><sup>***Note:** To extract the value, change the output type [detail](https://support.apple.com/guide/shortcuts-mac/adjust-variables-apda36b9018b/mac)*</sub>
 
 <br>
 
@@ -185,7 +185,7 @@ __Usage__
 
 <br>
 
-[Accessibility › Spatial Audio Follows Head Movements](https://www.icloud.com/shortcuts/e0b343a71b00497eb665e8dc250b84d0) ${\sf\small\color{DeepSkyBlue} macOS}$<p>Toggle “Spatial audio follows head movements” (Accessibility › Audio)<p><sup>*__Note:__ The toggle won't reflect the changed state until System Settings is restarted*</sup><br><sub>**Parameters**<br>Turn Off • Turn On • Toggle</sub>
+[Accessibility › Spatial Audio Follows Head Movements](https://www.icloud.com/shortcuts/e0b343a71b00497eb665e8dc250b84d0) ${\sf\small\color{DeepSkyBlue} macOS}$<p>Toggle “Spatial audio follows head movements” (Accessibility › Audio)<p><sup>***Note:** The toggle won't reflect the changed state until System Settings is restarted*</sup><br><sub>**Parameters**<br>Turn Off • Turn On • Toggle</sub>
 
 <br>
 
@@ -225,7 +225,7 @@ __Usage__
 
 <br>
 
-[Displays › Automatically Adjust Brightness](https://www.icloud.com/shortcuts/142abd3279bf4c26b5caa18c4f43341b) ${\sf\small\color{DeepSkyBlue} macOS}$<p>Toggle “Automatically adjust brightness” (Displays)<p><sup>*__Note:__ The toggle won’t reflect the changed state until System Settings is restarted*</sup><br><sub>**Parameters**<br>Turn Off • Turn On • Toggle</sub>
+[Displays › Automatically Adjust Brightness](https://www.icloud.com/shortcuts/142abd3279bf4c26b5caa18c4f43341b) ${\sf\small\color{DeepSkyBlue} macOS}$<p>Toggle “Automatically adjust brightness” (Displays)<p><sup>***Note:** The toggle won’t reflect the changed state until System Settings is restarted*</sup><br><sub>**Parameters**<br>Turn Off • Turn On • Toggle</sub>
 
 <br>
 
@@ -281,7 +281,7 @@ __Usage__
 
 <br>
 
-[Trackpad › Look Up & Data Detectors](https://www.icloud.com/shortcuts/32c3f02492c74f13a11a7df765e2132e) ${\sf\small\color{DeepSkyBlue} macOS}$<p>Change “Look up & data detectors” (Trackpad › Point & Click)<p><sup>*__Note:__ Wrongly called “Force Click and haptic feedback” in the action*</sup><br><sub>**Parameters**<br>Off • Force Click with One Finger • Tap with Three Fingers</sub>
+[Trackpad › Look Up & Data Detectors](https://www.icloud.com/shortcuts/32c3f02492c74f13a11a7df765e2132e) ${\sf\small\color{DeepSkyBlue} macOS}$<p>Change “Look up & data detectors” (Trackpad › Point & Click)<p><sup>***Note:** Wrongly called “Force Click and haptic feedback” in the action*</sup><br><sub>**Parameters**<br>Off • Force Click with One Finger • Tap with Three Fingers</sub>
 
 <br>
 
@@ -313,7 +313,7 @@ __Usage__
 
 <br>
 
-[Trackpad › Swipe Between Full-Screen Applications](https://www.icloud.com/shortcuts/3ec27345793e4a708a443aabee9434e1) ${\sf\small\color{DeepSkyBlue} macOS}$<p>Change “Swipe between full-screen applications” (Trackpad › More Gestures)<p><sup>*__Note:__ Wrongly called “Swipe between pages” in the action*</sup><br><sub>**Parameters**<br>Off • Swipe Left or Right with Three Fingers • Swipe Left or Right with Four Fingers</sub>
+[Trackpad › Swipe Between Full-Screen Applications](https://www.icloud.com/shortcuts/3ec27345793e4a708a443aabee9434e1) ${\sf\small\color{DeepSkyBlue} macOS}$<p>Change “Swipe between full-screen applications” (Trackpad › More Gestures)<p><sup>***Note:** Wrongly called “Swipe between pages” in the action*</sup><br><sub>**Parameters**<br>Off • Swipe Left or Right with Three Fingers • Swipe Left or Right with Four Fingers</sub>
 
 <br>
 
@@ -329,7 +329,7 @@ __Usage__
 
 <br>
 
-[Trackpad › Show Desktop Gesture](https://www.icloud.com/shortcuts/bd818fb595e9468ab3655bb3bfdeb6c9) ${\sf\small\color{DeepSkyBlue} macOS}$<p>Toggle “Show Desktop” (Trackpad › More Gestures)<p><sup>**Parameters**<br>Turn Off • Turn On • Toggle</sup><p><sup>*__Note:__ The toggle won’t reflect the changed state until System Settings is restarted*</sup>
+[Trackpad › Show Desktop Gesture](https://www.icloud.com/shortcuts/bd818fb595e9468ab3655bb3bfdeb6c9) ${\sf\small\color{DeepSkyBlue} macOS}$<p>Toggle “Show Desktop” (Trackpad › More Gestures)<p><sup>**Parameters**<br>Turn Off • Turn On • Toggle</sup><p><sup>***Note:** The toggle won’t reflect the changed state until System Settings is restarted*</sup>
 
 <br>
 <br>
@@ -368,6 +368,10 @@ __Usage__
 
 <br>
 
+[Open URL In Tab](https://www.icloud.com/shortcuts/0302c5de725d457ba058d953a9ccc2f3)<p>Switches to Safari and opens the given URL in a specific tab<p><sup>**Parameters**<br>URL • Tab</sup>
+
+<br>
+
 [Create New Tab](https://www.icloud.com/shortcuts/65a7ba0a4cb54084a46744c4948407b3) ${\sf\small\color{DeepSkyBlue} macOS;\ already\ present\ on\ iOS}$<p>Switches to Safari and creates a new blank tab, in the nameless non-private “Default” tab group on iOS, but in the current tab group on macOS
 
 <br>
@@ -392,11 +396,23 @@ __Usage__
 
 <br>
 
-[Close Tab](https://www.icloud.com/shortcuts/8b07de524c214f859a32366905b9cc32) ${\sf\small\color{DeepSkyBlue} macOS;\ already\ present\ on\ iOS}$<p>Switches to Safari and closes a specific tab<p><sup>**Parameters**<br>Tab</sup>
+[Move Tabs To Tab Group](https://www.icloud.com/shortcuts/7c7b07422a434d799679cce8a8b492a8)<p>Switches to Safari and moves the given tabs to a specific tab group<p><sup>**Parameters**<br>Tabs</sup>
 
 <br>
 
-[Open Tab Group](https://www.icloud.com/shortcuts/a03c00999a574a8a9c0a78b92aa6282f) ${\sf\small\color{DeepSkyBlue} macOS;\ already\ present\ on\ iOS}$<p>Switches to Safari and opens a specific tab group<p><sup>*__Note:__ Use the “Open View” action instead to open the “Private” tab group, or the most recent Private Browsing window on macOS*</sup><br><sub>**Parameters**<br>Tab Group</sub>
+[Move Tabs To Window](https://www.icloud.com/shortcuts/162e80c524a84ebd8adc1365b3c9dd4a) ${\sf\small\color{DeepSkyBlue} macOS}$<p>Switches to Safari and moves the given tabs to a specific window<p><sup>**Parameters**<br>Tabs</sup>
+
+<br>
+
+[Close Single Tab](https://www.icloud.com/shortcuts/8b07de524c214f859a32366905b9cc32) ${\sf\small\color{DeepSkyBlue} macOS;\ already\ present\ on\ iOS}$<p>Switches to Safari and closes a specific tab<p><sup>**Parameters**<br>Tab</sup>
+
+<br>
+
+[Close Multiple Tabs](https://www.icloud.com/shortcuts/a150244c0a864097882469d78fdf5087)<p>Switches to Safari and closes the specified tabs<p><sup>**Parameters**<br>Tabs</sup>
+
+<br>
+
+[Open Tab Group](https://www.icloud.com/shortcuts/a03c00999a574a8a9c0a78b92aa6282f) ${\sf\small\color{DeepSkyBlue} macOS;\ already\ present\ on\ iOS}$<p>Switches to Safari and opens a specific tab group<p><sup>***Note:** Use the “Open View” action instead to open the “Private” tab group, or the most recent Private Browsing window on macOS*</sup><br><sub>**Parameters**<br>Tab Group</sub>
 
 <br>
 
