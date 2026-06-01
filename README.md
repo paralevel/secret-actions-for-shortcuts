@@ -340,7 +340,7 @@ __Usage__
 
 <br>
 
-[Open View](https://www.icloud.com/shortcuts/3d900f08e71e46da92513ef276025e09) ${\sf\small\color{DeepSkyBlue} macOS;\ already\ present\ on\ iOS}$<p>Switches to Safari and opens a specific feature<p><sup>**Parameters**<br>Bookmarks • History • Reading List • Start Page • Tab Overview • Default Tab Group • Private Tab Group [macOS: the most recent “Private” window] • Sidebar • Shared with You</sup>
+[Open View](https://www.icloud.com/shortcuts/3d900f08e71e46da92513ef276025e09) ${\sf\small\color{DeepSkyBlue} macOS;\ already\ present\ on\ iOS}$<p>Switches to Safari and opens a specific feature<p><sup>**Parameters**<br>Bookmarks • History • Reading List • Start Page • Tab Overview • Default Tab Group • Private Tab Group [macOS: the most recent Private Browsing window] • Sidebar • Shared with You</sup>
 
 <br>
 
@@ -396,7 +396,7 @@ __Usage__
 
 <br>
 
-[Open Tab Group](https://www.icloud.com/shortcuts/a03c00999a574a8a9c0a78b92aa6282f) ${\sf\small\color{DeepSkyBlue} macOS;\ already\ present\ on\ iOS}$<p>Switches to Safari and opens a specific tab group<p><sup>*__Note:__ Use the “Open View” action instead to open the “Private” tab group, or the most recent “Private” window on macOS*</sup><br><sub>**Parameters**<br>Tab Group</sub>
+[Open Tab Group](https://www.icloud.com/shortcuts/a03c00999a574a8a9c0a78b92aa6282f) ${\sf\small\color{DeepSkyBlue} macOS;\ already\ present\ on\ iOS}$<p>Switches to Safari and opens a specific tab group<p><sup>*__Note:__ Use the “Open View” action instead to open the “Private” tab group, or the most recent Private Browsing window on macOS*</sup><br><sub>**Parameters**<br>Tab Group</sub>
 
 <br>
 
