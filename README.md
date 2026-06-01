@@ -384,11 +384,11 @@ __Usage__
 
 <br>
 
-[Find Tabs](https://www.icloud.com/shortcuts/ce0ec1db3e7a4d60928af67ad6e21f2c) ${\sf\small\color{DeepSkyBlue} macOS;\ already\ present\ on\ iOS}$<p>Finds Safari tabs – doesn’t work in the “Private” Tab Group<p><sup>**Parameters**<br>Tab</sup><br><sub>**Options**<br>Add Filter • Sort by • Limit</sub>
+[Find Tabs](https://www.icloud.com/shortcuts/ce0ec1db3e7a4d60928af67ad6e21f2c) ${\sf\small\color{DeepSkyBlue} macOS;\ already\ present\ on\ iOS}$<p>Finds tabs<p><sup>***Note:** Currently broken for “Private” tabs*</sup><br><sub>**Parameters**<br>Tab</sub><p><sup>**Options**<br>Add Filter • Sort by • Limit</sup>
 
 <br>
 
-[Search Tabs](https://www.icloud.com/shortcuts/33017293f6c04ec798cd73f1dca2a16f)<p>Switches to Safari and searches for tabs in the current tab group’s Tab Overview<p><sup>**Parameters**<br>Keyword</sup>
+[Search Tabs](https://www.icloud.com/shortcuts/33017293f6c04ec798cd73f1dca2a16f)<p>Switches to Safari and searches for tabs in the Tab Overview for the current tab group/window<p><sup>**Parameters**<br>Keyword</sup>
 
 <br>
 
