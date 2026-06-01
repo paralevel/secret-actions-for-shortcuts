@@ -368,7 +368,7 @@ __Usage__
 
 <br>
 
-[Open URL/Create Tab in Current Tab Group](https://www.icloud.com/shortcuts/781a72027b634c8c8963b6aad2a38dd6)<p>Switches to Safari and opens an optional URL or a blank tab, in the current tab group<p><sup>**Parameters**<br>URL</sup><br><sub>**Options**<br>Private Browsing</sub>
+[Open URL/Create Tab in Current Tab Group](https://www.icloud.com/shortcuts/781a72027b634c8c8963b6aad2a38dd6)<p>Switches to Safari and creates a new tab in the current tab group and optionally opens a specific URL<p><sup>**Parameters**<br>URL</sup><br><sub>**Options**<br>Private Browsing</sub>
 
 <br>
 
@@ -400,7 +400,7 @@ __Usage__
 
 <br>
 
-[Create Tab Group](https://www.icloud.com/shortcuts/45a42efecf8f4c03b6de081e6a7667b8) ${\sf\small\color{DeepSkyBlue} macOS;\ already\ present\ on\ iOS}$<p>Switches to Safari and creates a new tab group with the given name (“Untitled” if no name is given)<p><sup>**Options**<br>Tab Group Name</sup>
+[Create Tab Group](https://www.icloud.com/shortcuts/45a42efecf8f4c03b6de081e6a7667b8) ${\sf\small\color{DeepSkyBlue} macOS;\ already\ present\ on\ iOS}$<p>Switches to Safari and creates a new tab group with the given name<p><sup>**Options**<br>Tab Group Name</sup>
 
 <br>
 
