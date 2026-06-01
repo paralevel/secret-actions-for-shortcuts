@@ -368,7 +368,7 @@ __Usage__
 
 <br>
 
-[Create New Tab](https://www.icloud.com/shortcuts/65a7ba0a4cb54084a46744c4948407b3) ${\sf\small\color{DeepSkyBlue} macOS;\ already\ present\ on\ iOS}$<p>Switches to Safari and creates a new blank tab, in the unnamed non-private “Default” tab group on iOS, but in the current tab group on macOS
+[Create New Tab](https://www.icloud.com/shortcuts/65a7ba0a4cb54084a46744c4948407b3) ${\sf\small\color{DeepSkyBlue} macOS;\ already\ present\ on\ iOS}$<p>Switches to Safari and creates a new blank tab, in the nameless non-private “Default” tab group on iOS, but in the current tab group on macOS
 
 <br>
 
