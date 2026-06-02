@@ -4,7 +4,7 @@ Start by looking for action identifiers in system files (using e.g. the strings 
 
 You can find examples of action IDs by copying some random action in Shortcuts app and then run the following shortcut that converts the action in the clipboard to source: https://www.icloud.com/shortcuts/65d36be39c5a49cc8121e4ea652b606e
 
-When you’ve found or guessed a potential action ID you want to test, insert it between the ‘string’ tags in the following template plist:
+When you’ve found or guessed a potentially valid action ID that you want to test, insert it between the ‘string’ tags in the following template plist:
 ~~~xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
