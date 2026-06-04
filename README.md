@@ -24,7 +24,7 @@ __Usage__
 
 <br>
 
-<sup>*Disclaimer: This collection is built on a shortcut I published [October 1, 2025](https://github.com/paralevel/secret-actions-for-shortcuts/blob/4ef59fd3fc4b8bce28cfeb4a67e8d3c5d5f1b8ce/src/Secret%20Actions.unsigned.shortcut) (last updated [signed release](https://www.icloud.com/shortcuts/fa750e73f3df47c3a0483d050effb015)), and consists only of actions I have [reverse engineered](https://github.com/paralevel/secret-actions-for-shortcuts/blob/main/reverse-engineer-actions.md) using data extracted from local system files*</sup>
+<sup>*Disclaimer: This is a collection that’s based on a shortcut I published [October 1, 2025](https://github.com/paralevel/secret-actions-for-shortcuts/blob/4ef59fd3fc4b8bce28cfeb4a67e8d3c5d5f1b8ce/src/Secret%20Actions.unsigned.shortcut) (last updated [signed release](https://www.icloud.com/shortcuts/fa750e73f3df47c3a0483d050effb015)), and consists only of actions I’ve managed to [reverse engineer](https://github.com/paralevel/secret-actions-for-shortcuts/blob/main/reverse-engineer-actions.md) using data extracted from local system files*</sup>
 <br>
 <br>
 <br>
@@ -388,11 +388,19 @@ __Usage__
 
 <br>
 
+[Find Windows](https://www.icloud.com/shortcuts/3ddc55fe9b3c41858ab4694d0cd7f3cd) ${\sf\small\color{DeepSkyBlue} macOS}$<p><sup>***Note:** Currently broken for “Private” windows*</sup><br><sub>**Parameters**<br>Tab</sub><p><sup>**Options**<br>Add Filter • Sort by • Limit</sup>
+
+<br>
+
 [Search Tabs](https://www.icloud.com/shortcuts/33017293f6c04ec798cd73f1dca2a16f)<p>Switches to Safari and searches for tabs in the Tab Overview for the current tab group/window<p><sup>**Parameters**<br>Keyword</sup>
 
 <br>
 
 [Switch Tab](https://www.icloud.com/shortcuts/79960341e47a40c7a7246bc2a0f45280) ${\sf\small\color{DeepSkyBlue} macOS;\ already\ present\ on\ iOS}$<p>Switches to Safari and opens a specific tab<p><sup>**Parameters**<br>Tab</sup>
+
+<br>
+
+[Show Window](https://www.icloud.com/shortcuts/600dc054d567476cbc4b969c9b6d2c90) ${\sf\small\color{DeepSkyBlue} macOS}$<p>Switches to Safari and opens a specific window<p><sup>**Parameters**<br>Window</sup>
 
 <br>
 
@@ -409,6 +417,10 @@ __Usage__
 <br>
 
 [Close Multiple Tabs](https://www.icloud.com/shortcuts/a150244c0a864097882469d78fdf5087)<p>Switches to Safari and closes the specified tabs<p><sup>**Parameters**<br>Tabs</sup>
+
+<br>
+
+[Close Windows](https://www.icloud.com/shortcuts/f239b3b95f26463a90ef6d8f97a44245) ${\sf\small\color{DeepSkyBlue} macOS}$<p>Switches to Safari and closes the specified windows<p><sup>**Parameters**<br>Windows</sup>
 
 <br>
 
