@@ -356,7 +356,7 @@ __Usage__
 
 <br>
 
-[Find Bookmarks](https://www.icloud.com/shortcuts/f1bac8b295be482bbca14f6be591ff84) ${\sf\small\color{DeepSkyBlue} macOS;\ already\ present\ on\ iOS}$<p>Finds Safari bookmarks<p><sup>**Options**<br>Add Filter • Sort by • Limit</sup><br>
+[Find Bookmarks](https://www.icloud.com/shortcuts/f1bac8b295be482bbca14f6be591ff84) ${\sf\small\color{DeepSkyBlue} macOS;\ already\ present\ on\ iOS}$<p>Find and optionally filter bookmarks<p><sup>**Options**<br>Add Filter • Sort by • Limit</sup><br>
 
 <br>
 
@@ -384,11 +384,11 @@ __Usage__
 
 <br>
 
-[Find Tabs](https://www.icloud.com/shortcuts/ce0ec1db3e7a4d60928af67ad6e21f2c) ${\sf\small\color{DeepSkyBlue} macOS;\ already\ present\ on\ iOS}$<p>Finds tabs<p><sup>***Note:** Currently broken for “Private” tabs*</sup><br><sub>**Parameters**<br>Tab</sub><p><sup>**Options**<br>Add Filter • Sort by • Limit</sup>
+[Find Tabs](https://www.icloud.com/shortcuts/ce0ec1db3e7a4d60928af67ad6e21f2c) ${\sf\small\color{DeepSkyBlue} macOS;\ already\ present\ on\ iOS}$<p>Find and optionally filter tabs<p><sup>***Note:** Currently broken for “Private” tabs*</sup><br><sub>**Parameters**<br>Tab</sub><p><sup>**Options**<br>Add Filter • Sort by • Limit</sup>
 
 <br>
 
-[Find Windows](https://www.icloud.com/shortcuts/3ddc55fe9b3c41858ab4694d0cd7f3cd) ${\sf\small\color{DeepSkyBlue} macOS}$<p><sup>***Note:** Currently broken for “Private” windows*</sup><br><sub>**Parameters**<br>Tab</sub><p><sup>**Options**<br>Add Filter • Sort by • Limit</sup>
+[Find Windows](https://www.icloud.com/shortcuts/3ddc55fe9b3c41858ab4694d0cd7f3cd) ${\sf\small\color{DeepSkyBlue} macOS}$<p>Find and optionally filter windows<p><sup>***Note:** Currently broken for “Private” windows*</sup><br><sub>**Parameters**<br>Window</sub><p><sup>**Options**<br>Add Filter • Sort by • Limit</sup>
 
 <br>
 
