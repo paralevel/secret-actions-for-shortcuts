@@ -253,11 +253,11 @@ __Usage__
 
 <br>
 
-[Menu Bar › Show Battery Percentage](https://www.icloud.com/shortcuts/25fbc990cd244b5ebdf9bbee14bab7af) ${\sf\small\color{DeepSkyBlue} macOS}$<p>Toggle “Show Percentage” (Menu Bar › Menu Bar Comtrols › Battery › Options)<p><sup>**Parameters**<br>Off • On • Toggle</sup>
+[Menu Bar › Show Battery Percentage](https://www.icloud.com/shortcuts/25fbc990cd244b5ebdf9bbee14bab7af) ${\sf\small\color{DeepSkyBlue} macOS}$<p>Toggle “Show Percentage” (Menu Bar › Menu Bar Controls › Battery › Options)<p><sup>**Parameters**<br>Off • On • Toggle</sup>
 
 <br>
 
-[Menu Bar › Fast User Switching](https://www.icloud.com/shortcuts/7f8b7313b3be4f34bf8683bbaa865c2f) ${\sf\small\color{DeepSkyBlue} macOS}$<p>Change “Fast User Switching” (Menu Bar › Menu Bar Comtrols)<p><sup>**Parameters**<br>Full Name • Account Name • Icon</sup>
+[Menu Bar › Fast User Switching](https://www.icloud.com/shortcuts/7f8b7313b3be4f34bf8683bbaa865c2f) ${\sf\small\color{DeepSkyBlue} macOS}$<p>Change “Fast User Switching” (Menu Bar › Menu Bar Controls)<p><sup>**Parameters**<br>Full Name • Account Name • Icon</sup>
 
 <br>
 
@@ -416,7 +416,7 @@ __Usage__
 
 <br>
 
-[Show Window](https://www.icloud.com/shortcuts/600dc054d567476cbc4b969c9b6d2c90) ${\sf\small\color{DeepSkyBlue} macOS}$<p>Switches to Safari and opens a specific window<p><sup>**Parameters**<br>Window</sup>
+[Show Window](https://www.icloud.com/shortcuts/600dc054d567476cbc4b969c9b6d2c90) ${\sf\small\color{DeepSkyBlue} macOS}$<p>Switches to Safari and brings a specific window to the foreground<p><sup>**Parameters**<br>Window</sup>
 
 <br>
 
@@ -467,7 +467,7 @@ __Usage__
 
 <br>
 
-[Lock App](https://www.icloud.com/shortcuts/7fa46ae5058c4d069928c7e06596b3b3) ${\sf\small\color{DeepSkyBlue} iOS}$<p>Changes whether the selected application is locked. Locked apps require authentication to access.<p><sup>**Parameters**<br>Lock • Unlock • Toggle</sup>
+[Lock App](https://www.icloud.com/shortcuts/7fa46ae5058c4d069928c7e06596b3b3) ${\sf\small\color{DeepSkyBlue} iOS}$<p>Set the Lock state of a specific app<p><sup>**Parameters**<br>Lock • Unlock • Toggle • App</sup>
 
 <br>
 
@@ -495,15 +495,15 @@ __Usage__
 
 <br>
 
-[Family Member Details](https://www.icloud.com/shortcuts/6a578a3c9e054f8d8d4d2afcf5fc79cf)<p>Open the details page for a specific member in (System) Settings › Family
+[Family Member Details](https://www.icloud.com/shortcuts/6a578a3c9e054f8d8d4d2afcf5fc79cf)<p>Open the details page for a specific member in (System) Settings › Family<p><sup>**Parameters**<br>FamilyMemberDetailsDeepLink</sup>
 
 <br>
 
-[Get Details of Shazam](https://www.icloud.com/shortcuts/a78bed33f41047f9ae4010cb4e73f43b)<p>Gets a specific piece of information from the Shazam media passed into the action<p><sup>**Parameters**<br>Apple Music ID • Artist • Title • Is Explicit • Lyrics Snippet • Lyrics Snippet Synced • Artwork • Video URL • Shazam URL • Apple Music URL • Name</sup>
+[Get Details of Shazam](https://www.icloud.com/shortcuts/a78bed33f41047f9ae4010cb4e73f43b)<p>Gets a specific piece of information from the Shazam media passed into the action<p><sup>**Parameters**<br>Apple Music ID • Artist • Title • Is Explicit • Lyrics Snippet • Lyrics Snippet Synced • Artwork • Video URL • Shazam URL • Apple Music URL • Name • Shazam media</sup>
 
 <br>
 
-[Get Details of Ride Status](https://www.icloud.com/shortcuts/39d199f8ed834574be0cfa7a93ca0c1e)<p>Gets a specific piece of information from the ride statuses passed into the action<p><sup>**Parameters**<br>Vehicle Information • Drop Off Time • Pickup Time • Pickup Location • Drop Off Location • Minimum Price • Maximum Price • Ride Option Name • Driver • Name</sup>
+[Get Details of Ride Status](https://www.icloud.com/shortcuts/39d199f8ed834574be0cfa7a93ca0c1e)<p>Gets a specific piece of information from the ride statuses passed into the action<p><sup>**Parameters**<br>Vehicle Information • Drop Off Time • Pickup Time • Pickup Location • Drop Off Location • Minimum Price • Maximum Price • Ride Option Name • Driver • Name • Ride Status</sup>
 
 <br>
 
