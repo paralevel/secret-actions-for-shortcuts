@@ -24,7 +24,7 @@ __Usage__
 
 <br>
 
-<sup>*Disclaimer: This is a collection that’s based on a shortcut I published [October 1, 2025](https://github.com/paralevel/secret-actions-for-shortcuts/blob/4ef59fd3fc4b8bce28cfeb4a67e8d3c5d5f1b8ce/src/Secret%20Actions.unsigned.shortcut) (last updated [signed release](https://www.icloud.com/shortcuts/fa750e73f3df47c3a0483d050effb015)), and consists only of actions I’ve managed to [reverse engineer](https://github.com/paralevel/secret-actions-for-shortcuts/blob/main/reverse-engineer-actions.md) using data extracted from local system files*</sup>
+<sup>*Disclaimer: This collection is based on a shortcut I published [October 1, 2025](https://github.com/paralevel/secret-actions-for-shortcuts/blob/4ef59fd3fc4b8bce28cfeb4a67e8d3c5d5f1b8ce/src/Secret%20Actions.unsigned.shortcut) (last updated [signed release](https://www.icloud.com/shortcuts/fa750e73f3df47c3a0483d050effb015)), and consists only of actions I’ve managed to [reverse engineer](https://github.com/paralevel/secret-actions-for-shortcuts/blob/main/reverse-engineer-actions.md) using data extracted from local system files*</sup>
 <br>
 <br>
 <br>
@@ -229,6 +229,18 @@ __Usage__
 
 <br>
 
+[Displays › Allow Your Pointer And Keyboard To Move Between Any Nearby Mac Or iPad](https://www.icloud.com/shortcuts/80ad55a378d24622a458a85d871476d2) ${\sf\small\color{DeepSkyBlue} macOS}$<p>Toggle “Allow your pointer and keyboard to move between any nearby Mac or iPad” (Displays › Advanced)<p><sup>**Parameters**<br>Turn Off • Turn On • Toggle</sup>
+
+<br>
+
+[Displays › Push Through The Edge Of A Display To Connect A Nearby Mac Or iPad](https://www.icloud.com/shortcuts/0f3d346dcc844ed6af5b21b8cc669e91) ${\sf\small\color{DeepSkyBlue} macOS}$<p>Toggle “Push through the edge of a display to connect a nearby Mac or iPad” (Displays › Advanced)<p><sup>**Parameters**<br>Turn Off • Turn On • Toggle</sup>
+
+<br>
+
+[Displays › Automatically Reconnect To Any Nearby Mac or iPad](https://www.icloud.com/shortcuts/e11240a08264430f90103d56ba679497) ${\sf\small\color{DeepSkyBlue} macOS}$<p>Toggle “Automatically reconnect to any nearby Mac or iPad” (Displays › Advanced)<p><sup>***Note:** The toggle won’t reflect the changed state until System Settings is restarted*</sup><br><sub>**Parameters**<br>Turn Off • Turn On • Toggle</sub>
+
+<br>
+
 [Menu Bar › Automatically Hide And Show The Menu Bar](https://www.icloud.com/shortcuts/16c6bfc7fcb14ef889a0a73c71423816) ${\sf\small\color{DeepSkyBlue} macOS}$<p>Change “Automatically hide and show the menu bar” (Menu Bar)<p><sup>**Parameters**<br>Always • On Desktop Only • In Full Screen Only • Never</sup>
 
 <br>
@@ -246,6 +258,10 @@ __Usage__
 <br>
 
 [Menu Bar › Fast User Switching](https://www.icloud.com/shortcuts/7f8b7313b3be4f34bf8683bbaa865c2f) ${\sf\small\color{DeepSkyBlue} macOS}$<p>Change “Fast User Switching” (Menu Bar › Menu Bar Comtrols)<p><sup>**Parameters**<br>Full Name • Account Name • Icon</sup>
+
+<br>
+
+[Wallpaper › Show On All Spaces](https://www.icloud.com/shortcuts/ccadfa59b2f64ab19b8c2941fb35fbee) ${\sf\small\color{DeepSkyBlue} macOS}$<p>Toggle “Show on all Spaces” (Wallpapers)<p><sup>**Parameters**<br>Off • On • Toggle</sup>
 
 <br>
 
@@ -464,6 +480,10 @@ __Usage__
 <br>
 
 [Show Desktop](https://www.icloud.com/shortcuts/21af2ce93344418f8b3345a4509a7ffe) ${\sf\small\color{DeepSkyBlue} macOS}$<p>Show Desktop
+
+<br>
+
+[Skip Wallpaper](https://www.icloud.com/shortcuts/dcc37fc2051845db9b37eeab34a700b4) ${\sf\small\color{DeepSkyBlue} macOS}$<p>Skip to the next wallpaper when shuffle is active
 
 <br>
 
