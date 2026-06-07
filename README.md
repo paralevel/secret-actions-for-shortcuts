@@ -50,7 +50,7 @@ __Usage__
 
 <br>
 
-[Accessibility › Zoom Filter Type](https://www.icloud.com/shortcuts/ded5de5e0e924cd9a5df2c879c91c4a7) ${\sf\small\color{DeepSkyBlue} iOS}$<p>Change filter type for “Zoom Filter” (Accessibility › Zoom › Zoom Filter)<p><sup>***Note:** You need to have Zoom enabled to see any changes*</sup><br><sub>**Parameters**<br>`ZOOM_LENS_EFFECT_NONE` [None] • `ZOOM_LENS_EFFECT_BLACK_AND_WHITE` [Grayscale] • `ZOOM_LENS_EFFECT_BLACK_AND_WHITE_INVERTED` [Grayscale Inverted] • `ZOOM_LENS_EFFECT_HUE_ADJUST` [not present in Settings] • `ZOOM_LENS_EFFECT_LOW_LIGHT` [Low Light]</sub>
+[Accessibility › Zoom Filter Type](https://www.icloud.com/shortcuts/ded5de5e0e924cd9a5df2c879c91c4a7) ${\sf\small\color{DeepSkyBlue} iOS}$<p>Change filter type for “Zoom Filter” (Accessibility › Zoom › Zoom Filter)<p><sup>***Note:** You need to have Zoom enabled to see any changes*</sup><br><sub>**Parameters**<br><samp>ZOOM_LENS_EFFECT_NONE</samp> [None] • <samp>ZOOM_LENS_EFFECT_BLACK_AND_WHITE</samp> [Grayscale] • <samp>ZOOM_LENS_EFFECT_BLACK_AND_WHITE_INVERTED</samp> [Grayscale Inverted] • <samp>ZOOM_LENS_EFFECT_HUE_ADJUST</samp> [not present in Settings] • <samp>ZOOM_LENS_EFFECT_LOW_LIGHT</samp> [Low Light]</sub>
 
 <br>
 
@@ -70,7 +70,7 @@ __Usage__
 
 <br>
 
-[Accessibility › Color Filter Type](https://www.icloud.com/shortcuts/f203b0c45a8a41a4b16418fd9e94e85a) ${\sf\small\color{DeepSkyBlue} iOS}$<p>Change filter type for “Color Filters” (Accessibility › Display & Text Size › Color Filters)<p><sup>***Note:** Automatically also enables Color Filters; no “Color Tint” parameter*</sup><br><sub>**Parameters**<br>`OFF` [Off] • `RED_ADJUST` [Red/Green filter (Protanopia)] • `GREEN_ADJUST` [Green/Red filter (Deuteranopia)] • `BLUE_ADJUST` [Blue/Yellow filter (Tritanopia)] • `GRAYSCALE` [Grayscale]</sub>
+[Accessibility › Color Filter Type](https://www.icloud.com/shortcuts/f203b0c45a8a41a4b16418fd9e94e85a) ${\sf\small\color{DeepSkyBlue} iOS}$<p>Change filter type for “Color Filters” (Accessibility › Display & Text Size › Color Filters)<p><sup>***Note:** Automatically also enables Color Filters; no “Color Tint” parameter*</sup><br><sub>**Parameters**<br><samp>OFF</samp> [Off] • <samp>RED_ADJUST</samp> [Red/Green filter (Protanopia)] • <samp>GREEN_ADJUST</samp> [Green/Red filter (Deuteranopia)] • <samp>BLUE_ADJUST</samp> [Blue/Yellow filter (Tritanopia)] • <samp>GRAYSCALE</samp> [Grayscale]</sub>
 
 <br>
 
@@ -86,7 +86,7 @@ __Usage__
 
 <br>
 
-[Accessibility › Reduce Moition](https://www.icloud.com/shortcuts/5814d24532e043d293ba56bead5a28ac) ${\sf\small\color{DeepSkyBlue} iOS}$<p>Toggle “Reduce Motion” (Accessibility › Motion)<p><sup>**Parameters**<br>Turn Off • Turn On • Toggle</sup>
+[Accessibility › Reduce Motion](https://www.icloud.com/shortcuts/5814d24532e043d293ba56bead5a28ac) ${\sf\small\color{DeepSkyBlue} iOS}$<p>Toggle “Reduce Motion” (Accessibility › Motion)<p><sup>**Parameters**<br>Turn Off • Turn On • Toggle</sup>
 
 <br>
 
@@ -285,7 +285,7 @@ __Usage__
 
 <br>
 
-[Trackpad › Tracking Speed](https://www.icloud.com/shortcuts/ccd1705b6c2a4999aa81a30b1e228eb0) ${\sf\small\color{DeepSkyBlue} macOS}$<p>Change “Tracking speed” (Trackpad › Point & Click)<p><sup>**Parameters**<br>`0.0` • `0.125` • `0.5` • `0.6875` • `0.875` • `1.0` • `1.5` • `2.0` • `2.5` • `3.0`</sup>
+[Trackpad › Tracking Speed](https://www.icloud.com/shortcuts/ccd1705b6c2a4999aa81a30b1e228eb0) ${\sf\small\color{DeepSkyBlue} macOS}$<p>Change “Tracking speed” (Trackpad › Point & Click)<p><sup>**Parameters**<br><samp>0.0</samp> • <samp>0.125</samp> • <samp>0.5</samp> • <samp>0.6875</samp> • <samp>0.875</samp> • <samp>1.0</samp> • <samp>1.5</samp> • <samp>2.0</samp> • <samp>2.5</samp> • <samp>3.0</samp></sup>
 
 <br>
 
